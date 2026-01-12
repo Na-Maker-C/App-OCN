@@ -5,268 +5,326 @@
   <title>Bases légales</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
-    body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; margin:0; background:#f3f4f6; color:#111827; }
-    header { background:#111827; color:#fff; padding:1rem 1.5rem; }
-    header h1 { margin:0; font-size:1.4rem; }
-    main { max-width:960px; margin:1.5rem auto 3rem; padding:0 1rem; }
-    .card { background:#fff; border-radius:1rem; padding:1.5rem; box-shadow:0 10px 25px rgba(15,23,42,.08); margin-bottom:1.5rem; }
-    .card h2 { margin:0 0 1rem; font-size:1.2rem; }
-    label { display:block; font-size:.9rem; font-weight:500; margin-bottom:.25rem; }
-    input, select { width:100%; padding:.5rem .6rem; border-radius:.5rem; border:1px solid #d1d5db; font-size:.95rem; box-sizing:border-box; }
-    input:focus, select:focus { outline:none; border-color:#4f46e5; box-shadow:0 0 0 1px #4f46e5; }
-    .form-row { display:grid; grid-template-columns:1fr; gap:1rem; }
-    @media (min-width:640px){ .form-row{ grid-template-columns:1fr 1fr; } }
-    button { margin-top:1rem; padding:.6rem 1.2rem; border-radius:999px; border:none; background:#4f46e5; color:#fff; font-size:.95rem; font-weight:600; cursor:pointer; }
-    button:hover{ background:#4338ca; }
-    button[disabled]{ opacity:.6; cursor:not-allowed; }
-    .secondary-btn { background:#e5e7eb; color:#111827; }
-    .secondary-btn:hover{ background:#d1d5db; }
-    .pill{ display:inline-flex; align-items:center; padding:.15rem .6rem; border-radius:999px; background:#eef2ff; color:#3730a3; font-size:.8rem; margin-right:.4rem; margin-bottom:.3rem; }
-    table{ width:100%; border-collapse:collapse; margin-top:1rem; font-size:.9rem; }
-    th,td{ padding:.5rem .4rem; border-bottom:1px solid #e5e7eb; vertical-align:top; }
-    th{ text-align:left; font-weight:600; font-size:.8rem; text-transform:uppercase; letter-spacing:.03em; color:#6b7280; }
-    a{ color:#2563eb; text-decoration:none; word-break:break-all; }
-    a:hover{ text-decoration:underline; }
-    .muted{ color:#6b7280; font-size:.85rem; }
-    code{ background:#f3f4f6; padding:.1rem .25rem; border-radius:.25rem; }
+    :root{
+      --bg:#f3f4f6;
+      --card:#ffffff;
+      --text:#111827;
+      --muted:#6b7280;
+      --border:#e5e7eb;
+      --brand:#2563eb;
+      --brand2:#4f46e5;
+      --shadow:0 10px 25px rgba(15,23,42,.08);
+      --radius:16px;
+    }
+    *{ box-sizing:border-box; }
+    body{
+      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+      margin:0; background:var(--bg); color:var(--text);
+    }
+    header{
+      background:#111827; color:#fff; padding:1rem 1.25rem;
+    }
+    header h1{ margin:0; font-size:1.35rem; line-height:1.2; }
+    header p{ margin:.35rem 0 0; color:rgba(255,255,255,.75); font-size:.9rem; }
+    main{ max-width:960px; margin:1.25rem auto 3rem; padding:0 1rem; }
 
-    /* ✅ Conserve les retours à la ligne d'Excel dans la colonne Définition */
-    .def-cell { white-space: pre-line; }
-  
-    /* Layout tweaks */
-    #selection-summary { display:flex; flex-wrap:wrap; gap:.4rem; }
-    .pill { margin: 0; }
+    .card{
+      background:var(--card); border-radius:var(--radius);
+      padding:1.1rem;
+      box-shadow:var(--shadow);
+      margin-bottom:1.25rem;
+      border:1px solid rgba(229,231,235,.35);
+    }
+    .card h2{ margin:0 0 .9rem; font-size:1.15rem; }
 
-    /* 📱 Responsive: table -> "cards" sur mobile */
-    @media (max-width: 640px) {
-      header { padding: .9rem 1rem; }
-      header h1 { font-size: 1.15rem; }
-
-      main { margin: 1rem auto 2rem; padding: 0 .75rem; }
-      .card { padding: 1rem; border-radius: .9rem; }
-
-      .filters { grid-template-columns: 1fr; }
-      .actions { flex-direction: column; gap: .5rem; }
-      .actions button { width: 100%; }
-
-      table { font-size: .95rem; }
-      thead { display: none; }
-
-      table, tbody, tr, td { display: block; width: 100%; }
-      tr {
-        background: #fff;
-        border: 1px solid #e5e7eb;
-        border-radius: .9rem;
-        padding: .75rem .85rem;
-        margin-top: .75rem;
-      }
-
-      td {
-        border: 0;
-        padding: .4rem 0;
-      }
-
-      td::before {
-        content: attr(data-label);
-        display: block;
-        font-weight: 700;
-        font-size: .75rem;
-        letter-spacing: .03em;
-        text-transform: uppercase;
-        color: #6b7280;
-        margin-bottom: .2rem;
-      }
-
-      /* Définition un peu plus mise en avant */
-      td.def-cell strong { font-size: 1rem; display: inline-block; }
-
-      a { word-break: break-word; }
+    .form-row{
+      display:grid; grid-template-columns: 1fr 1fr;
+      gap:.9rem; align-items:end;
+    }
+    label{ display:block; font-size:.9rem; font-weight:600; margin-bottom:.25rem; }
+    input, select{
+      width:100%;
+      padding:.55rem .65rem;
+      border:1px solid #d1d5db;
+      border-radius:.65rem;
+      font-size:1rem;
+      background:#fff;
+    }
+    input:focus, select:focus{
+      outline:none; border-color:var(--brand2);
+      box-shadow:0 0 0 3px rgba(79,70,229,.15);
     }
 
+    .actions{ display:flex; gap:.65rem; margin-top:1rem; flex-wrap:wrap; }
+    button{
+      appearance:none; border:0; cursor:pointer;
+      padding:.6rem .9rem; border-radius:.75rem;
+      font-weight:700; font-size:1rem;
+    }
+    #open-btn{ background:var(--brand2); color:#fff; }
+    #open-btn:disabled{ opacity:.5; cursor:not-allowed; }
+    #back-btn{ background:#111827; color:#fff; }
+
+    .muted{ color:var(--muted); font-size:.92rem; }
+    .pills{ display:flex; flex-wrap:wrap; gap:.4rem; margin:.25rem 0 0; }
+    .pill{
+      display:inline-flex; align-items:center;
+      padding:.2rem .6rem; border-radius:999px;
+      background:#eef2ff; color:#3730a3;
+      font-size:.85rem; font-weight:700;
+    }
+
+    table{ width:100%; border-collapse:collapse; margin-top:1rem; font-size:.95rem; }
+    th, td{ padding:.6rem .55rem; border-bottom:1px solid var(--border); vertical-align:top; }
+    th{
+      text-align:left; font-weight:800; font-size:.75rem;
+      text-transform:uppercase; letter-spacing:.04em; color:var(--muted);
+    }
+    a{ color:var(--brand); text-decoration:none; word-break:break-word; }
+    a:hover{ text-decoration:underline; }
+
+    /* ✅ Conserve les retours à la ligne d'Excel dans la colonne Définition */
+    .def-cell{ white-space:pre-line; }
+
+    .pdf-link{
+      display:inline-flex; align-items:center; gap:.35rem;
+      padding:.35rem .6rem;
+      border:1px solid var(--border);
+      border-radius:.65rem;
+      background:#fff;
+      font-weight:800;
+      text-decoration:none;
+      color:#111827;
+      white-space:nowrap;
+    }
+    .pdf-link:hover{ background:#f9fafb; text-decoration:none; }
+
+    /* 📱 Mobile: table -> cartes */
+    @media (max-width: 640px){
+      header{ padding:.9rem 1rem; }
+      header h1{ font-size:1.15rem; }
+      main{ margin:1rem auto 2rem; padding:0 .75rem; }
+      .card{ padding:1rem; border-radius:.9rem; }
+      .form-row{ grid-template-columns:1fr; gap:.75rem; }
+
+      thead{ display:none; }
+      table, tbody, tr, td{ display:block; width:100%; }
+      tr{
+        background:#fff;
+        border:1px solid var(--border);
+        border-radius:.9rem;
+        padding:.75rem .85rem;
+        margin-top:.75rem;
+      }
+      td{ border:0; padding:.4rem 0; }
+      td::before{
+        content: attr(data-label);
+        display:block;
+        font-weight:900;
+        font-size:.72rem;
+        letter-spacing:.03em;
+        text-transform:uppercase;
+        color:var(--muted);
+        margin-bottom:.2rem;
+      }
+      .pdf-link{ width:fit-content; }
+    }
   </style>
 </head>
 <body>
-<header><h1>Bases légales</h1></header>
+  <header>
+    <h1>Bases légales</h1>
+    <p>Choisis une date et une catégorie, puis ouvre la fiche.</p>
+  </header>
 
-<main>
-  <section id="step1" class="card">
-    <h2>1. Paramètres du véhicule</h2>
-    <p class="muted">Les catégories sont chargées automatiquement depuis <code>regulations_v2.json</code>.</p>
+  <main>
+    <section class="card" id="step1">
+      <h2>Sélection</h2>
+      <form id="entry-form">
+        <div class="form-row">
+          <div>
+            <label for="firstRegDate">Date 1<sup>ère</sup> mise en circulation</label>
+            <input type="date" id="firstRegDate" required />
+          </div>
+          <div>
+            <label for="category">Catégorie</label>
+            <select id="category" required>
+              <option value="">Chargement…</option>
+            </select>
+          </div>
+        </div>
 
-    <form id="entry-form">
-      <div class="form-row">
-        <div>
-          <label for="firstRegDate">Date 1<sup>ère</sup> mise en circulation</label>
-          <input type="date" id="firstRegDate" required />
+        <div class="actions">
+          <button id="open-btn" type="submit" disabled>Ouvrir la fiche</button>
         </div>
+        <p class="muted" style="margin:.75rem 0 0;">
+          Tutoriels PDF : utilise un chemin relatif du type <code>tuto_pdf/Mon_Tuto.pdf</code>.
+        </p>
+      </form>
+    </section>
+
+    <section class="card" id="step2" style="display:none;">
+      <div style="display:flex; align-items:flex-start; justify-content:space-between; gap:1rem; flex-wrap:wrap;">
         <div>
-          <label for="category">Catégorie</label>
-          <select id="category" required>
-            <option value="">Chargement…</option>
-          </select>
+          <h2 style="margin:0 0 .25rem;">Fiche</h2>
+          <div class="pills" id="selection-summary"></div>
         </div>
+        <button id="back-btn" type="button">Retour</button>
       </div>
 
-      <button id="open-btn" type="submit" disabled>Ouvrir la fiche</button>
-      <p id="load-status" class="muted" style="margin-top:.75rem;"></p>
-    </form>
-  </section>
+      <div id="regulations-container"></div>
+    </section>
+  </main>
 
-  <section id="step2" class="card" style="display:none;">
-    <h2>2. Fiche réglementaire</h2>
-    <p class="muted" id="selection-summary"></p>
-    <div id="regulations-container"></div>
-    <button type="button" class="secondary-btn" id="back-btn">← Retour</button>
-  </section>
-</main>
+  <script>
+    const categorySelect = document.getElementById("category");
+    const openBtn = document.getElementById("open-btn");
+    const step1 = document.getElementById("step1");
+    const step2 = document.getElementById("step2");
+    const selectionSummary = document.getElementById("selection-summary");
+    const backBtn = document.getElementById("back-btn");
+    const form = document.getElementById("entry-form");
 
-<script>
-  let allSheets = {};
-  const categorySelect = document.getElementById("category");
-  const openBtn = document.getElementById("open-btn");
-  const loadStatus = document.getElementById("load-status");
-
-  function setStatus(msg){ loadStatus.textContent = msg || ""; }
-
-  function escapeHtml(s){
-    return String(s ?? "")
-      .replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
-      .replaceAll('"',"&quot;").replaceAll("'","&#039;");
-  }
-
-  async function loadAllSheetsAndCategories(){
-    openBtn.disabled = true;
-
-    // Si ouvert en double-clic (file://), fetch est souvent bloqué
-    if (location.protocol === "file:") {
-      categorySelect.innerHTML = `<option value="">Erreur de chargement</option>`;
-      setStatus("Ouvre via GitHub Pages OU en local: python -m http.server 8000 puis http://localhost:8000/");
-      return;
+    function escapeHtml(str){
+      return String(str ?? "")
+        .replaceAll("&","&amp;")
+        .replaceAll("<","&lt;")
+        .replaceAll(">","&gt;")
+        .replaceAll('"',"&quot;")
+        .replaceAll("'","&#039;");
     }
 
-    setStatus("Chargement des catégories…");
-    try {
-      const url = `./regulations_v2.json?v=${Date.now()}`; // anti-cache
-      const res = await fetch(url, { cache: "no-store" });
-      if (!res.ok) throw new Error(`regulations_v2.json introuvable (HTTP ${res.status})`);
+    function normalizeTutoPath(raw){
+      const v = String(raw ?? "").trim();
+      if (!v || v.toLowerCase() === "none" || v === "–") return "";
+      // si on a juste un nom de fichier, on préfixe
+      if (!v.includes("/") && !v.includes("\\") && v.toLowerCase().endsWith(".pdf")) {
+        return "tuto_pdf/" + v;
+      }
+      // normalise les backslashes en /
+      return v.replaceAll("\\", "/");
+    }
 
-      allSheets = await res.json();
-      const keys = Object.keys(allSheets || {}).sort((a,b) => a.localeCompare(b, "fr"));
+    function renderRegulations(data){
+      const container = document.getElementById("regulations-container");
 
-      categorySelect.innerHTML = `<option value="">-- Choisir --</option>`;
-      if (keys.length === 0) {
-        categorySelect.innerHTML = `<option value="">Aucune catégorie</option>`;
-        setStatus("Le fichier regulations_v2.json est vide.");
+      if (!Array.isArray(data) || data.length === 0) {
+        container.innerHTML = "<p class='muted'>Aucune donnée pour cette catégorie.</p>";
         return;
       }
 
-      for (const key of keys) {
-        const opt = document.createElement("option");
-        opt.value = key;
-        opt.textContent = key;
-        categorySelect.appendChild(opt);
-      }
+      let html = `
+        <table>
+          <thead>
+            <tr>
+              <th>Définition</th>
+              <th>CH</th>
+              <th>EU</th>
+              <th>Autres directives</th>
+              <th>Tutoriel</th>
+            </tr>
+          </thead>
+          <tbody>
+      `;
 
-      openBtn.disabled = false;
-      setStatus(`OK : ${keys.length} catégorie(s) chargée(s).`);
-    } catch (err) {
-      categorySelect.innerHTML = `<option value="">Erreur de chargement</option>`;
-      setStatus("Erreur : " + err.message + " — Vérifie que index.html et regulations_v2.json sont au même endroit.");
-    }
-  }
+      for (const row of data) {
+        const def = escapeHtml(row["Déf."] || row["Déf"] || row["Definition"] || row["Définition"] || "");
 
-  function renderRegulations(data){
-    const container = document.getElementById("regulations-container");
-    if (!Array.isArray(data) || data.length === 0) {
-      container.innerHTML = "<p class='muted'>Aucune donnée pour cette catégorie.</p>";
-      return;
-    }
-
-    let html = `
-      <table>
-        <thead>
-          <tr>
-            <th>Définition</th>
-            <th>CH</th>
-            <th>EU</th>
-            <th>Autres directives</th>
-          </tr>
-        </thead>
-        <tbody>
-    `;
-
-    for (const row of data) {
-      const def = escapeHtml(row["Déf."] || "");
-
-      let colCH = escapeHtml(row["CH"] || "–");
-      if (row["Article"] && row["Link"] && String(row["Article"]).toLowerCase() !== "none") {
-        colCH += `<br><a href="${escapeHtml(row["Link"])}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["Article"])}</a>`;
-      }
-
-      let colEU = escapeHtml(row["EU"] || "–");
-      if (row["N°"]) {
-        if (row["Link.1"]) {
-          colEU += `<br><a href="${escapeHtml(row["Link.1"])}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°"])}</a>`;
-        } else {
-          colEU += `<br>${escapeHtml(row["N°"])}`;
+        let colCH = escapeHtml(row["CH"] || "–");
+        if (row["Article"] && row["Link"] && String(row["Article"]).toLowerCase() !== "none") {
+          colCH += `<br><a href="${escapeHtml(row["Link"])}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["Article"])}</a>`;
         }
-      }
 
-      let colAutres = "–";
-      if (row["Directives, autres"]) {
-        colAutres = escapeHtml(row["Directives, autres"]);
-        if (row["N°.1"]) {
-          if (row["Link.2"]) {
-            colAutres += `<br><a href="${escapeHtml(row["Link.2"])}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
+        let colEU = escapeHtml(row["EU"] || "–");
+        if (row["N°"]) {
+          if (row["Link.1"]) {
+            colEU += `<br><a href="${escapeHtml(row["Link.1"])}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°"])}</a>`;
           } else {
-            colAutres += `<br>${escapeHtml(row["N°.1"])}`;
+            colEU += `<br>${escapeHtml(row["N°"])}`;
           }
         }
+
+        let colAutres = "–";
+        if (row["Directives, autres"]) {
+          colAutres = escapeHtml(row["Directives, autres"]);
+          if (row["N°.1"]) {
+            if (row["Link.2"]) {
+              colAutres += `<br><a href="${escapeHtml(row["Link.2"])}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
+            } else {
+              colAutres += `<br>${escapeHtml(row["N°.1"])}`;
+            }
+          }
+        }
+
+        // Tutoriel PDF
+        const tutoCandidate = row["Tutoriel"] ?? row["tuto"] ?? row["Tuto"] ?? row["PDF"] ?? "";
+        const tutoPath = normalizeTutoPath(tutoCandidate);
+        const tutoHtml = tutoPath
+          ? `<a class="pdf-link" href="${escapeHtml(tutoPath)}" target="_blank" rel="noopener noreferrer">📄 PDF</a>`
+          : "–";
+
+        html += `
+          <tr>
+            <td class="def-cell" data-label="Définition"><strong>${def}</strong></td>
+            <td data-label="CH">${colCH}</td>
+            <td data-label="EU">${colEU}</td>
+            <td data-label="Autres directives">${colAutres}</td>
+            <td data-label="Tutoriel">${tutoHtml}</td>
+          </tr>
+        `;
       }
 
-      html += `
-        <tr>
-          <td class="def-cell" data-label="Définition"><strong>${def}</strong></td>
-          <td data-label="CH">${colCH}</td>
-          <td data-label="EU">${colEU}</td>
-          <td data-label="Autres directives">${colAutres}</td>
-        </tr>
-      `;
+      html += "</tbody></table>";
+      container.innerHTML = html;
     }
 
-    html += "</tbody></table>";
-    container.innerHTML = html;
-  }
+    async function init(){
+      try{
+        const res = await fetch("regulations.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("Impossible de charger regulations.json");
+        const all = await res.json();
 
-  const form = document.getElementById("entry-form");
-  const step1 = document.getElementById("step1");
-  const step2 = document.getElementById("step2");
-  const selectionSummary = document.getElementById("selection-summary");
-  const backBtn = document.getElementById("back-btn");
+        const categories = Object.keys(all || {});
+        categorySelect.innerHTML =
+          `<option value="">Sélectionner…</option>` +
+          categories.map(c => `<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join("");
 
-  form.addEventListener("submit", function (e) {
-    e.preventDefault();
-    const date = document.getElementById("firstRegDate").value;
-    const category = categorySelect.value;
+        openBtn.disabled = false;
 
-    selectionSummary.innerHTML = `
-      <span class="pill">Date 1<sup>ère</sup> mise en circ. : ${escapeHtml(date || "-")}</span>
-      <span class="pill">Catégorie : ${escapeHtml(category || "-")}</span>
-    `;
+        form.addEventListener("submit", (e) => {
+          e.preventDefault();
+          const date = document.getElementById("firstRegDate").value;
+          const category = categorySelect.value;
 
-    step1.style.display = "none";
-    step2.style.display = "block";
+          if (!date || !category) return;
 
-    const sheetData = allSheets[category] || [];
-    renderRegulations(sheetData);
-  });
+          selectionSummary.innerHTML = `
+            <span class="pill">📅 ${escapeHtml(date)}</span>
+            <span class="pill">🏷️ ${escapeHtml(category)}</span>
+          `;
 
-  backBtn.addEventListener("click", () => {
-    step2.style.display = "none";
-    step1.style.display = "block";
-  });
+          renderRegulations(all[category] || []);
+          step1.style.display = "none";
+          step2.style.display = "block";
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        });
 
-  loadAllSheetsAndCategories();
-</script>
+        backBtn.addEventListener("click", () => {
+          step2.style.display = "none";
+          step1.style.display = "block";
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        });
+
+      } catch(err){
+        console.error(err);
+        categorySelect.innerHTML = `<option value="">Erreur de chargement</option>`;
+        openBtn.disabled = true;
+        document.getElementById("regulations-container").innerHTML =
+          `<p class="muted">Erreur: ${escapeHtml(err.message)}</p>`;
+      }
+    }
+
+    init();
+  </script>
 </body>
 </html>

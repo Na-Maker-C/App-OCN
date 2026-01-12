@@ -10,7 +10,8 @@
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R083r5f.pdf",
       "Directives, autres": "DETEC",
       "N°.1": 741.437,
-      "Link.2": "RS 741.437 - Ordonnance du DETEC du 21 août 2002 relative à l'entretien et au contrôle subséquent des voitures automobiles en ce qui concerne les émissions de gaz d'échappement et de fumées | Fedlex"
+      "Link.2": "RS 741.437 - Ordonnance du DETEC du 21 août 2002 relative à l'entretien et au contrôle subséquent des voitures automobiles en ce qui concerne les émissions de gaz d'échappement et de fumées | Fedlex",
+      "tuto": null
     },
     {
       "Déf.": "Antipollution (contrôles)",
@@ -22,7 +23,8 @@
       "Link.1": null,
       "Directives, autres": "OCR",
       "N°.1": "59a",
-      "Link.2": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#a59a"
+      "Link.2": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#a59a",
+      "tuto": null
     },
     {
       "Déf.": "Antipollution OBD (m.e.v. CH)",
@@ -34,7 +36,8 @@
       "Link.1": null,
       "Directives, autres": "OFROU",
       "N°.1": "Mise en vigueur",
-      "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/28901.pdf"
+      "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/28901.pdf",
+      "tuto": null
     },
     {
       "Déf.": "Eclairage généralités",
@@ -42,11 +45,12 @@
       "Article": 73,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_73",
       "EU": "ECE",
-      "N°": " R48.13",
+      "N°": "R48.13",
       "Link.1": "https://unece.org/transport/documents/2024/12/standards/addendum-47-un-regulation-no-48-revision-13",
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Eclairage généralités annexes",
@@ -58,7 +62,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Eclairage identification",
@@ -70,7 +75,8 @@
       "Link.1": null,
       "Directives, autres": "ASA 2a",
       "N°.1": "Annexe 5",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html",
+      "tuto": null
     },
     {
       "Déf.": "Eclairage compteur",
@@ -82,7 +88,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Eclairage plaque",
@@ -94,7 +101,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Eclairage facultatif ou autorisé",
@@ -106,7 +114,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Feux arrière",
@@ -118,7 +127,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Feux arrière",
@@ -130,7 +140,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Feux arrière",
@@ -142,7 +153,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Feux (angel eyes)",
@@ -154,7 +166,8 @@
       "Link.1": null,
       "Directives, autres": "ASA 2a",
       "N°.1": "2002-04-04T00:00:00",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html",
+      "tuto": null
     },
     {
       "Déf.": "Feux spéciaux",
@@ -166,7 +179,8 @@
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2012/R065r2f.pdf",
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Feux bleus",
@@ -178,7 +192,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Feux bleus",
@@ -190,7 +205,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Feux bleus",
@@ -202,7 +218,8 @@
       "Link.1": null,
       "Directives, autres": "DETEC",
       "N°.1": "RO 2019 3123",
-      "Link.2": "https://www.fedlex.admin.ch/eli/oc/2019/576/fr"
+      "Link.2": "https://www.fedlex.admin.ch/eli/oc/2019/576/fr",
+      "tuto": null
     },
     {
       "Déf.": "Feux brouillard arrière\n(>01.10.1999 & \nimmat.import.constr en CH >01.10.2001)",
@@ -214,7 +231,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Feux brouillard arrière",
@@ -226,7 +244,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Feux brouillard arrière",
@@ -238,7 +257,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Feux brouillard arrière",
@@ -250,7 +270,8 @@
       "Link.1": null,
       "Directives, autres": "ASA 2a",
       "N°.1": "p.38",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html",
+      "tuto": null
     },
     {
       "Déf.": "Filtre à particules \n(nombre particules max)",
@@ -262,7 +283,8 @@
       "Link.1": null,
       "Directives, autres": "DETEC",
       "N°.1": "p.15",
-      "Link.2": "https://www.lexfind.ch/tolv/223770/fr"
+      "Link.2": "https://www.lexfind.ch/tolv/223770/fr",
+      "tuto": null
     },
     {
       "Déf.": "Filtre à particules \n(Nb particules max / normes euro)",
@@ -274,7 +296,8 @@
       "Link.1": null,
       "Directives, autres": "OFROU",
       "N°.1": "p.4",
-      "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/74422.pdf"
+      "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/74422.pdf",
+      "tuto": null
     },
     {
       "Déf.": null,
@@ -286,7 +309,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": null,
@@ -298,7 +322,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": null,
@@ -310,7 +335,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": null,
@@ -322,7 +348,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": null,
@@ -334,7 +361,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "Tuto 13:20",
@@ -344,9 +372,10 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_13:20",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_13.20.pdf",
+      "tuto": null
     }
   ],
   "N1": [
@@ -356,11 +385,12 @@
       "Article": 73,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_73",
       "EU": "ECE",
-      "N°": " R48.13",
+      "N°": "R48.13",
       "Link.1": "https://unece.org/transport/documents/2024/12/standards/addendum-47-un-regulation-no-48-revision-13",
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "ISA",
@@ -372,7 +402,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "ALC",
@@ -384,7 +415,8 @@
       "Link.1": null,
       "Directives, autres": "ASA 2a",
       "N°.1": "Annexe 5",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html",
+      "tuto": null
     },
     {
       "Déf.": "LCA",
@@ -396,7 +428,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "ELKS",
@@ -408,7 +441,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     },
     {
       "Déf.": "LKA",
@@ -420,7 +454,8 @@
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
-      "Link.2": null
+      "Link.2": null,
+      "tuto": null
     }
   ]
 }

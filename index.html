@@ -197,7 +197,7 @@
     function normalizeTutoPath(raw){
       const v0 = String(raw ?? "").trim();
       if (!v0 || v0.toLowerCase() === "none" || v0 === "–") return "";
-      const v = v0.replaceAll("\", "/");
+      const v = v0.replaceAll("\\", "/");
 
       // URL ? on laisse
       if (/^https?:\/\//i.test(v)) return v;

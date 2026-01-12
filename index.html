@@ -176,32 +176,41 @@
     </section>
   </main>
 
-  <script>
-    const GH_PAGES_BASE = "https://na-maker-c.github.io/App-OCN/";
-
-    function isGitHubPages(){
-      try { return window.location.hostname.endsWith("github.io"); } catch { return false; }
-    }
+  <script>    }
 
     function extractPdfPath(raw){
       const v = String(raw ?? "").trim();
       if (!v || v.toLowerCase() === "none" || v === "–") return "";
-      if (v.startsWith("http://") || v.startsWith("https://")) return v;
-      let p = v.replaceAll("\\\\", "/");
-      const idx = p.toLowerCase().lastIndexOf("tuto_pdf/");
-      if (idx !== -1) p = p.slice(idx);
-      if (!p.includes("/") && p.toLowerCase().endsWith(".pdf")) p = "Tuto_PDF/" + p;
+
+      // URL complète (ex: GitHub Pages) => on garde seulement la partie interne à partir de /Tuto_PDF/
+      if (v.startsWith("http://") || v.startsWith("https://")) {
+        const low = v.toLowerCase();
+        const idx = low.lastIndexOf("/tuto_pdf/");
+        if (idx !== -1) return v.slice(idx + 1); // => "Tuto_PDF/xxx.pdf"
+        return ""; // si URL externe sans Tuto_PDF, on ignore (pas de PDF externe)
+      }
+
+      // Normalise backslashes (chemins Windows)
+      let p = v.replaceAll("\", "/");
+
+      // Coupe à partir de Tuto_PDF/
+      const idx2 = p.toLowerCase().lastIndexOf("tuto_pdf/");
+      if (idx2 !== -1) p = p.slice(idx2); // => "Tuto_PDF/xxx.pdf"
+
+      // Si juste un nom de fichier PDF
+      if (!p.includes("/") && p.toLowerCase().endsWith(".pdf")) {
+        p = "Tuto_PDF/" + p;
+      }
+
       return p;
     }
 
     function resolvePdfHref(raw){
+      // 🔒 PDF en lien interne uniquement (relatif)
+      // Accepte: nom de fichier, chemin relatif, chemin Windows, ou URL GitHub -> converti en Tuto_PDF/...
       const p = extractPdfPath(raw);
-      if (!p) return "";
-      if (p.startsWith("http://") || p.startsWith("https://")) return p;
-      if (isGitHubPages()) {
-        const clean = p.startsWith("/") ? p.slice(1) : p;
-        return GH_PAGES_BASE + clean;
-      }
+      return p;
+    }
       return p;
     }
 

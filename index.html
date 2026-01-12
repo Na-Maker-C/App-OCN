@@ -30,7 +30,8 @@
 
     .card{
       background:var(--card); border-radius:var(--radius);
-      padding:1.1rem; box-shadow:var(--shadow);
+      padding:1.1rem;
+      box-shadow:var(--shadow);
       margin-bottom:1.25rem;
       border:1px solid rgba(229,231,235,.35);
     }
@@ -94,9 +95,11 @@
       text-decoration:none;
       color:#111827;
       white-space:nowrap;
+      margin-top:.35rem;
     }
     .pdf-link:hover{ background:#f9fafb; text-decoration:none; }
 
+    /* 📱 Mobile: table -> cartes */
     @media (max-width: 640px){
       header{ padding:.9rem 1rem; }
       header h1{ font-size:1.15rem; }
@@ -156,7 +159,7 @@
         </div>
 
         <p class="muted" style="margin:.75rem 0 0;">
-          PDFs attendus dans <code>Tuto_PDF/</code>. Exemple : <code>Tuto_PDF/Tuto_13.20.pdf</code>
+          PDFs dans <code>Tuto_PDF/</code>. Exemple : <code>Tuto_PDF/Tuto_13.20.pdf</code>
         </p>
       </form>
     </section>
@@ -175,15 +178,12 @@
   </main>
 
   <script>
-    // ✅ Base GitHub Pages (ton URL)
+    // ✅ URL GitHub Pages de ton projet
     const GH_PAGES_BASE = "https://na-maker-c.github.io/App-OCN/";
 
     function isGitHubPages() {
-      try {
-        return window.location.hostname.endsWith("github.io");
-      } catch {
-        return false;
-      }
+      try { return window.location.hostname.endsWith("github.io"); }
+      catch { return false; }
     }
 
     function escapeHtml(str){
@@ -195,22 +195,21 @@
         .replaceAll("'","&#039;");
     }
 
-    function extractPdfPath(raw) {
-      // Prend n'importe quel champ (nom simple, chemin relatif, chemin Windows, URL)
+    function extractPdfPath(raw){
       const v = String(raw ?? "").trim();
       if (!v || v.toLowerCase() === "none" || v === "–") return "";
 
-      // URL complète => OK
+      // URL complète
       if (v.startsWith("http://") || v.startsWith("https://")) return v;
 
-      // Normalise backslashes
+      // normalise backslashes
       let p = v.replaceAll("\\", "/");
 
-      // Si l'utilisateur a donné un chemin Windows long => on garde la partie à partir de Tuto_PDF/
+      // si on a un long chemin, on coupe à partir de Tuto_PDF/
       const idx = p.toLowerCase().lastIndexOf("tuto_pdf/");
-      if (idx !== -1) p = p.slice(idx); // => "Tuto_PDF/xxx.pdf" (casse selon ce qui reste)
+      if (idx !== -1) p = p.slice(idx);
 
-      // Si juste un nom de fichier PDF
+      // si juste un nom de fichier pdf
       if (!p.includes("/") && p.toLowerCase().endsWith(".pdf")) {
         p = "Tuto_PDF/" + p;
       }
@@ -218,21 +217,20 @@
       return p;
     }
 
-    function resolvePdfHref(raw) {
+    function resolvePdfHref(raw){
       const p = extractPdfPath(raw);
       if (!p) return "";
 
-      // Si déjà URL
+      // déjà URL
       if (p.startsWith("http://") || p.startsWith("https://")) return p;
 
-      // Si GitHub Pages => force l'URL absolue GH Pages
+      // sur GitHub Pages => URL absolue
       if (isGitHubPages()) {
-        // évite double slash
         const clean = p.startsWith("/") ? p.slice(1) : p;
         return GH_PAGES_BASE + clean;
       }
 
-      // Local (localhost / file:// / autre) => relatif
+      // local => relatif
       return p;
     }
 
@@ -260,7 +258,6 @@
               <th>CH</th>
               <th>EU</th>
               <th>Autres directives</th>
-              <th>Tutoriel</th>
             </tr>
           </thead>
           <tbody>
@@ -295,19 +292,18 @@
           }
         }
 
-        // Tutoriel: on accepte plusieurs champs possibles
-        const tutoCandidate =
+        // ✅ Tutoriel sans colonne: on l’affiche dans "Autres directives" si on détecte un PDF
+        const pdfCandidate =
           row["tuto"] ??
           row["Tutoriel"] ??
           row["Tuto"] ??
           row["PDF"] ??
-          row["Link.2"] ?? // au cas où Excel a mis le chemin là
-          "";
+          ((String(row["Link.2"] ?? "").toLowerCase().includes(".pdf")) ? row["Link.2"] : "");
 
-        const href = resolvePdfHref(tutoCandidate);
-        const tutoHtml = href
-          ? `<a class="pdf-link" href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">📄 PDF</a>`
-          : "–";
+        const pdfHref = resolvePdfHref(pdfCandidate);
+        if (pdfHref) {
+          colAutres += `<br><a class="pdf-link" href="${escapeHtml(pdfHref)}" target="_blank" rel="noopener noreferrer">📄 PDF</a>`;
+        }
 
         html += `
           <tr>
@@ -315,7 +311,6 @@
             <td data-label="CH">${colCH}</td>
             <td data-label="EU">${colEU}</td>
             <td data-label="Autres directives">${colAutres}</td>
-            <td data-label="Tutoriel">${tutoHtml}</td>
           </tr>
         `;
       }

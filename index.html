@@ -30,8 +30,7 @@
 
     .card{
       background:var(--card); border-radius:var(--radius);
-      padding:1.1rem;
-      box-shadow:var(--shadow);
+      padding:1.1rem; box-shadow:var(--shadow);
       margin-bottom:1.25rem;
       border:1px solid rgba(229,231,235,.35);
     }
@@ -83,7 +82,6 @@
     a{ color:var(--brand); text-decoration:none; word-break:break-word; }
     a:hover{ text-decoration:underline; }
 
-    /* ✅ Conserve les retours à la ligne d'Excel dans la colonne Définition */
     .def-cell{ white-space:pre-line; }
 
     .pdf-link{
@@ -99,7 +97,6 @@
     }
     .pdf-link:hover{ background:#f9fafb; text-decoration:none; }
 
-    /* 📱 Mobile: table -> cartes */
     @media (max-width: 640px){
       header{ padding:.9rem 1rem; }
       header h1{ font-size:1.15rem; }
@@ -157,8 +154,9 @@
         <div class="actions">
           <button id="open-btn" type="submit" disabled>Ouvrir la fiche</button>
         </div>
+
         <p class="muted" style="margin:.75rem 0 0;">
-          Tutoriels PDF : utilise un chemin relatif du type <code>Tuto_PDF/Mon_Tuto.pdf</code>.
+          PDFs attendus dans <code>Tuto_PDF/</code>. Exemple : <code>Tuto_PDF/Tuto_13.20.pdf</code>
         </p>
       </form>
     </section>
@@ -177,13 +175,16 @@
   </main>
 
   <script>
-    const categorySelect = document.getElementById("category");
-    const openBtn = document.getElementById("open-btn");
-    const step1 = document.getElementById("step1");
-    const step2 = document.getElementById("step2");
-    const selectionSummary = document.getElementById("selection-summary");
-    const backBtn = document.getElementById("back-btn");
-    const form = document.getElementById("entry-form");
+    // ✅ Base GitHub Pages (ton URL)
+    const GH_PAGES_BASE = "https://na-maker-c.github.io/App-OCN/";
+
+    function isGitHubPages() {
+      try {
+        return window.location.hostname.endsWith("github.io");
+      } catch {
+        return false;
+      }
+    }
 
     function escapeHtml(str){
       return String(str ?? "")
@@ -194,23 +195,54 @@
         .replaceAll("'","&#039;");
     }
 
-    function normalizeTutoPath(raw){
-      const v0 = String(raw ?? "").trim();
-      if (!v0 || v0.toLowerCase() === "none" || v0 === "–") return "";
-      const v = v0.replaceAll("\\", "/");
+    function extractPdfPath(raw) {
+      // Prend n'importe quel champ (nom simple, chemin relatif, chemin Windows, URL)
+      const v = String(raw ?? "").trim();
+      if (!v || v.toLowerCase() === "none" || v === "–") return "";
 
-      // URL ? on laisse
-      if (/^https?:\/\//i.test(v)) return v;
+      // URL complète => OK
+      if (v.startsWith("http://") || v.startsWith("https://")) return v;
 
-      // Chemin contenant un PDF (Windows/relatif) : on garde juste le nom du fichier
-      const m = v.match(/([^/]+\.pdf)$/i);
-      if (m && m[1]) return "Tuto_PDF/" + m[1];
+      // Normalise backslashes
+      let p = v.replaceAll("\\", "/");
 
-      // Juste un nom de fichier PDF
-      if (!v.includes("/") && v.toLowerCase().endsWith(".pdf")) return "Tuto_PDF/" + v;
+      // Si l'utilisateur a donné un chemin Windows long => on garde la partie à partir de Tuto_PDF/
+      const idx = p.toLowerCase().lastIndexOf("tuto_pdf/");
+      if (idx !== -1) p = p.slice(idx); // => "Tuto_PDF/xxx.pdf" (casse selon ce qui reste)
 
-      return v;
+      // Si juste un nom de fichier PDF
+      if (!p.includes("/") && p.toLowerCase().endsWith(".pdf")) {
+        p = "Tuto_PDF/" + p;
+      }
+
+      return p;
     }
+
+    function resolvePdfHref(raw) {
+      const p = extractPdfPath(raw);
+      if (!p) return "";
+
+      // Si déjà URL
+      if (p.startsWith("http://") || p.startsWith("https://")) return p;
+
+      // Si GitHub Pages => force l'URL absolue GH Pages
+      if (isGitHubPages()) {
+        // évite double slash
+        const clean = p.startsWith("/") ? p.slice(1) : p;
+        return GH_PAGES_BASE + clean;
+      }
+
+      // Local (localhost / file:// / autre) => relatif
+      return p;
+    }
+
+    const categorySelect = document.getElementById("category");
+    const openBtn = document.getElementById("open-btn");
+    const step1 = document.getElementById("step1");
+    const step2 = document.getElementById("step2");
+    const selectionSummary = document.getElementById("selection-summary");
+    const backBtn = document.getElementById("back-btn");
+    const form = document.getElementById("entry-form");
 
     function renderRegulations(data){
       const container = document.getElementById("regulations-container");
@@ -255,7 +287,7 @@
         if (row["Directives, autres"]) {
           colAutres = escapeHtml(row["Directives, autres"]);
           if (row["N°.1"]) {
-            if (row["Link.2"]) {
+            if (row["Link.2"] && String(row["Link.2"]).startsWith("http")) {
               colAutres += `<br><a href="${escapeHtml(row["Link.2"])}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
             } else {
               colAutres += `<br>${escapeHtml(row["N°.1"])}`;
@@ -263,11 +295,18 @@
           }
         }
 
-        // Tutoriel PDF
-        const tutoCandidate = row["tuto"] ?? row["Tutoriel"] ?? row["Tuto"] ?? row["PDF"] ?? row["Link.2"] ?? "";
-        const tutoPath = normalizeTutoPath(tutoCandidate);
-        const tutoHtml = tutoPath
-          ? `<a class="pdf-link" href="${escapeHtml(tutoPath)}" target="_blank" rel="noopener noreferrer">📄 PDF</a>`
+        // Tutoriel: on accepte plusieurs champs possibles
+        const tutoCandidate =
+          row["tuto"] ??
+          row["Tutoriel"] ??
+          row["Tuto"] ??
+          row["PDF"] ??
+          row["Link.2"] ?? // au cas où Excel a mis le chemin là
+          "";
+
+        const href = resolvePdfHref(tutoCandidate);
+        const tutoHtml = href
+          ? `<a class="pdf-link" href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">📄 PDF</a>`
           : "–";
 
         html += `
@@ -308,6 +347,7 @@
           selectionSummary.innerHTML = `
             <span class="pill">📅 ${escapeHtml(date)}</span>
             <span class="pill">🏷️ ${escapeHtml(category)}</span>
+            <span class="pill">${isGitHubPages() ? "🌐 GitHub" : "💻 Local"}</span>
           `;
 
           renderRegulations(all[category] || []);

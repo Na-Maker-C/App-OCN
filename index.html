@@ -158,7 +158,7 @@
           <button id="open-btn" type="submit" disabled>Ouvrir la fiche</button>
         </div>
         <p class="muted" style="margin:.75rem 0 0;">
-          Tutoriels PDF : utilise un chemin relatif du type <code>tuto_pdf/Mon_Tuto.pdf</code>.
+          Tutoriels PDF : utilise un chemin relatif du type <code>Tuto_PDF/Mon_Tuto.pdf</code>.
         </p>
       </form>
     </section>
@@ -195,14 +195,21 @@
     }
 
     function normalizeTutoPath(raw){
-      const v = String(raw ?? "").trim();
-      if (!v || v.toLowerCase() === "none" || v === "–") return "";
-      // si on a juste un nom de fichier, on préfixe
-      if (!v.includes("/") && !v.includes("\\") && v.toLowerCase().endsWith(".pdf")) {
-        return "Tuto_pdf/" + v;
-      }
-      // normalise les backslashes en /
-      return v.replaceAll("\\", "/");
+      const v0 = String(raw ?? "").trim();
+      if (!v0 || v0.toLowerCase() === "none" || v0 === "–") return "";
+      const v = v0.replaceAll("\", "/");
+
+      // URL ? on laisse
+      if (/^https?:\/\//i.test(v)) return v;
+
+      // Chemin contenant un PDF (Windows/relatif) : on garde juste le nom du fichier
+      const m = v.match(/([^/]+\.pdf)$/i);
+      if (m && m[1]) return "Tuto_PDF/" + m[1];
+
+      // Juste un nom de fichier PDF
+      if (!v.includes("/") && v.toLowerCase().endsWith(".pdf")) return "Tuto_PDF/" + v;
+
+      return v;
     }
 
     function renderRegulations(data){
@@ -257,7 +264,7 @@
         }
 
         // Tutoriel PDF
-        const tutoCandidate = row["Tutoriel"] ?? row["tuto"] ?? row["Tuto"] ?? row["PDF"] ?? "";
+        const tutoCandidate = row["tuto"] ?? row["Tutoriel"] ?? row["Tuto"] ?? row["PDF"] ?? row["Link.2"] ?? "";
         const tutoPath = normalizeTutoPath(tutoCandidate);
         const tutoHtml = tutoPath
           ? `<a class="pdf-link" href="${escapeHtml(tutoPath)}" target="_blank" rel="noopener noreferrer">📄 PDF</a>`

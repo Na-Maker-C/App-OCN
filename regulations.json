@@ -37,7 +37,7 @@
       "Directives, autres": "OFROU",
       "N°.1": "Mise en vigueur",
       "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/28901.pdf",
-      "tuto": null
+      "tuto": "https://www.newsd.admin.ch/newsd/message/attachments/28901.pdf"
     },
     {
       "Déf.": "Eclairage généralités",
@@ -297,7 +297,7 @@
       "Directives, autres": "OFROU",
       "N°.1": "p.4",
       "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/74422.pdf",
-      "tuto": null
+      "tuto": "https://www.newsd.admin.ch/newsd/message/attachments/74422.pdf"
     },
     {
       "Déf.": null,
@@ -375,7 +375,7 @@
       "Directives, autres": "Tutoriel",
       "N°.1": "Tuto_13:20",
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_13.20.pdf",
-      "tuto": null
+      "tuto": "Tuto_PDF/Tuto_13.20.pdf"
     }
   ],
   "N1": [

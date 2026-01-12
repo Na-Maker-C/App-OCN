@@ -199,7 +199,7 @@
       if (!v || v.toLowerCase() === "none" || v === "–") return "";
       // si on a juste un nom de fichier, on préfixe
       if (!v.includes("/") && !v.includes("\\") && v.toLowerCase().endsWith(".pdf")) {
-        return "tuto_pdf/" + v;
+        return "Tuto_pdf/" + v;
       }
       // normalise les backslashes en /
       return v.replaceAll("\\", "/");

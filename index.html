@@ -83,6 +83,7 @@
     a{ color:var(--brand); text-decoration:none; word-break:break-word; }
     a:hover{ text-decoration:underline; }
 
+    /* ✅ Conserve les retours à la ligne d'Excel dans la colonne Définition */
     .def-cell{ white-space:pre-line; }
 
     .pdf-link{
@@ -95,7 +96,6 @@
       text-decoration:none;
       color:#111827;
       white-space:nowrap;
-      margin-top:.35rem;
     }
     .pdf-link:hover{ background:#f9fafb; text-decoration:none; }
 
@@ -157,9 +157,8 @@
         <div class="actions">
           <button id="open-btn" type="submit" disabled>Ouvrir la fiche</button>
         </div>
-
         <p class="muted" style="margin:.75rem 0 0;">
-          PDFs dans <code>Tuto_PDF/</code>. Exemple : <code>Tuto_PDF/Tuto_13.20.pdf</code>
+          Tutoriels PDF : utilise un chemin relatif du type <code>Tuto_PDF/Mon_Tuto.pdf</code>.
         </p>
       </form>
     </section>
@@ -178,59 +177,31 @@
   </main>
 
   <script>
-    // ✅ URL GitHub Pages de ton projet
     const GH_PAGES_BASE = "https://na-maker-c.github.io/App-OCN/";
 
-    function isGitHubPages() {
-      try { return window.location.hostname.endsWith("github.io"); }
-      catch { return false; }
-    }
-
-    function escapeHtml(str){
-      return String(str ?? "")
-        .replaceAll("&","&amp;")
-        .replaceAll("<","&lt;")
-        .replaceAll(">","&gt;")
-        .replaceAll('"',"&quot;")
-        .replaceAll("'","&#039;");
+    function isGitHubPages(){
+      try { return window.location.hostname.endsWith("github.io"); } catch { return false; }
     }
 
     function extractPdfPath(raw){
       const v = String(raw ?? "").trim();
       if (!v || v.toLowerCase() === "none" || v === "–") return "";
-
-      // URL complète
       if (v.startsWith("http://") || v.startsWith("https://")) return v;
-
-      // normalise backslashes
-      let p = v.replaceAll("\\", "/");
-
-      // si on a un long chemin, on coupe à partir de Tuto_PDF/
+      let p = v.replaceAll("\\\\", "/");
       const idx = p.toLowerCase().lastIndexOf("tuto_pdf/");
       if (idx !== -1) p = p.slice(idx);
-
-      // si juste un nom de fichier pdf
-      if (!p.includes("/") && p.toLowerCase().endsWith(".pdf")) {
-        p = "Tuto_PDF/" + p;
-      }
-
+      if (!p.includes("/") && p.toLowerCase().endsWith(".pdf")) p = "Tuto_PDF/" + p;
       return p;
     }
 
     function resolvePdfHref(raw){
       const p = extractPdfPath(raw);
       if (!p) return "";
-
-      // déjà URL
       if (p.startsWith("http://") || p.startsWith("https://")) return p;
-
-      // sur GitHub Pages => URL absolue
       if (isGitHubPages()) {
         const clean = p.startsWith("/") ? p.slice(1) : p;
         return GH_PAGES_BASE + clean;
       }
-
-      // local => relatif
       return p;
     }
 
@@ -241,6 +212,33 @@
     const selectionSummary = document.getElementById("selection-summary");
     const backBtn = document.getElementById("back-btn");
     const form = document.getElementById("entry-form");
+
+    function escapeHtml(str){
+      return String(str ?? "")
+        .replaceAll("&","&amp;")
+        .replaceAll("<","&lt;")
+        .replaceAll(">","&gt;")
+        .replaceAll('"',"&quot;")
+        .replaceAll("'","&#039;");
+    }
+
+    function normalizeTutoPath(raw){
+      const v0 = String(raw ?? "").trim();
+      if (!v0 || v0.toLowerCase() === "none" || v0 === "–") return "";
+      const v = v0.replaceAll("\\", "/");
+
+      // URL ? on laisse
+      if (/^https?:\/\//i.test(v)) return v;
+
+      // Chemin contenant un PDF (Windows/relatif) : on garde juste le nom du fichier
+      const m = v.match(/([^/]+\.pdf)$/i);
+      if (m && m[1]) return "Tuto_PDF/" + m[1];
+
+      // Juste un nom de fichier PDF
+      if (!v.includes("/") && v.toLowerCase().endsWith(".pdf")) return "Tuto_PDF/" + v;
+
+      return v;
+    }
 
     function renderRegulations(data){
       const container = document.getElementById("regulations-container");
@@ -257,8 +255,7 @@
               <th>Définition</th>
               <th>CH</th>
               <th>EU</th>
-              <th>Autres directives</th>
-            </tr>
+              <th>Autres directives</th></tr>
           </thead>
           <tbody>
       `;
@@ -284,34 +281,36 @@
         if (row["Directives, autres"]) {
           colAutres = escapeHtml(row["Directives, autres"]);
           if (row["N°.1"]) {
-            if (row["Link.2"] && String(row["Link.2"]).startsWith("http")) {
-              colAutres += `<br><a href="${escapeHtml(row["Link.2"])}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
+            const link2 = String(row["Link.2"] ?? "").trim();
+            const hasPdf = link2.toLowerCase().includes(".pdf");
+            if (hasPdf) {
+              const href = resolvePdfHref(link2);
+              if (href) {
+                colAutres += `<br><a href="${escapeHtml(href)}" target="_blank" rel='noopener noreferrer'>${escapeHtml(row["N°.1"])}</a>`;
+              } else {
+                colAutres += `<br>${escapeHtml(row["N°.1"])}`;
+              }
+            } else if (link2 && link2.startsWith("http")) {
+              colAutres += `<br><a href="${escapeHtml(link2)}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
             } else {
               colAutres += `<br>${escapeHtml(row["N°.1"])}`;
             }
           }
         }
 
-        // ✅ Tutoriel sans colonne: on l’affiche dans "Autres directives" si on détecte un PDF
-        const pdfCandidate =
-          row["tuto"] ??
-          row["Tutoriel"] ??
-          row["Tuto"] ??
-          row["PDF"] ??
-          ((String(row["Link.2"] ?? "").toLowerCase().includes(".pdf")) ? row["Link.2"] : "");
-
-        const pdfHref = resolvePdfHref(pdfCandidate);
-        if (pdfHref) {
-          colAutres += `<br><a class="pdf-link" href="${escapeHtml(pdfHref)}" target="_blank" rel="noopener noreferrer">📄 PDF</a>`;
-        }
+        // Tutoriel PDF
+        const tutoCandidate = row["tuto"] ?? row["Tutoriel"] ?? row["Tuto"] ?? row["PDF"] ?? row["Link.2"] ?? "";
+        const tutoPath = normalizeTutoPath(tutoCandidate);
+        const tutoHtml = tutoPath
+          ? `<a class="pdf-link" href="${escapeHtml(tutoPath)}" target="_blank" rel="noopener noreferrer">📄 PDF</a>`
+          : "–";
 
         html += `
           <tr>
             <td class="def-cell" data-label="Définition"><strong>${def}</strong></td>
             <td data-label="CH">${colCH}</td>
             <td data-label="EU">${colEU}</td>
-            <td data-label="Autres directives">${colAutres}</td>
-          </tr>
+            <td data-label="Autres directives">${colAutres}</td></tr>
         `;
       }
 
@@ -342,7 +341,6 @@
           selectionSummary.innerHTML = `
             <span class="pill">📅 ${escapeHtml(date)}</span>
             <span class="pill">🏷️ ${escapeHtml(category)}</span>
-            <span class="pill">${isGitHubPages() ? "🌐 GitHub" : "💻 Local"}</span>
           `;
 
           renderRegulations(all[category] || []);

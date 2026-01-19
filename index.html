@@ -83,21 +83,7 @@
     a{ color:var(--brand); text-decoration:none; word-break:break-word; }
     a:hover{ text-decoration:underline; }
 
-    /* ✅ Conserve les retours à la ligne d'Excel dans la colonne Définition */
     .def-cell{ white-space:pre-line; }
-
-    .pdf-link{
-      display:inline-flex; align-items:center; gap:.35rem;
-      padding:.35rem .6rem;
-      border:1px solid var(--border);
-      border-radius:.65rem;
-      background:#fff;
-      font-weight:800;
-      text-decoration:none;
-      color:#111827;
-      white-space:nowrap;
-    }
-    .pdf-link:hover{ background:#f9fafb; text-decoration:none; }
 
     /* 📱 Mobile: table -> cartes */
     @media (max-width: 640px){
@@ -127,7 +113,6 @@
         color:var(--muted);
         margin-bottom:.2rem;
       }
-      .pdf-link{ width:fit-content; }
     }
   </style>
 </head>
@@ -157,8 +142,9 @@
         <div class="actions">
           <button id="open-btn" type="submit" disabled>Ouvrir la fiche</button>
         </div>
+
         <p class="muted" style="margin:.75rem 0 0;">
-          Tutoriels PDF : utilise un chemin relatif du type <code>Tuto_PDF/Mon_Tuto.pdf</code>.
+          Les tutoriels PDF doivent être dans <code>Tuto_PDF/</code>.
         </p>
       </form>
     </section>
@@ -176,44 +162,7 @@
     </section>
   </main>
 
-  <script>    }
-
-    function extractPdfPath(raw){
-      const v = String(raw ?? "").trim();
-      if (!v || v.toLowerCase() === "none" || v === "–") return "";
-
-      // URL complète (ex: GitHub Pages) => on garde seulement la partie interne à partir de /Tuto_PDF/
-      if (v.startsWith("http://") || v.startsWith("https://")) {
-        const low = v.toLowerCase();
-        const idx = low.lastIndexOf("/tuto_pdf/");
-        if (idx !== -1) return v.slice(idx + 1); // => "Tuto_PDF/xxx.pdf"
-        return ""; // si URL externe sans Tuto_PDF, on ignore (pas de PDF externe)
-      }
-
-      // Normalise backslashes (chemins Windows)
-      let p = v.replaceAll("\", "/");
-
-      // Coupe à partir de Tuto_PDF/
-      const idx2 = p.toLowerCase().lastIndexOf("tuto_pdf/");
-      if (idx2 !== -1) p = p.slice(idx2); // => "Tuto_PDF/xxx.pdf"
-
-      // Si juste un nom de fichier PDF
-      if (!p.includes("/") && p.toLowerCase().endsWith(".pdf")) {
-        p = "Tuto_PDF/" + p;
-      }
-
-      return p;
-    }
-
-    function resolvePdfHref(raw){
-      // 🔒 PDF en lien interne uniquement (relatif)
-      // Accepte: nom de fichier, chemin relatif, chemin Windows, ou URL GitHub -> converti en Tuto_PDF/...
-      const p = extractPdfPath(raw);
-      return p;
-    }
-      return p;
-    }
-
+  <script>
     const categorySelect = document.getElementById("category");
     const openBtn = document.getElementById("open-btn");
     const step1 = document.getElementById("step1");
@@ -235,7 +184,8 @@
       const v = String(s ?? "").trim();
       if (!v) return false;
       if (v.startsWith("http://") || v.startsWith("https://")) return true;
-      return /^[a-z0-9.-]+\.[a-z]{2,}(\/|\\)/i.test(v) || /^[a-z0-9.-]+\.[a-z]{2,}$/i.test(v) || v.startsWith("www.");
+      if (v.startsWith("www.")) return true;
+      return /^[a-z0-9.-]+\.[a-z]{2,}(\/|\\)/i.test(v) || /^[a-z0-9.-]+\.[a-z]{2,}$/i.test(v);
     }
 
     function toExternalUrl(s){
@@ -246,22 +196,33 @@
       return "https://" + norm.replace(/^\/+/, "");
     }
 
-    function normalizeTutoPath(raw){
-      const v0 = String(raw ?? "").trim();
-      if (!v0 || v0.toLowerCase() === "none" || v0 === "–") return "";
-      const v = v0.replaceAll("\\", "/");
+    function normalizePdfInternalPath(raw){
+      // Retourne un chemin interne "Tuto_PDF/xxx.pdf" ou "" si pas de pdf
+      const v = String(raw ?? "").trim();
+      if (!v || v.toLowerCase() === "none" || v === "–") return "";
 
-      // URL ? on laisse
-      if (/^https?:\/\//i.test(v)) return v;
+      // URL externe -> on refuse (tu ne veux pas de https)
+      if (v.startsWith("http://") || v.startsWith("https://")) return "";
 
-      // Chemin contenant un PDF (Windows/relatif) : on garde juste le nom du fichier
-      const m = v.match(/([^/]+\.pdf)$/i);
-      if (m && m[1]) return "Tuto_PDF/" + m[1];
+      // normalise backslashes -> /
+      let p = v.replaceAll("\\", "/");
 
-      // Juste un nom de fichier PDF
-      if (!v.includes("/") && v.toLowerCase().endsWith(".pdf")) return "Tuto_PDF/" + v;
+      // coupe à partir de Tuto_PDF/
+      const idx = p.toLowerCase().lastIndexOf("tuto_pdf/");
+      if (idx !== -1) p = p.slice(idx);
 
-      return v;
+      // si juste un nom de fichier pdf
+      if (!p.includes("/") && p.toLowerCase().endsWith(".pdf")) {
+        p = "Tuto_PDF/" + p;
+      }
+
+      // garde uniquement si ça ressemble à Tuto_PDF/*.pdf
+      if (!p.toLowerCase().startsWith("tuto_pdf/")) return "";
+      if (!p.toLowerCase().endsWith(".pdf")) return "";
+
+      // force la casse dossier
+      p = "Tuto_PDF/" + p.split("/").slice(1).join("/");
+      return p;
     }
 
     function renderRegulations(data){
@@ -279,7 +240,8 @@
               <th>Définition</th>
               <th>CH</th>
               <th>EU</th>
-              <th>Autres directives</th></tr>
+              <th>Autres directives</th>
+            </tr>
           </thead>
           <tbody>
       `;
@@ -301,40 +263,45 @@
           }
         }
 
+        // Autres directives:
+        // - si Link.2 est un pdf => on fait un lien INTERNE sur le texte N°.1 (ex: Tuto_13:20)
+        // - sinon on garde le comportement normal (lien si http)
         let colAutres = "–";
         if (row["Directives, autres"]) {
           colAutres = escapeHtml(row["Directives, autres"]);
           if (row["N°.1"]) {
             const link2 = String(row["Link.2"] ?? "").trim();
-            const hasPdf = link2.toLowerCase().includes(".pdf");
-            if (hasPdf) {
-              const href = resolvePdfHref(link2);
-              if (href) {
-                colAutres += `<br><a href="${escapeHtml(href)}" target="_blank" rel='noopener noreferrer'>${escapeHtml(row["N°.1"])}</a>`;
+            const isPdf = link2.toLowerCase().includes(".pdf");
+            if (isPdf) {
+              // ✅ PDF externe: on garde l'URL (même sans https://)
+              if (looksLikeUrl(link2)) {
+                const href = toExternalUrl(link2);
+                colAutres += `<br><a href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
+              } else {
+
+              const pdfPath = normalizePdfInternalPath(link2);
+              if (pdfPath) {
+                colAutres += `<br><a href="${escapeHtml(pdfPath)}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
               } else {
                 colAutres += `<br>${escapeHtml(row["N°.1"])}`;
               }
-            } else if (link2 && looksLikeUrl(link2)) {
-              colAutres += `<br><a href="${escapeHtml(toExternalUrl(link2))}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
+            
+              }
+} else if (link2 && link2.startsWith("http")) {
+              colAutres += `<br><a href="${escapeHtml(link2)}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
             } else {
               colAutres += `<br>${escapeHtml(row["N°.1"])}`;
             }
           }
         }
 
-        // Tutoriel PDF
-        const tutoCandidate = row["tuto"] ?? row["Tutoriel"] ?? row["Tuto"] ?? row["PDF"] ?? row["Link.2"] ?? "";
-        const tutoPath = normalizeTutoPath(tutoCandidate);
-        const tutoHtml = tutoPath
-          ? `<a class="pdf-link" href="${escapeHtml(tutoPath)}" target="_blank" rel="noopener noreferrer">📄 PDF</a>`
-          : "–";
-
         html += `
           <tr>
             <td class="def-cell" data-label="Définition"><strong>${def}</strong></td>
             <td data-label="CH">${colCH}</td>
             <td data-label="EU">${colEU}</td>
-            <td data-label="Autres directives">${colAutres}</td></tr>
+            <td data-label="Autres directives">${colAutres}</td>
+          </tr>
         `;
       }
 

@@ -205,10 +205,22 @@
       "Link.2": "https://www.fedlex.admin.ch/eli/oc/2019/576/fr"
     },
     {
-      "Déf.": "Feux brouillard arrière\n(>01.10.1999 & \nimmat.import.constr en CH >01.10.2001)",
+      "Déf.": "Feux brouillard arrière généralités\n(>01.10.1999 & \nimmat.import.constr en CH >01.10.2001)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "76 al2-4",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_76",
+      "EU": "ECE",
+      "N°": "R38",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R038r3f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "p.40-41",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Feux brouillard arrière (couleur)",
+      "CH": "OETV (Annexes)",
+      "Article": "Anx 10 112",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -217,9 +229,9 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux brouillard arrière",
+      "Déf.": "Feux brouillard arrière (distance)",
       "CH": "OETV (Annexes)",
-      "Article": "Annexe 10",
+      "Article": "Anx 10 21,313,321,325,6,73",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10",
       "EU": null,
       "N°": null,
@@ -229,10 +241,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux brouillard arrière",
+      "Déf.": "Feux brouillard arrière (utilisation)",
       "CH": "OCR",
-      "Article": 32,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#a32",
+      "Article": "30 al.4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#a30",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -241,16 +253,16 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux brouillard arrière",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA 2a",
-      "N°.1": "p.38",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+      "Déf.": "Feux à décharge (xénon)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "74 al.5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
+      "EU": "ECE",
+      "N°": "R98.3",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2012/R098r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     },
     {
       "Déf.": "Filtre à particules \n(nombre particules max)",

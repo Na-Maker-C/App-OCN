@@ -257,19 +257,13 @@
             const link2 = String(row["Link.2"] ?? "").trim();
             const isPdf = link2.toLowerCase().includes(".pdf");
             if (isPdf) {
-              // ✅ PDF externe (ex: Antipollution OBD) : on garde le lien https
-              if (link2.startsWith("http://") || link2.startsWith("https://")) {
-                colAutres += `<br><a href="${escapeHtml(link2)}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
+              const pdfPath = normalizePdfInternalPath(link2);
+              if (pdfPath) {
+                colAutres += `<br><a href="${escapeHtml(pdfPath)}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
               } else {
-                // ✅ Tutoriels PDF locaux : lien interne Tuto_PDF/...
-                const pdfPath = normalizePdfInternalPath(link2);
-                if (pdfPath) {
-                  colAutres += `<br><a href="${escapeHtml(pdfPath)}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
-                } else {
-                  colAutres += `<br>${escapeHtml(row["N°.1"])}`;
-                }
+                colAutres += `<br>${escapeHtml(row["N°.1"])}`;
               }
-            }} else if (link2 && link2.startsWith("http")) {
+            } else if (link2 && link2.startsWith("http")) {
               colAutres += `<br><a href="${escapeHtml(link2)}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
             } else {
               colAutres += `<br>${escapeHtml(row["N°.1"])}`;

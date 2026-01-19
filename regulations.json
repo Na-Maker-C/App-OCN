@@ -1,7 +1,7 @@
 {
   "M1": [
     {
-      "Déf.": "Antipollution\n(Généralités / >01.01.1976)",
+      "Déf.": "Antipollution (généralités)\n >01.01.1976",
       "CH": "OETV (P.2: Contrôles)",
       "Article": 35,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#a35",
@@ -205,7 +205,7 @@
       "Link.2": "https://www.fedlex.admin.ch/eli/oc/2019/576/fr"
     },
     {
-      "Déf.": "Feux brouillard arrière généralités\n(>01.10.1999 & \nimmat.import.constr en CH >01.10.2001)",
+      "Déf.": "Feux brouillard arrière (généralités)\n>01.10.1999 & \nimmat.import.constr en CH >01.10.2001",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "76 al2-4",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_76",
@@ -349,7 +349,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux: Lave phare (>01.10.1998)",
+      "Déf.": "Feux: Lave phare \n>01.10.1998",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "74 al.4",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
@@ -373,7 +373,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux diurne, jour (>01.10.2012)",
+      "Déf.": "Feux diurne, jour \n>01.10.2012",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "76 al.5",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_76",
@@ -391,7 +391,7 @@
       "Link": null,
       "EU": "ECE",
       "N°": " R48.13",
-      "Link.1": "https://unece.org/transport/documents/2024/12/standards/addendum-47-un-regulation-no-48-revision-13",
+      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
       "Directives, autres": "Tutoriel",
       "N°.1": "Tuto_DiurneInstallation",
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_DiurneInstallation.pdf"
@@ -433,7 +433,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux gabarit (distance) >10.2001",
+      "Déf.": "Feux gabarit (distance) \n>10.2001",
       "CH": "OETV (Annexes)",
       "Article": "A10: 22, 312, 322, 323",
       "Link": null,
@@ -475,8 +475,80 @@
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_78",
       "EU": "ECE R48.13",
       "N°": "6.5 (p.45)",
-      "Link.1": "https://unece.org/transport/documents/2024/12/standards/addendum-47-un-regulation-no-48-revision-13",
+      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
       "Directives, autres": "OCR",
+      "N°.1": 23,
+      "Link.2": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_23"
+    },
+    {
+      "Déf.": "Feux de panne, avertisseur (dispositifs obligatoires)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 111,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_111",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux clignoteur direction, clignotant (généralités)\n>OCE 1969 avant autres dispositifs",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 79,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_79",
+      "EU": "ECE R48.13",
+      "N°": "6.5 (p.45)",
+      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux clignoteur direction, clignotant (temporisation)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 78,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_78",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux clignoteur direction, clignotant (dispositifs obligatoires)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 111,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_111",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux clignoteur direction, clignotant (couleur)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10:111-113",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux clignoteur direction, clignotant (distance)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10:21, 23, 312,322, 5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_2",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
     },
@@ -662,6 +734,30 @@
     },
     {
       "Déf.": "Modifier le tuto 13.20",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Taper seulement un mot (clignotant, feux, jour, etc)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Mise à la ligne pour mise en vigueur sinon (titre 2)",
       "CH": null,
       "Article": null,
       "Link": null,

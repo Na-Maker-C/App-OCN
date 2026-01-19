@@ -5,279 +5,339 @@
   <title>Bases légales</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
-    :root{--bg:#f3f4f6;--card:#fff;--text:#111827;--muted:#6b7280;--border:#e5e7eb;--brand:#2563eb;--brand2:#4f46e5;--shadow:0 10px 25px rgba(15,23,42,.08);--radius:16px}
-    *{box-sizing:border-box}
-    body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;margin:0;background:var(--bg);color:var(--text)}
-    header{background:#111827;color:#fff;padding:1rem 1.25rem}
-    header h1{margin:0;font-size:1.35rem;line-height:1.2}
-    header p{margin:.35rem 0 0;color:rgba(255,255,255,.75);font-size:.9rem}
-    main{max-width:960px;margin:1.25rem auto 3rem;padding:0 1rem}
-    .card{background:var(--card);border-radius:var(--radius);padding:1.1rem;box-shadow:var(--shadow);margin-bottom:1.25rem;border:1px solid rgba(229,231,235,.35)}
-    .card h2{margin:0 0 .9rem;font-size:1.15rem}
-    .form-row{display:grid;grid-template-columns:1fr 1fr;gap:.9rem;align-items:end}
-    label{display:block;font-size:.9rem;font-weight:600;margin-bottom:.25rem}
-    input,select{width:100%;padding:.55rem .65rem;border:1px solid #d1d5db;border-radius:.65rem;font-size:1rem;background:#fff}
-    input:focus,select:focus{outline:none;border-color:var(--brand2);box-shadow:0 0 0 3px rgba(79,70,229,.15)}
-    .actions{display:flex;gap:.65rem;margin-top:1rem;flex-wrap:wrap}
-    button{appearance:none;border:0;cursor:pointer;padding:.6rem .9rem;border-radius:.75rem;font-weight:700;font-size:1rem}
-    #open-btn{background:var(--brand2);color:#fff}
-    #open-btn:disabled{opacity:.5;cursor:not-allowed}
-    #back-btn{background:#111827;color:#fff}
-    .muted{color:var(--muted);font-size:.92rem}
-    .pills{display:flex;flex-wrap:wrap;gap:.4rem;margin:.25rem 0 0}
-    .pill{display:inline-flex;align-items:center;padding:.2rem .6rem;border-radius:999px;background:#eef2ff;color:#3730a3;font-size:.85rem;font-weight:700}
-    table{width:100%;border-collapse:collapse;margin-top:1rem;font-size:.95rem}
-    th,td{padding:.6rem .55rem;border-bottom:1px solid var(--border);vertical-align:top}
-    th{text-align:left;font-weight:800;font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
-    a{color:var(--brand);text-decoration:none;word-break:break-word}
-    a:hover{text-decoration:underline}
-    .def-cell{white-space:pre-line}
-    @media (max-width:640px){
-      header{padding:.9rem 1rem}
-      header h1{font-size:1.15rem}
-      main{margin:1rem auto 2rem;padding:0 .75rem}
-      .card{padding:1rem;border-radius:.9rem}
-      .form-row{grid-template-columns:1fr;gap:.75rem}
-      thead{display:none}
-      table,tbody,tr,td{display:block;width:100%}
-      tr{background:#fff;border:1px solid var(--border);border-radius:.9rem;padding:.75rem .85rem;margin-top:.75rem}
-      td{border:0;padding:.4rem 0}
-      td::before{content:attr(data-label);display:block;font-weight:900;font-size:.72rem;letter-spacing:.03em;text-transform:uppercase;color:var(--muted);margin-bottom:.2rem}
+    :root{
+      --bg:#f3f4f6;
+      --card:#ffffff;
+      --text:#111827;
+      --muted:#6b7280;
+      --border:#e5e7eb;
+      --brand:#2563eb;
+      --brand2:#4f46e5;
+      --shadow:0 10px 25px rgba(15,23,42,.08);
+      --radius:16px;
+    }
+    *{ box-sizing:border-box; }
+    body{
+      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+      margin:0; background:var(--bg); color:var(--text);
+    }
+    header{
+      background:#111827; color:#fff; padding:1rem 1.25rem;
+    }
+    header h1{ margin:0; font-size:1.35rem; line-height:1.2; }
+    header p{ margin:.35rem 0 0; color:rgba(255,255,255,.75); font-size:.9rem; }
+    main{ max-width:960px; margin:1.25rem auto 3rem; padding:0 1rem; }
+
+    .card{
+      background:var(--card); border-radius:var(--radius);
+      padding:1.1rem;
+      box-shadow:var(--shadow);
+      margin-bottom:1.25rem;
+      border:1px solid rgba(229,231,235,.35);
+    }
+    .card h2{ margin:0 0 .9rem; font-size:1.15rem; }
+
+    .form-row{
+      display:grid; grid-template-columns: 1fr 1fr;
+      gap:.9rem; align-items:end;
+    }
+    label{ display:block; font-size:.9rem; font-weight:600; margin-bottom:.25rem; }
+    input, select{
+      width:100%;
+      padding:.55rem .65rem;
+      border:1px solid #d1d5db;
+      border-radius:.65rem;
+      font-size:1rem;
+      background:#fff;
+    }
+    input:focus, select:focus{
+      outline:none; border-color:var(--brand2);
+      box-shadow:0 0 0 3px rgba(79,70,229,.15);
+    }
+
+    .actions{ display:flex; gap:.65rem; margin-top:1rem; flex-wrap:wrap; }
+    button{
+      appearance:none; border:0; cursor:pointer;
+      padding:.6rem .9rem; border-radius:.75rem;
+      font-weight:700; font-size:1rem;
+    }
+    #open-btn{ background:var(--brand2); color:#fff; }
+    #open-btn:disabled{ opacity:.5; cursor:not-allowed; }
+    #back-btn{ background:#111827; color:#fff; }
+
+    .muted{ color:var(--muted); font-size:.92rem; }
+    .pills{ display:flex; flex-wrap:wrap; gap:.4rem; margin:.25rem 0 0; }
+    .pill{
+      display:inline-flex; align-items:center;
+      padding:.2rem .6rem; border-radius:999px;
+      background:#eef2ff; color:#3730a3;
+      font-size:.85rem; font-weight:700;
+    }
+
+    table{ width:100%; border-collapse:collapse; margin-top:1rem; font-size:.95rem; }
+    th, td{ padding:.6rem .55rem; border-bottom:1px solid var(--border); vertical-align:top; }
+    th{
+      text-align:left; font-weight:800; font-size:.75rem;
+      text-transform:uppercase; letter-spacing:.04em; color:var(--muted);
+    }
+    a{ color:var(--brand); text-decoration:none; word-break:break-word; }
+    a:hover{ text-decoration:underline; }
+
+    .def-cell{ white-space:pre-line; }
+
+    /* 📱 Mobile: table -> cartes */
+    @media (max-width: 640px){
+      header{ padding:.9rem 1rem; }
+      header h1{ font-size:1.15rem; }
+      main{ margin:1rem auto 2rem; padding:0 .75rem; }
+      .card{ padding:1rem; border-radius:.9rem; }
+      .form-row{ grid-template-columns:1fr; gap:.75rem; }
+
+      thead{ display:none; }
+      table, tbody, tr, td{ display:block; width:100%; }
+      tr{
+        background:#fff;
+        border:1px solid var(--border);
+        border-radius:.9rem;
+        padding:.75rem .85rem;
+        margin-top:.75rem;
+      }
+      td{ border:0; padding:.4rem 0; }
+      td::before{
+        content: attr(data-label);
+        display:block;
+        font-weight:900;
+        font-size:.72rem;
+        letter-spacing:.03em;
+        text-transform:uppercase;
+        color:var(--muted);
+        margin-bottom:.2rem;
+      }
     }
   </style>
 </head>
 <body>
-<header>
-  <h1>Bases légales</h1>
-  <p>Choisis une date et une catégorie, puis ouvre la fiche.</p>
-</header>
+  <header>
+    <h1>Bases légales</h1>
+    <p>Choisis une date et une catégorie, puis ouvre la fiche.</p>
+  </header>
 
-<main>
-  <section class="card" id="step1">
-    <h2>Sélection</h2>
-    <form id="entry-form">
-      <div class="form-row">
-        <div>
-          <label for="firstRegDate">Date 1<sup>ère</sup> mise en circulation</label>
-          <input type="date" id="firstRegDate" required />
+  <main>
+    <section class="card" id="step1">
+      <h2>Sélection</h2>
+      <form id="entry-form">
+        <div class="form-row">
+          <div>
+            <label for="firstRegDate">Date 1<sup>ère</sup> mise en circulation</label>
+            <input type="date" id="firstRegDate" required />
+          </div>
+          <div>
+            <label for="category">Catégorie</label>
+            <select id="category" required>
+              <option value="">Chargement…</option>
+            </select>
+          </div>
         </div>
-        <div>
-          <label for="category">Catégorie</label>
-          <select id="category" required>
-            <option value="">Chargement…</option>
-          </select>
+
+        <div class="actions">
+          <button id="open-btn" type="submit" disabled>Ouvrir la fiche</button>
         </div>
+
+        <p class="muted" style="margin:.75rem 0 0;">
+          Les tutoriels PDF doivent être dans <code>Tuto_PDF/</code>.
+        </p>
+      </form>
+    </section>
+
+    <section class="card" id="step2" style="display:none;">
+      <div style="display:flex; align-items:flex-start; justify-content:space-between; gap:1rem; flex-wrap:wrap;">
+        <div>
+          <h2 style="margin:0 0 .25rem;">Fiche</h2>
+          <div class="pills" id="selection-summary"></div>
+        </div>
+        <button id="back-btn" type="button">Retour</button>
       </div>
-      <div class="actions">
-        <button id="open-btn" type="submit" disabled>Ouvrir la fiche</button>
-      </div>
-      <p class="muted" style="margin:.75rem 0 0;">
-        Tutoriels PDF locaux : fichiers dans <code>Tuto_PDF/</code>. Dans l’Excel, <code>Link.2</code> peut être un chemin Windows — le convert le ramène à <code>Tuto_PDF\\Nom.pdf</code>.
-      </p>
-      <p class="muted" id="debug-path" style="margin:.5rem 0 0;"></p>
-    </form>
-  </section>
 
-  <section class="card" id="step2" style="display:none;">
-    <div style="display:flex; align-items:flex-start; justify-content:space-between; gap:1rem; flex-wrap:wrap;">
-      <div>
-        <h2 style="margin:0 0 .25rem;">Fiche</h2>
-        <div class="pills" id="selection-summary"></div>
-      </div>
-      <button id="back-btn" type="button">Retour</button>
-    </div>
+      <div id="regulations-container"></div>
+    </section>
+  </main>
 
-    <div id="regulations-container"></div>
-  </section>
-</main>
+  <script>
+    const categorySelect = document.getElementById("category");
+    const openBtn = document.getElementById("open-btn");
+    const step1 = document.getElementById("step1");
+    const step2 = document.getElementById("step2");
+    const selectionSummary = document.getElementById("selection-summary");
+    const backBtn = document.getElementById("back-btn");
+    const form = document.getElementById("entry-form");
 
-<script>
-  const categorySelect = document.getElementById("category");
-  const openBtn = document.getElementById("open-btn");
-  const step1 = document.getElementById("step1");
-  const step2 = document.getElementById("step2");
-  const selectionSummary = document.getElementById("selection-summary");
-  const backBtn = document.getElementById("back-btn");
-  const form = document.getElementById("entry-form");
-  const debugPath = document.getElementById("debug-path");
-
-  function escapeHtml(str){
-    return String(str ?? "")
-      .replaceAll("&","&amp;")
-      .replaceAll("<","&lt;")
-      .replaceAll(">","&gt;")
-      .replaceAll('"',"&quot;")
-      .replaceAll("'","&#039;");
-  }
-
-  // ✅ calcule l’URL correcte du JSON même si tu ouvres / ou /GithubDesktop_AppOCN/
-  function getJsonUrl(){
-    // base = dossier courant de la page
-    const baseDir = new URL("./", window.location.href);
-    return new URL("regulations.json", baseDir).toString();
-  }
-
-  function isInternalTutoRow(row){
-    const d = String(row["Directives, autres"] ?? "").trim().toLowerCase();
-    const n = String(row["N°.1"] ?? "").trim().toLowerCase();
-    return d === "tutoriel" || n.startsWith("tuto_");
-  }
-
-  function normalizeInternalPdfPath(raw){
-    const v = String(raw ?? "").trim();
-    if (!v || v.toLowerCase() === "none" || v === "–") return "";
-    // normalise backslashes -> /
-    let p = v.replaceAll("\\", "/");
-    // coupe à partir de Tuto_PDF/
-    const idx = p.toLowerCase().lastIndexOf("tuto_pdf/");
-    if (idx !== -1) p = p.slice(idx);
-    // si juste un nom de fichier pdf
-    if (!p.includes("/") && p.toLowerCase().endsWith(".pdf")) p = "Tuto_PDF/" + p;
-    // valide
-    if (!p.toLowerCase().startsWith("tuto_pdf/")) return "";
-    if (!p.toLowerCase().endsWith(".pdf")) return "";
-    // force la casse du dossier
-    return "Tuto_PDF/" + p.split("/").slice(1).join("/");
-  }
-
-  function renderRegulations(data){
-    const container = document.getElementById("regulations-container");
-    if (!Array.isArray(data) || data.length === 0) {
-      container.innerHTML = "<p class='muted'>Aucune donnée pour cette catégorie.</p>";
-      return;
+    function escapeHtml(str){
+      return String(str ?? "")
+        .replaceAll("&","&amp;")
+        .replaceAll("<","&lt;")
+        .replaceAll(">","&gt;")
+        .replaceAll('"',"&quot;")
+        .replaceAll("'","&#039;");
     }
 
-    let html = `
-      <table>
-        <thead>
-          <tr>
-            <th>Définition</th>
-            <th>CH</th>
-            <th>EU</th>
-            <th>Autres directives</th>
-          </tr>
-        </thead>
-        <tbody>
-    `;
+    function normalizePdfInternalPath(raw){
+      // Retourne un chemin interne "Tuto_PDF/xxx.pdf" ou "" si pas de pdf
+      const v = String(raw ?? "").trim();
+      if (!v || v.toLowerCase() === "none" || v === "–") return "";
 
-    for (const row of data) {
-      const def = escapeHtml(row["Déf."] || row["Déf"] || row["Definition"] || row["Définition"] || "");
+      // URL externe -> on refuse (tu ne veux pas de https)
+      if (v.startsWith("http://") || v.startsWith("https://")) return "";
 
-      let colCH = escapeHtml(row["CH"] || "–");
-      if (row["Article"] && row["Link"] && String(row["Article"]).toLowerCase() !== "none") {
-        colCH += `<br><a href="${escapeHtml(row["Link"])}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["Article"])}</a>`;
+      // normalise backslashes -> /
+      let p = v.replaceAll("\\", "/");
+
+      // coupe à partir de Tuto_PDF/
+      const idx = p.toLowerCase().lastIndexOf("tuto_pdf/");
+      if (idx !== -1) p = p.slice(idx);
+
+      // si juste un nom de fichier pdf
+      if (!p.includes("/") && p.toLowerCase().endsWith(".pdf")) {
+        p = "Tuto_PDF/" + p;
       }
 
-      let colEU = escapeHtml(row["EU"] || "–");
-      if (row["N°"]) {
-        if (row["Link.1"]) {
-          colEU += `<br><a href="${escapeHtml(row["Link.1"])}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°"])}</a>`;
-        } else {
-          colEU += `<br>${escapeHtml(row["N°"])}`;
+      // garde uniquement si ça ressemble à Tuto_PDF/*.pdf
+      if (!p.toLowerCase().startsWith("tuto_pdf/")) return "";
+      if (!p.toLowerCase().endsWith(".pdf")) return "";
+
+      // force la casse dossier
+      p = "Tuto_PDF/" + p.split("/").slice(1).join("/");
+      return p;
+    }
+
+    function renderRegulations(data){
+      const container = document.getElementById("regulations-container");
+
+      if (!Array.isArray(data) || data.length === 0) {
+        container.innerHTML = "<p class='muted'>Aucune donnée pour cette catégorie.</p>";
+        return;
+      }
+
+      let html = `
+        <table>
+          <thead>
+            <tr>
+              <th>Définition</th>
+              <th>CH</th>
+              <th>EU</th>
+              <th>Autres directives</th>
+            </tr>
+          </thead>
+          <tbody>
+      `;
+
+      for (const row of data) {
+        const def = escapeHtml(row["Déf."] || row["Déf"] || row["Definition"] || row["Définition"] || "");
+
+        let colCH = escapeHtml(row["CH"] || "–");
+        if (row["Article"] && row["Link"] && String(row["Article"]).toLowerCase() !== "none") {
+          colCH += `<br><a href="${escapeHtml(row["Link"])}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["Article"])}</a>`;
         }
-      }
 
-      let colAutres = "–";
-      if (row["Directives, autres"]) {
-        colAutres = escapeHtml(row["Directives, autres"]);
-        if (row["N°.1"]) {
-          const label = escapeHtml(row["N°.1"]);
-          const link2 = String(row["Link.2"] ?? "").trim();
-
-          if (!link2) {
-            colAutres += `<br>${label}`;
+        let colEU = escapeHtml(row["EU"] || "–");
+        if (row["N°"]) {
+          if (row["Link.1"]) {
+            colEU += `<br><a href="${escapeHtml(row["Link.1"])}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°"])}</a>`;
           } else {
-            const hasPdf = link2.toLowerCase().includes(".pdf");
+            colEU += `<br>${escapeHtml(row["N°"])}`;
+          }
+        }
 
-            // ✅ Tutoriels: lien interne uniquement
-            if (hasPdf && isInternalTutoRow(row)) {
-              const pdfPath = normalizeInternalPdfPath(link2);
-              colAutres += pdfPath
-                ? `<br><a href="${escapeHtml(pdfPath)}" target="_blank" rel="noopener noreferrer">${label}</a>`
-                : `<br>${label}`;
-            }
-            // ✅ Non-tutoriels: lien externe autorisé (même si PDF) -> ex: Antipollution OBD
-            else if (link2.startsWith("http://") || link2.startsWith("https://")) {
-              colAutres += `<br><a href="${escapeHtml(link2)}" target="_blank" rel="noopener noreferrer">${label}</a>`;
-            }
-            // ✅ Non-tutoriels: PDF local => lien interne aussi
-            else if (hasPdf) {
-              const pdfPath = normalizeInternalPdfPath(link2);
-              colAutres += pdfPath
-                ? `<br><a href="${escapeHtml(pdfPath)}" target="_blank" rel="noopener noreferrer">${label}</a>`
-                : `<br>${label}`;
-            }
-            else {
-              colAutres += `<br>${label}`;
+        // Autres directives:
+        // - si Link.2 est un pdf => on fait un lien INTERNE sur le texte N°.1 (ex: Tuto_13:20)
+        // - sinon on garde le comportement normal (lien si http)
+        let colAutres = "–";
+        if (row["Directives, autres"]) {
+          colAutres = escapeHtml(row["Directives, autres"]);
+          if (row["N°.1"]) {
+            const link2 = String(row["Link.2"] ?? "").trim();
+            const isPdf = link2.toLowerCase().includes(".pdf");
+            if (isPdf) {
+              // ✅ PDF externe (ex: Antipollution OBD) : on garde le lien https
+              if (link2.startsWith("http://") || link2.startsWith("https://")) {
+                colAutres += `<br><a href="${escapeHtml(link2)}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
+              } else {
+                // ✅ Tutoriels PDF locaux : lien interne Tuto_PDF/...
+                const pdfPath = normalizePdfInternalPath(link2);
+                if (pdfPath) {
+                  colAutres += `<br><a href="${escapeHtml(pdfPath)}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
+                } else {
+                  colAutres += `<br>${escapeHtml(row["N°.1"])}`;
+                }
+              }
+            }} else if (link2 && link2.startsWith("http")) {
+              colAutres += `<br><a href="${escapeHtml(link2)}" target="_blank" rel="noopener noreferrer">${escapeHtml(row["N°.1"])}</a>`;
+            } else {
+              colAutres += `<br>${escapeHtml(row["N°.1"])}`;
             }
           }
         }
+
+        html += `
+          <tr>
+            <td class="def-cell" data-label="Définition"><strong>${def}</strong></td>
+            <td data-label="CH">${colCH}</td>
+            <td data-label="EU">${colEU}</td>
+            <td data-label="Autres directives">${colAutres}</td>
+          </tr>
+        `;
       }
 
-      html += `
-        <tr>
-          <td class="def-cell" data-label="Définition"><strong>${def}</strong></td>
-          <td data-label="CH">${colCH}</td>
-          <td data-label="EU">${colEU}</td>
-          <td data-label="Autres directives">${colAutres}</td>
-        </tr>
-      `;
+      html += "</tbody></table>";
+      container.innerHTML = html;
     }
 
-    html += "</tbody></table>";
-    container.innerHTML = html;
-  }
+    async function init(){
+      try{
+        const res = await fetch("regulations.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("Impossible de charger regulations.json");
+        const all = await res.json();
 
-  async function init(){
-    try{
-      const jsonUrl = getJsonUrl();
-      debugPath.textContent = "Chargement JSON : " + jsonUrl;
+        const categories = Object.keys(all || {});
+        categorySelect.innerHTML =
+          `<option value="">Sélectionner…</option>` +
+          categories.map(c => `<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join("");
 
-      const res = await fetch(jsonUrl, { cache: "no-store" });
-      if (!res.ok) throw new Error("Impossible de charger regulations.json (HTTP " + res.status + ")");
+        openBtn.disabled = false;
 
-      const all = await res.json();
+        form.addEventListener("submit", (e) => {
+          e.preventDefault();
+          const date = document.getElementById("firstRegDate").value;
+          const category = categorySelect.value;
 
-      const categories = Object.keys(all || {});
-      categorySelect.innerHTML =
-        `<option value="">Sélectionner…</option>` +
-        categories.map(c => `<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join("");
+          if (!date || !category) return;
 
-      openBtn.disabled = false;
+          selectionSummary.innerHTML = `
+            <span class="pill">📅 ${escapeHtml(date)}</span>
+            <span class="pill">🏷️ ${escapeHtml(category)}</span>
+          `;
 
-      form.addEventListener("submit", (e) => {
-        e.preventDefault();
-        const date = document.getElementById("firstRegDate").value;
-        const category = categorySelect.value;
-        if (!date || !category) return;
+          renderRegulations(all[category] || []);
+          step1.style.display = "none";
+          step2.style.display = "block";
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        });
 
-        selectionSummary.innerHTML = `
-          <span class="pill">📅 ${escapeHtml(date)}</span>
-          <span class="pill">🏷️ ${escapeHtml(category)}</span>
-        `;
+        backBtn.addEventListener("click", () => {
+          step2.style.display = "none";
+          step1.style.display = "block";
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        });
 
-        renderRegulations(all[category] || []);
-        step1.style.display = "none";
-        step2.style.display = "block";
-        window.scrollTo({ top: 0, behavior: "smooth" });
-      });
-
-      backBtn.addEventListener("click", () => {
-        step2.style.display = "none";
-        step1.style.display = "block";
-        window.scrollTo({ top: 0, behavior: "smooth" });
-      });
-
-    } catch(err){
-      console.error(err);
-      categorySelect.innerHTML = `<option value="">Erreur de chargement</option>`;
-      openBtn.disabled = true;
-      document.getElementById("regulations-container").innerHTML =
-        `<p class="muted">Erreur: ${escapeHtml(err.message)}</p>`;
+      } catch(err){
+        console.error(err);
+        categorySelect.innerHTML = `<option value="">Erreur de chargement</option>`;
+        openBtn.disabled = true;
+        document.getElementById("regulations-container").innerHTML =
+          `<p class="muted">Erreur: ${escapeHtml(err.message)}</p>`;
+      }
     }
-  }
 
-  init();
-</script>
+    init();
+  </script>
 </body>
 </html>

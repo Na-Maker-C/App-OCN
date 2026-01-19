@@ -277,7 +277,7 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
-      "Déf.": "Feux ampoules LED ECE (H11, C5)",
+      "Déf.": "Feux ampoules LED homol. ECE (H11, C5)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -601,10 +601,22 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "Déf.": "Feu recul",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 77,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#a77",
+      "EU": "ECE R23.5",
+      "N°": "A2 (p.17)",
+      "Link.1": "https://unece.org/sites/default/files/2025-05/R23r5f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux route (généralités)\n>03.1958 exc. vhc 40km/h OCE",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "74 al.1-2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -613,10 +625,58 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "Déf.": "Feux route supplémentaires (dispositifs facultatifs)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "110 al.1-2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_110",
+      "EU": "ECE R48.13",
+      "N°": "6.1 (p.33)",
+      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux stationnement (généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "75 al.1-2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_75",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux stop (généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "75 al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_75",
+      "EU": "ECE R7.7",
+      "N°": null,
+      "Link.1": "https://unece.org/sites/default/files/2025-05/R07r7f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux stop (dispositifs obligatoire: 3eme facultatif) ",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "109 al.1b",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux stop supplémentaire (généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "75 al.4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_75",
       "EU": null,
       "N°": null,
       "Link.1": null,

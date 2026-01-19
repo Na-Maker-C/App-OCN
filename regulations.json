@@ -253,7 +253,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux à décharge (xénon)",
+      "Déf.": "Feux  décharge (xénon)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "74 al.5",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
@@ -275,6 +275,18 @@
       "Directives, autres": "ASA 2a",
       "N°.1": "p.48",
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Feux ampoules LED ECE (H11, C5)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": " ECE R37.7",
+      "N°": "A3 (p.181)",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/R037r7f.pdf",
+      "Directives, autres": "OSRAM/philips",
+      "N°.1": "ECE R37",
+      "Link.2": "https://www.philips.de/c-e/au/autolampen/scheinwerfer/ultinon-pro6000-led"
     },
     {
       "Déf.": "Feux croisement (généralités)",
@@ -469,7 +481,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux de panne, avertisseur (généralités)",
+      "Déf.": "Feux  panne, avertisseur (généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "78 al.1",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_78",
@@ -553,10 +565,10 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "Déf.": "Feux position (généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "75 al.1-2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_75",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -565,10 +577,10 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "Déf.": "Feux position (dispositifs obligatoires)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "109 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -577,10 +589,10 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "Déf.": "Feux position (couleur)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10: 111",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -637,40 +649,40 @@
       "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/74422.pdf"
     },
     {
-      "Déf.": null,
+      "Déf.": "Identification, homologation feux signalisation ",
       "CH": null,
       "Article": null,
       "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "EU": "ECE R148.3",
+      "N°": "3.2.4",
+      "Link.1": "https://unece.org/sites/default/files/2021-05/R148f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "P104-109",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
-      "Déf.": null,
+      "Déf.": "Identification, homologation feux éclairage route",
       "CH": null,
       "Article": null,
       "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "EU": "ECE R149.3",
+      "N°": "13 (p.123)",
+      "Link.1": "https://unece.org/sites/default/files/2021-05/R149f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "P104-109",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
-      "Déf.": null,
+      "Déf.": "Identification, homologation dispositif réfléchissant, catadioptre",
       "CH": null,
       "Article": null,
       "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "EU": "ONU 150",
+      "N°": "A24(p.91)",
+      "Link.1": "https://unece.org/sites/default/files/2021-05/R150f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "P104-109",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
       "Déf.": null,

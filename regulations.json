@@ -10,7 +10,7 @@
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R083r5f.pdf",
       "Directives, autres": "DETEC",
       "N°.1": 741.437,
-      "Link.2": "RS 741.437 - Ordonnance du DETEC du 21 août 2002 relative à l'entretien et au contrôle subséquent des voitures automobiles en ce qui concerne les émissions de gaz d'échappement et de fumées | Fedlex"
+      "Link.2": "https://www.fedlex.admin.ch/eli/cc/2002/596/fr"
     },
     {
       "Déf.": "Antipollution (contrôles)",
@@ -373,7 +373,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux de jour (diurne)",
+      "Déf.": "Feux de jour, diurne (>01.10.2012)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "76 al.5",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_76",
@@ -385,16 +385,16 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
+      "Déf.": "Feux de jour, diurne (distance)",
       "CH": null,
       "Article": null,
       "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_DiurneInstallation",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_DiurneInstallation.pdf"
     },
     {
       "Déf.": null,

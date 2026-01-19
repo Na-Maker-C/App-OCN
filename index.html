@@ -68,14 +68,13 @@
           </select>
         </div>
       </div>
-
       <div class="actions">
         <button id="open-btn" type="submit" disabled>Ouvrir la fiche</button>
       </div>
-
       <p class="muted" style="margin:.75rem 0 0;">
-        Tutoriels PDF locaux : mets tes fichiers dans <code>Tuto_PDF/</code> et mets <code>Link.2</code> à <code>Tuto_PDF\Nom.pdf</code>.
+        Tutoriels PDF locaux : fichiers dans <code>Tuto_PDF/</code>. Dans l’Excel, <code>Link.2</code> peut être un chemin Windows — le convert le ramène à <code>Tuto_PDF\\Nom.pdf</code>.
       </p>
+      <p class="muted" id="debug-path" style="margin:.5rem 0 0;"></p>
     </form>
   </section>
 
@@ -100,6 +99,7 @@
   const selectionSummary = document.getElementById("selection-summary");
   const backBtn = document.getElementById("back-btn");
   const form = document.getElementById("entry-form");
+  const debugPath = document.getElementById("debug-path");
 
   function escapeHtml(str){
     return String(str ?? "")
@@ -108,6 +108,13 @@
       .replaceAll(">","&gt;")
       .replaceAll('"',"&quot;")
       .replaceAll("'","&#039;");
+  }
+
+  // ✅ calcule l’URL correcte du JSON même si tu ouvres / ou /GithubDesktop_AppOCN/
+  function getJsonUrl(){
+    // base = dossier courant de la page
+    const baseDir = new URL("./", window.location.href);
+    return new URL("regulations.json", baseDir).toString();
   }
 
   function isInternalTutoRow(row){
@@ -119,12 +126,17 @@
   function normalizeInternalPdfPath(raw){
     const v = String(raw ?? "").trim();
     if (!v || v.toLowerCase() === "none" || v === "–") return "";
-    let p = v.replaceAll("\", "/");
+    // normalise backslashes -> /
+    let p = v.replaceAll("\\", "/");
+    // coupe à partir de Tuto_PDF/
     const idx = p.toLowerCase().lastIndexOf("tuto_pdf/");
     if (idx !== -1) p = p.slice(idx);
+    // si juste un nom de fichier pdf
     if (!p.includes("/") && p.toLowerCase().endsWith(".pdf")) p = "Tuto_PDF/" + p;
+    // valide
     if (!p.toLowerCase().startsWith("tuto_pdf/")) return "";
     if (!p.toLowerCase().endsWith(".pdf")) return "";
+    // force la casse du dossier
     return "Tuto_PDF/" + p.split("/").slice(1).join("/");
   }
 
@@ -177,20 +189,25 @@
           } else {
             const hasPdf = link2.toLowerCase().includes(".pdf");
 
+            // ✅ Tutoriels: lien interne uniquement
             if (hasPdf && isInternalTutoRow(row)) {
               const pdfPath = normalizeInternalPdfPath(link2);
               colAutres += pdfPath
                 ? `<br><a href="${escapeHtml(pdfPath)}" target="_blank" rel="noopener noreferrer">${label}</a>`
                 : `<br>${label}`;
-            } else if (link2.startsWith("http://") || link2.startsWith("https://")) {
-              // ✅ Antipollution OBD (m.e.v. CH) = PDF externe newsd.admin.ch => autorisé
+            }
+            // ✅ Non-tutoriels: lien externe autorisé (même si PDF) -> ex: Antipollution OBD
+            else if (link2.startsWith("http://") || link2.startsWith("https://")) {
               colAutres += `<br><a href="${escapeHtml(link2)}" target="_blank" rel="noopener noreferrer">${label}</a>`;
-            } else if (hasPdf) {
+            }
+            // ✅ Non-tutoriels: PDF local => lien interne aussi
+            else if (hasPdf) {
               const pdfPath = normalizeInternalPdfPath(link2);
               colAutres += pdfPath
                 ? `<br><a href="${escapeHtml(pdfPath)}" target="_blank" rel="noopener noreferrer">${label}</a>`
                 : `<br>${label}`;
-            } else {
+            }
+            else {
               colAutres += `<br>${label}`;
             }
           }
@@ -213,8 +230,12 @@
 
   async function init(){
     try{
-      const res = await fetch("regulations.json", { cache: "no-store" });
-      if (!res.ok) throw new Error("Impossible de charger regulations.json");
+      const jsonUrl = getJsonUrl();
+      debugPath.textContent = "Chargement JSON : " + jsonUrl;
+
+      const res = await fetch(jsonUrl, { cache: "no-store" });
+      if (!res.ok) throw new Error("Impossible de charger regulations.json (HTTP " + res.status + ")");
+
       const all = await res.json();
 
       const categories = Object.keys(all || {});

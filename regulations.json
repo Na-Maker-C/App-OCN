@@ -373,7 +373,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux de jour, diurne (>01.10.2012)",
+      "Déf.": "Feux diurne, jour (>01.10.2012)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "76 al.5",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_76",
@@ -385,7 +385,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux de jour, diurne (distance)",
+      "Déf.": "Feux diurne, jour (distance, installation)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -461,6 +461,54 @@
       "CH": "OETV (Annexes)",
       "Article": "A10: 6",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_6",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux de panne, avertisseur (généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "78 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_78",
+      "EU": "ECE R48.13",
+      "N°": "6.5 (p.45)",
+      "Link.1": "https://unece.org/transport/documents/2024/12/standards/addendum-47-un-regulation-no-48-revision-13",
+      "Directives, autres": "OCR",
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": null,
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": null,
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": null,
+      "CH": null,
+      "Article": null,
+      "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -587,6 +635,42 @@
       "Directives, autres": "Tutoriel",
       "N°.1": "Tuto_13:20",
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_13.20.pdf"
+    },
+    {
+      "Déf.": null,
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Modifier les ECE avec le bon chapitre",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Modifier le tuto 13.20",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     }
   ],
   "N1": [

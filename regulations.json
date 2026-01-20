@@ -37,6 +37,18 @@
       "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/28901.pdf"
     },
     {
+      "Déf.": "Dommages rouille, accident, directive et réparation",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 8",
+      "N°.1": "11, 18",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/w_8_F/index.html"
+    },
+    {
       "Déf.": "Eclairage généralités",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 73,
@@ -265,7 +277,7 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
-      "Déf.": "Feux LED",
+      "Déf.": "Feux LED avant ",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "74 al.4",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
@@ -277,7 +289,7 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
-      "Déf.": "Feux ampoules LED homol. ECE (H11, C5)",
+      "Déf.": "Feux LED ampoules homol. ECE (H11, C5)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -287,6 +299,18 @@
       "Directives, autres": "OSRAM/philips",
       "N°.1": "ECE R37",
       "Link.2": "https://www.philips.de/c-e/au/autolampen/scheinwerfer/ultinon-pro6000-led"
+    },
+    {
+      "Déf.": "Feux LED clignoteur de direction, avertisseurs (activation séquentielle)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R48.13",
+      "N°": 5.6,
+      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "4.4.6",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
       "Déf.": "Feux croisement (généralités)",
@@ -685,6 +709,54 @@
       "Link.2": null
     },
     {
+      "Déf.": "Feux doublage",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "73 al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_73",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2a",
+      "N°.1": "4.4.3.1",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Feux taxi (dispositifs facultatifs)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "110 al.2b",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#a110",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux taxi (couleur)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10: 115",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux (utilisation route)",
+      "CH": "LCR (P.3 Mesure protection)",
+      "Article": 41,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#a41",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OCR",
+      "N°.1": "30-32",
+      "Link.2": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#a30"
+    },
+    {
       "Déf.": "Filtre à particules \n(nombre particules max)",
       "CH": null,
       "Article": null,
@@ -745,13 +817,13 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
-      "Déf.": null,
+      "Déf.": "Tolérance, marge: dimensions et mesures (3%)",
       "CH": null,
       "Article": null,
       "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
+      "EU": "UE 2021/535",
+      "N°": "1.2 (p.158)",
+      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021R0535&qid=1768895794940",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -817,7 +889,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Taper seulement un mot (clignotant, feux, jour, etc)",
+      "Déf.": "Taper seulement un mot (clignotant, feux, jour, etc)\nsi possible au singulier",
       "CH": null,
       "Article": null,
       "Link": null,

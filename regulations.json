@@ -37,6 +37,18 @@
       "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/28901.pdf"
     },
     {
+      "Déf.": "Ceintures",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Dommages rouille, accident, directive et réparation",
       "CH": null,
       "Article": null,
@@ -116,6 +128,18 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Taux, efficacité freinage (banc essai)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 31",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_3/lvl_31",
+      "EU": "UE 2014/45",
+      "N°": "1.2.2 (p.26)",
+      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32014L0045&qid=1768898347450",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -815,6 +839,30 @@
       "Directives, autres": "ASA 2a",
       "N°.1": "P104-109",
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Modification véhicule handicap, mobilité réduite",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": null,
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     },
     {
       "Déf.": "Tolérance, marge: dimensions et mesures (3%)",

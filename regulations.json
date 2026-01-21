@@ -1,16 +1,16 @@
 {
   "M1": [
     {
-      "Déf.": null,
+      "Déf.": "Accessoires aérodynamiques (généralités)",
       "CH": null,
       "Article": null,
       "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "ASA KT16.3",
+      "N°.1": "A2: (p.29-32)",
+      "Link.2": "GithubDesktop_AppOCN\\ASA_PDF\\KT16.3.pdf"
     },
     {
       "Déf.": "Accessoires aérodynamiques: arrêtes",
@@ -20,9 +20,9 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "ASA KT16.3",
+      "N°.1": "A1: 1.4 (p.10)",
+      "Link.2": "GithubDesktop_AppOCN\\ASA_PDF\\KT16.3.pdf"
     },
     {
       "Déf.": "Accessoires aérodynamiques: matériaux",

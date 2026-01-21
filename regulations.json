@@ -2,15 +2,27 @@
   "M1": [
     {
       "Déf.": "Accessoires aérodynamiques (généralités)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 67,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_67",
       "EU": null,
       "N°": null,
       "Link.1": null,
       "Directives, autres": "ASA KT16.3",
       "N°.1": "A2: (p.29-32)",
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
+    },
+    {
+      "Déf.": "Accessoires aérodynamiques \n(composants nécessaire ou utile)",
+      "CH": "OETV (Annexes)",
+      "Article": "A8:2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_8/lvl_u1/lvl_2",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     },
     {
       "Déf.": "Accessoires aérodynamiques: arrêtes",
@@ -32,9 +44,9 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "ASA KT16.3",
+      "N°.1": "A1: 1.3 (p.9)",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
     },
     {
       "Déf.": "Accessoires aérodynamiques: spoiler arrière, ailerons",
@@ -44,9 +56,9 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "ASA KT16.3",
+      "N°.1": "A1: 3 (p.21-23)",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
     },
     {
       "Déf.": "Accessoires aérodynamiques: points, type fixation",
@@ -56,9 +68,9 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
+      "Directives, autres": "ASA KT16.3",
       "N°.1": null,
-      "Link.2": null
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
     },
     {
       "Déf.": "Accessoires aérodynamiques: pare-choc \n(ouverture et grilles)",
@@ -68,9 +80,9 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
+      "Directives, autres": "ASA KT16.3",
       "N°.1": null,
-      "Link.2": null
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
     },
     {
       "Déf.": "Accessoires aérodynamiques: pare-choc lames",
@@ -80,9 +92,9 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
+      "Directives, autres": "ASA KT16.3",
       "N°.1": null,
-      "Link.2": null
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
     },
     {
       "Déf.": "Accessoires aérodynamiques: garde au sol, rampe",
@@ -92,21 +104,21 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
+      "Directives, autres": "ASA KT16.3",
       "N°.1": null,
-      "Link.2": null
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
     },
     {
-      "Déf.": null,
+      "Déf.": "Accessoires aérodynamiques: echappement",
       "CH": null,
       "Article": null,
       "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "ASA KT16.3",
+      "N°.1": "A1: 3.6 (p.25)",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
     },
     {
       "Déf.": null,
@@ -1021,6 +1033,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Pare-buffle",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Protection piéton",
       "CH": null,
       "Article": null,
@@ -1046,6 +1070,18 @@
     },
     {
       "Déf.": "Protection piéton (zones)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Test matériaux",
       "CH": null,
       "Article": null,
       "Link": null,

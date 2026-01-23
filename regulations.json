@@ -1,7 +1,7 @@
 {
   "M1": [
     {
-      "Déf.": "§",
+      "Déf.": null,
       "CH": null,
       "Article": null,
       "Link": null,
@@ -61,7 +61,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Bord minimum\n(arrête min 2.5mm)",
+      "Déf.": "Bord minimum\n(arête min 2.5mm)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -73,10 +73,22 @@
       "Link.2": null
     },
     {
-      "Déf.": "Ceintures",
-      "CH": null,
+      "Déf.": "Ceintures\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "72 al.5,7",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Ceintures\n(ancrage)",
+      "CH": "OETV (P.3: Exig. techn.)",
       "Article": null,
-      "Link": null,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
       "EU": null,
       "N°": null,
       "Link.1": null,

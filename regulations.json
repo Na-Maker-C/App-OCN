@@ -133,7 +133,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Anti-encastrement, antiencastrement",
+      "Déf.": "Anti-encastrement, antiencastrement \n(550mm max)",
       "CH": "OETV (Annexes)",
       "Article": 12,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_2/lvl_u1/lvl_1/lvl_12",
@@ -149,9 +149,9 @@
       "CH": null,
       "Article": null,
       "Link": null,
-      "EU": "ECE",
-      "N°": "R61",
-      "Link.1": null,
+      "EU": "ECE R61",
+      "N°": "6.1.1",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/r061f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -289,7 +289,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Taux, efficacité freinage (banc essai)",
+      "Déf.": "Taux, efficacité freinage (58%/12% & <2012 50%)\n(banc essai)",
       "CH": "OETV (Annexes)",
       "Article": "A7: 31",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_3/lvl_31",

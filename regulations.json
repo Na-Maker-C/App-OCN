@@ -184,7 +184,31 @@
       "Déf.": "Ceintures\n(ancrage)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": null,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Ceintures AV>01.01.1971 AR>01.01.1981\n(obligatoires)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Ceintures minibus\n(obligatoires)",
+      "CH": "voir coursA1b jaquemet",
+      "Article": null,
+      "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -200,6 +224,30 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Compteur \n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "55 al.1-2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_55",
+      "EU": "ECE R39.2",
+      "N°": "R39.2",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R039r2f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Compteur \n(visibilité)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "55 al.1-2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_55",
+      "EU": "ECE R39.2",
+      "N°": "5.2, 5.5",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R039r2f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -224,7 +272,7 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": "ASA 8",
+      "Directives, autres": "ASA KT8",
       "N°.1": "11, 18",
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/w_8_F/index.html"
     },
@@ -1105,6 +1153,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Habitacle\n(poids occupants)",
+      "CH": "OETV (Annexes)",
+      "Article": "A9:25",
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Identification, homologation feux signalisation ",
       "CH": null,
       "Article": null,
@@ -1405,7 +1465,43 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
+      "Déf.": "Pare-brise, parebrise \n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 105,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pare-brise, parebrise\n(réparations)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA KT8",
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Porte (généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 71,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_71",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Porte volet (verrouillage)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -1417,7 +1513,7 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
+      "Déf.": "Porte intérieur animaux",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -1487,6 +1583,18 @@
       "Directives, autres": "CP",
       "N°.1": "261 bis",
       "Link.2": "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/fr#art_261_bis"
+    },
+    {
+      "Déf.": "Siège\n(distances)",
+      "CH": "OETV (Annexes)",
+      "Article": "A9:241",
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     },
     {
       "Déf.": "Test matériaux",

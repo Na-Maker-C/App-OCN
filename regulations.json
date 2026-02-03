@@ -157,7 +157,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Catadioptre",
+      "Déf.": "Catadioptres",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -332,6 +332,18 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Eclairage calandre, logo, bande",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R48.13",
+      "N°": null,
+      "Link.1": "https://unece.org/transport/documents/2024/12/standards/addendum-47-un-regulation-no-48-revision-13",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -1463,6 +1475,18 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Publicité, inscription, peintures spéciales, \nsurface rétroréfléchissantes, discrimination",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "69-70",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_69",
+      "EU": "ONU 48 et 104 ",
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "CP",
+      "N°.1": "261 bis",
+      "Link.2": "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/fr#art_261_bis"
     },
     {
       "Déf.": "Test matériaux",

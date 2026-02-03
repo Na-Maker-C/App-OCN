@@ -193,6 +193,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Classification véhicule \n(M1,N1,O1, etc.)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": 12,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_12",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Disques flottant",
       "CH": null,
       "Article": null,
@@ -817,13 +829,25 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feu recul",
+      "Déf.": "Feu recul (généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 77,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#a77",
       "EU": "ECE R23.5",
       "N°": "A2 (p.17)",
       "Link.1": "https://unece.org/sites/default/files/2025-05/R23r5f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feu recul (dispositif faculatif)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "110 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_110",
+      "EU": "ECE R48.13",
+      "N°": "6.4.2.1",
+      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -1031,6 +1055,18 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Liste forme carrosserie \n(codes 13.20 permis circulation)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nInstructions 13.20",
+      "N°.1": "Annexe 3",
+      "Link.2": "https://www.bing.com/ck/a?!&&p=154d432bf1fe9fe398cce74742330f7854506cefd8b82082990fc4a35c8868e9JmltdHM9MTc2OTY0NDgwMA&ptn=3&ver=2&hsh=4&fclid=335c2cd8-f16b-66b9-08ca-3921f03067f3&psq=instruction+13.20+admin+annexe+3+liste+forme+carrosserie&u=a1aHR0cHM6Ly93d3cuYXN0cmEuYWRtaW4uY2gvZGFtL2FzdHJhL2ZyL2Rva3VtZW50ZS9mYWhyemV1Z2UvYW5oYW5nX2lpaV9rYXJvc3NlcmllZm9ybWVuc3RhbmQwMTA3MjAwNy5wZGYuZG93bmxvYWQucGRmL2FubmV4ZV9paWlfZm9ybWVzY2Fycm9zc2VyaWVldGF0YXUwMTA3MjAwNy5wZGY"
     },
     {
       "Déf.": "Modification véhicule handicap, mobilité réduite",

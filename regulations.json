@@ -13,54 +13,6 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Airbag",
       "CH": null,
       "Article": null,
@@ -231,7 +183,7 @@
     {
       "Déf.": "Compteur \n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "55 al.1-2",
+      "Article": 55,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_55",
       "EU": "ECE R39.2",
       "N°": "R39.2",
@@ -373,9 +325,21 @@
       "Link.2": null
     },
     {
-      "Déf.": "Eclairage facultatif ou autorisé",
+      "Déf.": "Eclairage obligatoire",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "110-111",
+      "Article": 109,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Eclairage facultatif",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 110,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_110",
       "EU": null,
       "N°": null,
@@ -1429,42 +1393,6 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Pare-brise, parebrise \n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 105,
@@ -1485,6 +1413,30 @@
       "N°": null,
       "Link.1": null,
       "Directives, autres": "ASA KT8",
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pare-brise, parebrise \n(ventilation, chauffage, désembuage)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "81 al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_81",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pare-brise, parebrise (transport professionnel)\n(ventilation, chauffage, désembuage)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "105 al. 5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_105",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
     },
@@ -1609,30 +1561,6 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Tolérance, marge: dimensions et mesures (3%)",
       "CH": null,
       "Article": null,
@@ -1640,18 +1568,6 @@
       "EU": "UE 2021/535",
       "N°": "1.2 (p.158)",
       "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021R0535&qid=1768895794940",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -1718,90 +1634,6 @@
     },
     {
       "Déf.": "Tuto contrôle réservoir gaz",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": null,
       "CH": null,
       "Article": null,
       "Link": null,

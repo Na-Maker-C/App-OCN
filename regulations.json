@@ -14,9 +14,9 @@
     },
     {
       "Déf.": "13.20 \n(généralités)",
-      "CH": "OAC",
+      "CH": "OAC (212 permis circ.)",
       "Article": 75,
-      "Link": null,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_75",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -25,7 +25,31 @@
       "Link.2": null
     },
     {
-      "Déf.": "13.20 IRE instructions champs",
+      "Déf.": "13.20\n(contrôle garage, délégataire)",
+      "CH": "OETV (P.2: Contrôles)",
+      "Article": 32,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_32",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "13.20 IRE instructions\n(instructions)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nIRE (13.20)",
+      "N°.1": "Instructions",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/weisung_ausfuellenderpruefungsberichteformular1320aund1320bwpb13.pdf.download.pdf/Instructions%20relatives%20%C3%A0%20l%E2%80%99%C3%A9tablissement%20des%20rapports%20d%E2%80%99expertise,%20formulaires%2013.20%20A%20et%2013.20%20B%20(IRE%2013.20).pdf"
+    },
+    {
+      "Déf.": "13.20 IRE instructions champs\n(A1 champs tous)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -35,6 +59,42 @@
       "Directives, autres": "OFROU \nIRE (13.20)",
       "N°.1": "A1",
       "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/anhang_i_wegleitungstand01092008.pdf.download.pdf/Annexe%20I%20-%20Directives%20pour%20l%E2%80%99%C3%A9tablissement%20des%20rapports%20d%E2%80%99expertise%2013.20%20A%20et%20B.pdf"
+    },
+    {
+      "Déf.": "13.20 IRE instructions champs\n(A1a champs expert, OCN)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nIRE (13.20)",
+      "N°.1": "A1a",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/anhang_ia_wegleitungfuerdieidentifikationsueberpruefungendurchve.pdf.download.pdf/annexe_ia_directivespourlescontrolesdidentificationparlesexperts.pdf"
+    },
+    {
+      "Déf.": "13.20 IRE instructions champs\n(A1b champs RT, FD)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nIRE (13.20)",
+      "N°.1": "A1b",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/Anhang_Ib_Wegleitung.pdf.download.pdf/Directives_pour_l_%C3%A9tablissement_des_rapports_d_expertise_formulaire13.20%20A%20Annexe%20Ib.pdf"
+    },
+    {
+      "Déf.": "13.20 IRE instructions champs\n(A1c champs IVI, OCN)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nIRE (13.20)",
+      "N°.1": "A1c",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/anhang-ic.pdf.download.pdf/Annexe%20Ic%20-%20Directives%20pour%20l%E2%80%99%C3%A9tablissement%20des%20rapports%20d%E2%80%99expertise%2013.20%20A%20relative%20%C3%A0%20l%E2%80%99immatriculation%20des%20v%C3%A9hicules%20IVI.pdf"
     },
     {
       "Déf.": "13.20 IRE liste forme carrosserie \n(genre véhicule - forme)",
@@ -69,8 +129,20 @@
       "N°": null,
       "Link.1": null,
       "Directives, autres": "OFROU \nIRE (13.20)",
-      "N°.1": "A1:champ 26 (p.8)",
-      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/anhang_i_wegleitungstand01092008.pdf.download.pdf/Annexe%20I%20-%20Directives%20pour%20l%E2%80%99%C3%A9tablissement%20des%20rapports%20d%E2%80%99expertise%2013.20%20A%20et%20B.pdf"
+      "N°.1": "A1a:champ 26 (p.3)",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/anhang_ia_wegleitungfuerdieidentifikationsueberpruefungendurchve.pdf.download.pdf/annexe_ia_directivespourlescontrolesdidentificationparlesexperts.pdf"
+    },
+    {
+      "Déf.": "13.20 ASA directive 6 \n(inscriptions chiffres conditions spéciales\npermis circulation)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA RL",
+      "N°.1": 6,
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F6%5Ffr%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
       "Déf.": "Airbag",
@@ -269,6 +341,18 @@
       "CH": "OETV (P.1: Disposition gén.)",
       "Article": 12,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_12",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Codes émissions",
+      "CH": null,
+      "Article": null,
+      "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -1729,7 +1813,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Tuto 13.20 \n(complément voir 13.20 IRE)",
+      "Déf.": "Tuto 13.20 \n(complément voir 13.20 IRE et ASA directive 6)",
       "CH": null,
       "Article": null,
       "Link": null,

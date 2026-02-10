@@ -181,22 +181,22 @@
       "Link.2": "https://www.lexfind.ch/tolv/230223/fr"
     },
     {
-      "Déf.": "Antipollution \n(contrôles)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Antipollution\n(véhicules soumis ou dispensés)",
+      "Déf.": "Antipollution\n(véhicules soumis et controle subséquent)",
       "CH": "OCR (P.4 Usage vhc)",
       "Article": "59a",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_59_a",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_SAPVhcSoumis",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_SAPVhcSoumis.pdf"
+    },
+    {
+      "Déf.": "Antipollution\n(entretien et vhc export )",
+      "CH": null,
+      "Article": null,
+      "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2065,6 +2065,80 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    }
+  ],
+  "Agricole": [
+    {
+      "Déf.": null,
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Filtre à particules \n(nombre particules max)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "DETEC",
+      "N°.1": "p.15",
+      "Link.2": "https://www.lexfind.ch/tolv/223770/fr"
+    },
+    {
+      "Déf.": "Filtre à particules dès F05\n(Nb particules max / normes euro)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU",
+      "N°.1": "p.4",
+      "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/74422.pdf"
+    },
+    {
+      "Déf.": "Pneumatique 30km/h\n(profil min aucun)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "119d",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_119",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatique 40km/h\n(profil min aucun)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "118a al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_118_a",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Tuto prise \n(hydraulique et pneumatique)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_Agricole",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_Agricole.pdf"
     }
   ]
 }

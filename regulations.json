@@ -157,6 +157,30 @@
       "Link.2": null
     },
     {
+      "Déf.": "Système aide à la conduite \n(aide au freinage urgence AEBS >01.2024)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "103 al.5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
+      "EU": "ECE R152.2",
+      "N°": 5.2,
+      "Link.1": "https://unece.org/sites/default/files/2024-04/R152r2F.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Système aide à la conduite \n(urgence maintien trajectoire >01.2024)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "103 al.5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
+      "EU": "UE 2021/646",
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Antipollution \n(généralités)\n >01.01.1976",
       "CH": "OETV (P.2: Contrôles)",
       "Article": 35,
@@ -189,7 +213,7 @@
       "N°": null,
       "Link.1": null,
       "Directives, autres": "Tutoriel",
-      "N°.1": "Tuto_SAPVhcSoumis",
+      "N°.1": "Tabelle véhicules soumis",
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_SAPVhcSoumis.pdf"
     },
     {
@@ -253,7 +277,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Anti-encastrement, antiencastrement \n(généralités)",
+      "Déf.": "Anti-encastrement, antiencastrement >1995\n(généralités)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -421,6 +445,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Définition véhicule automobile",
+      "CH": "LCR (P.2 Vhc et conducteurs)",
+      "Article": "7 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_7",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Diffuseurs, pare-soleil extérieur",
       "CH": "OETV (Annexes)",
       "Article": "A8:26",
@@ -455,6 +491,18 @@
       "Directives, autres": "ASA KT8",
       "N°.1": "11, 18",
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/w_8_F/index.html"
+    },
+    {
+      "Déf.": "Droit administratif\n(autorité compétente)",
+      "CH": "LCR (P.2 Vhc et conducteurs)",
+      "Article": "22 al1-3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_22",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     },
     {
       "Déf.": "Eclairage\n(allumage phares)",
@@ -1333,7 +1381,67 @@
       "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/74422.pdf"
     },
     {
-      "Déf.": "Taux, efficacité freinage (58%/12% & <2012 50%)\n(banc essai)",
+      "Déf.": "Freins\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 65,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_65",
+      "EU": "ECE R13H.4",
+      "N°": "5.1.2",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R013hr4f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins \n(corrosion, rouille)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R13H.4",
+      "N°": "5.1.1.2",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R013hr4f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins\n(conformité)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 103,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
+      "EU": "UE 2019/2144",
+      "N°": null,
+      "Link.1": "https://eur-lex.europa.eu/eli/reg/2019/2144/oj/eng",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins\n(antiblocage)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": null,
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freinage: taux, efficacité (58/12% & <2012 50%)\n(banc essai)",
       "CH": "OETV (Annexes)",
       "Article": "A7: 31",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_3/lvl_31",
@@ -1685,6 +1793,54 @@
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "105 al. 5",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_105",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis de conduire\n(catégories)",
+      "CH": "OAC (P.1 Admission pers.)",
+      "Article": "3 al1-3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_3",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis de conduire\n(contrôle médical)",
+      "CH": "OAC (P.1 Admission pers.)",
+      "Article": 27,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_27",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis de conduire\n(conduite sans permis)",
+      "CH": "LCR (P.2 vhc et conducteur)",
+      "Article": "15e al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_15_e",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis de conduire\n(délit chauffard)",
+      "CH": "LCR (P.2 vhc et conducteur)",
+      "Article": "90 al.3-4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_90",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2071,6 +2227,32 @@
       "CH": "OETV (Exig. techn.)",
       "Article": 110,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_110",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    }
+  ],
+  "O1": [
+    {
+      "Déf.": "Frein remorque légère",
+      "CH": null,
+      "Article": 189,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_189",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Frein remorque fixe",
+      "CH": null,
+      "Article": 197,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_197",
       "EU": null,
       "N°": null,
       "Link.1": null,

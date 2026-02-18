@@ -337,6 +337,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Calcul valeur D-wert\n(gxTxR)/((T+R)*1000)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 91,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_91",
+      "EU": "ECE R55",
+      "N°": "2.12",
+      "Link.1": "https://unece.org/sites/default/files/2025-05/R055r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Catadioptres",
       "CH": null,
       "Article": null,
@@ -1849,6 +1861,66 @@
       "Link.2": null
     },
     {
+      "Déf.": "Plaque de contrôle, immatriculation",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "45 al.2-3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_45",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 39,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_39",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids\n(pourcentage % par essieux dirigés)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "39 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_39",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids\n(pourcentage % poids adhérence)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "39 al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_39",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": null,
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Porte (généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 71,
@@ -1925,6 +1997,30 @@
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 68,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_68",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Plateforme levage\n(distance min)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids, masse abaissement",
+      "CH": "LCR (P.2 vhc et conducteur)",
+      "Article": "9 al.3bis",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_9",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2091,6 +2187,18 @@
     {
       "Déf.": "Tuto contrôle réservoir gaz",
       "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Tribunaux \n(types)",
+      "CH": "Code procédure pénal?",
       "Article": null,
       "Link": null,
       "EU": null,

@@ -2137,7 +2137,43 @@
       "Link.2": null
     },
     {
-      "Déf.": "Réception par type\n(classification vhc codification)",
+      "Déf.": "Reception par type\n(Types CH: FH ou RT ou FD )",
+      "CH": "ORT (P.1 dispo générales)",
+      "Article": "2b,l",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#art_2",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA",
+      "N°.1": "asa-gate",
+      "Link.2": "https://asagate.ch/"
+    },
+    {
+      "Déf.": "Reception par type\n(Types EU: RGEU, RPEU, COC)",
+      "CH": "ORT (P.1 dispo générales)",
+      "Article": "2c,d,e",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#art_2",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Reception par type\n(Type: IVI ou eCOC = données individuelles)",
+      "CH": "OFROU (Fiche infos IVI)",
+      "Article": "IVI",
+      "Link": "https://www.astra.admin.ch/dam/astra/fr/dokumente/abteilung_strassenverkehrallgemein/infoblatt-fahrzeugausweis-ivi.pdf.download.pdf/Fiche%20d%20information%20permis%20de%20circulation%20IVI.pdf",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Edatenblatt",
+      "N°.1": "IVI",
+      "Link.2": "https://www.edatenblatt.astra.admin.ch/edatenblatt"
+    },
+    {
+      "Déf.": "Réception par type\n(classification codes véhicules)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -2147,6 +2183,78 @@
       "Directives, autres": "OFROU",
       "N°.1": "classification des vhc RT",
       "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/fahrzeugeinteilung.pdf.download.pdf/classification_desvehicules.pdf"
+    },
+    {
+      "Déf.": "Réception par type\n(codes)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Réception par type\n(véhicules soumis, non-soumis)",
+      "CH": "ORT (Annexes)",
+      "Article": "A1:1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#annex_1/lvl_u1/lvl_1",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Réception par type\n(accessoires soumis, non-soumis)",
+      "CH": "ORT (Annexes)",
+      "Article": "A1:2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#annex_1/lvl_u1/lvl_2",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Réception par type\n(organes d'expertise agréés)",
+      "CH": "ORT (Annexes)",
+      "Article": "A2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#annex_2/lvl_u1",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Réception par type\n(Titulaire)",
+      "CH": "ORT (P.1 dispo générales)",
+      "Article": 6,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#art_6",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Réception par type (abrogé 01.01.2026)\n(Emolument, émolument additionnel)",
+      "CH": "ORT (Annexes)",
+      "Article": "A3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#annex_3",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     },
     {
       "Déf.": "Roues \n(recouvrement)",

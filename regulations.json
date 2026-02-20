@@ -313,6 +313,42 @@
       "Link.2": null
     },
     {
+      "Déf.": "Attelage\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 91,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_91",
+      "EU": "ECE R55.3",
+      "N°": "4",
+      "Link.1": "https://unece.org/sites/default/files/2025-05/R055r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Attelage calcul valeur D-wert\n(gxTxR)/((T+R)*1000)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R55.3",
+      "N°": "2.12, A8: 2.1",
+      "Link.1": "https://unece.org/sites/default/files/2025-05/R055r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Attelage\n(hauteur crochet )",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R55.3",
+      "N°": "A7: 1.1.1, fig.25 \n(p.65-66)",
+      "Link.1": "https://unece.org/sites/default/files/2025-05/R055r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Bord minimum\n(arête min 2.5mm)",
       "CH": null,
       "Article": null,
@@ -332,18 +368,6 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Calcul valeur D-wert\n(gxTxR)/((T+R)*1000)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 91,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_91",
-      "EU": "ECE R55",
-      "N°": "2.12",
-      "Link.1": "https://unece.org/sites/default/files/2025-05/R055r3f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -461,6 +485,30 @@
       "CH": "LCR (P.2 Vhc et conducteurs)",
       "Article": "7 al.1",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_7",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Définition loi",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Définition ordonnance",
+      "CH": null,
+      "Article": null,
+      "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -1909,10 +1957,22 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "Déf.": "Poids, masse abaissement",
+      "CH": "LCR (P.2 vhc et conducteur)",
+      "Article": "9 al.3bis",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_9",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids effectif",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "7 al,2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2017,18 +2077,6 @@
       "Link.2": null
     },
     {
-      "Déf.": "Poids, masse abaissement",
-      "CH": "LCR (P.2 vhc et conducteur)",
-      "Article": "9 al.3bis",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_9",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Protection piéton",
       "CH": null,
       "Article": null,
@@ -2077,6 +2125,30 @@
       "Link.2": "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/fr#art_261_bis"
     },
     {
+      "Déf.": "Réception par type\n(généralités)",
+      "CH": "LCR (P.1 dispo générales)",
+      "Article": 12,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_12",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Réception par type\n(classification vhc codification)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU",
+      "N°.1": "classification des vhc RT",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/fahrzeugeinteilung.pdf.download.pdf/classification_desvehicules.pdf"
+    },
+    {
       "Déf.": "Roues \n(recouvrement)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 104,
@@ -2102,6 +2174,18 @@
     },
     {
       "Déf.": "Test matériaux",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Timon",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -2361,6 +2445,18 @@
       "CH": null,
       "Article": 197,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_197",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Charge du timon et répartition du poids",
+      "CH": null,
+      "Article": "184 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_184",
       "EU": null,
       "N°": null,
       "Link.1": null,

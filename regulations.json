@@ -373,6 +373,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Bruit sonore\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 53,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_53",
+      "EU": "ECE R51.3",
+      "N°": 6.1,
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2016/R051r3f.pdf",
+      "Directives, autres": "OPB",
+      "N°.1": 3,
+      "Link.2": "https://lex.weblaw.ch/lex.php?norm_id=814.41&source=SR&lex_id=86217&q=#art_3"
+    },
+    {
       "Déf.": "Catadioptres",
       "CH": null,
       "Article": null,
@@ -445,16 +457,16 @@
       "Link.2": null
     },
     {
-      "Déf.": "Codes émissions",
+      "Déf.": "Codes émissions gaz \n(recherche d'un code depuis CoC N° EU)",
       "CH": null,
       "Article": null,
       "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "OFROU",
+      "N°.1": "Reception par type",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/emissionscode_aufdertypengenehmigung.pdf.download.pdf/codes%20emissions%20reception%20par%20type.pdf"
     },
     {
       "Déf.": "Compteur \n(généralités)",
@@ -692,6 +704,18 @@
       "EU": "ECE R48.13",
       "N°": null,
       "Link.1": "https://unece.org/transport/documents/2024/12/standards/addendum-47-un-regulation-no-48-revision-13",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Emission gaz euro",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 37,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_37",
+      "EU": "UE 2017/1151",
+      "N°": "3.1 (p.6)",
+      "Link.1": "https://eur-lex.europa.eu/eli/reg/2017/1151/oj/eng",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -1489,18 +1513,6 @@
       "Link.2": null
     },
     {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Freinage: taux, efficacité (58/12% & <2012 50%)\n(banc essai)",
       "CH": "OETV (Annexes)",
       "Article": "A7: 31",
@@ -1571,6 +1583,66 @@
       "Directives, autres": "ASA 2a",
       "N°.1": "P104-109",
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Importation individuelle\n(Dispense de reception par type RT)",
+      "CH": "OETV (P.2: Contrôles)",
+      "Article": "29 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_29",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nInstr. dispense RT",
+      "N°.1": "1 (p.2)",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/weisungen_ueber_diebefreiungvondertypengenehmigung.pdf.download.pdf/instructions_surladispensedelareceptionpartype.pdf"
+    },
+    {
+      "Déf.": "Importation individuelle\n(Documents nécessaires)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nInstr. dispense RT",
+      "N°.1": "3.1 (p.3-4)",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/weisungen_ueber_diebefreiungvondertypengenehmigung.pdf.download.pdf/instructions_surladispensedelareceptionpartype.pdf"
+    },
+    {
+      "Déf.": "Importation individuelle\n(sans CoC, preuve conformité UE ou ECE)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nInstr. dispense RT",
+      "N°.1": "3.2 (p.4)",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/weisungen_ueber_diebefreiungvondertypengenehmigung.pdf.download.pdf/instructions_surladispensedelareceptionpartype.pdf"
+    },
+    {
+      "Déf.": "Importation individuelle\n(Hors UE)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nInstr. dispense RT",
+      "N°.1": "3.4 (p.5-6)",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/weisungen_ueber_diebefreiungvondertypengenehmigung.pdf.download.pdf/instructions_surladispensedelareceptionpartype.pdf"
+    },
+    {
+      "Déf.": "Importation individuelle\n(déménagement, mariage, succession)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nInstr. dispense RT",
+      "N°.1": "4.2(p.7-8)",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/weisungen_ueber_diebefreiungvondertypengenehmigung.pdf.download.pdf/instructions_surladispensedelareceptionpartype.pdf"
     },
     {
       "Déf.": "Insigne capot, figure ornementale",
@@ -1789,6 +1861,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Modification substantielle",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "4 al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_4",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Modification snorkel",
       "CH": null,
       "Article": null,
@@ -1799,6 +1883,18 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Outil calcul sanction CO2\n(petit importateur)",
+      "CH": "ORECO2 (Annexes)",
+      "Article": "A5",
+      "Link": "https://lex.weblaw.ch/lex.php?norm_id=641.711&source=SR&lex_id=91109&q=#annex_5",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFEN",
+      "N°.1": "Outil calcul sanction CO2",
+      "Link.2": "https://www.bfe.admin.ch/bfe/fr/home/efficacite/mobilite/prescriptions-concernant-les-emissions-de-co2-des-vehicules-neufs/voitures-de-tourisme/outil-de-calcul-pour-petits-importateurs-vt.html"
     },
     {
       "Déf.": "Pare-buffle >01.01.2010 voir cours jaquemet ",
@@ -1853,6 +1949,18 @@
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "105 al. 5",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_105",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pare-brise, parebrise\n(vignette autoroute)",
+      "CH": "OVA",
+      "Article": 3,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/2023/338/fr#annex_u1",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2185,16 +2293,16 @@
       "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/fahrzeugeinteilung.pdf.download.pdf/classification_desvehicules.pdf"
     },
     {
-      "Déf.": "Réception par type\n(codifications)",
+      "Déf.": "Réception par type\n(codification bruit [G], gaz [A], fumée [R])",
       "CH": null,
       "Article": null,
       "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "OFROU",
+      "N°.1": "codes d'émission RT",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/emissionscode_aufdertypengenehmigung.pdf.download.pdf/codes%20emissions%20reception%20par%20type.pdf"
     },
     {
       "Déf.": "Réception par type\n(véhicules soumis, non-soumis)",
@@ -2264,6 +2372,42 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Sanction CO2\n(généralités)",
+      "CH": "ORECO2 (Ch.3 Vhc)",
+      "Article": 17,
+      "Link": "https://lex.weblaw.ch/lex.php?norm_id=641.711&source=SR&lex_id=91109&file=fr-html_file.html#art_23",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Sanction CO2\n(Obligation type véhicule)",
+      "CH": "ORECO2 (Ch.3 Vhc)",
+      "Article": "23,23a",
+      "Link": "https://lex.weblaw.ch/lex.php?norm_id=641.711&source=SR&lex_id=91109&file=fr-html_file.html#art_23",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Sanction CO2\n(pas non soumis, véhicule usage spécial)",
+      "CH": "ORECO2 (Ch.3 Vhc)",
+      "Article": "17d",
+      "Link": "https://lex.weblaw.ch/lex.php?norm_id=641.711&source=SR&lex_id=91109&file=fr-html_file.html#art_17_d",
+      "EU": "UE 2018/858",
+      "N°": "A1:5 (p.72)",
+      "Link.1": "https://eur-lex.europa.eu/eli/reg/2018/858/oj/eng",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null

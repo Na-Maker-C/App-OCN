@@ -140,7 +140,7 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": "ASA RL",
+      "Directives, autres": "ASA Dir/RL",
       "N°.1": 6,
       "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F6%5Ffr%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
@@ -491,6 +491,18 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Corrosion \n(généralités)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "DIN ",
+      "N°": "EN ISO 8044",
+      "Link.1": "https://www.dinmedia.de/de/norm/din-en-iso-8044/16329103",
+      "Directives, autres": "ASA Dir/RL 8",
+      "N°.1": "ch.5 (p9-10)",
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
       "Déf.": "Définition véhicule automobile",
@@ -1961,6 +1973,18 @@
       "CH": "OVA",
       "Article": 3,
       "Link": "https://www.fedlex.admin.ch/eli/cc/2023/338/fr#annex_u1",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis de circulation\n(retrait motifs)",
+      "CH": "OAC (P.25 Mesures admin.)",
+      "Article": 106,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_106",
       "EU": null,
       "N°": null,
       "Link.1": null,

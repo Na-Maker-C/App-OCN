@@ -146,9 +146,9 @@
     },
     {
       "Déf.": "Airbag",
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "72 al.8-10",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -349,13 +349,25 @@
       "Link.2": null
     },
     {
-      "Déf.": "Bord minimum\n(arête min 2.5mm)",
+      "Déf.": "Bord minimum vhc utilitaire\n(arête min 2.5mm)",
       "CH": null,
       "Article": null,
       "Link": null,
       "EU": "ECE R61",
       "N°": "6.1.1",
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/r061f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Bord minimum vhc\n(arête min 2.5mm)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R26.1",
+      "N°": "5.4",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R026r1f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -383,6 +395,42 @@
       "Directives, autres": "OPB",
       "N°.1": 3,
       "Link.2": "https://lex.weblaw.ch/lex.php?norm_id=814.41&source=SR&lex_id=86217&q=#art_3"
+    },
+    {
+      "Déf.": "Carrosserie\n(généralités)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Carrosserie\n(type de carrosserie, châssis)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 66,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_66",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA Dir/RL 8",
+      "N°.1": "ch.3 (p5-6)",
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
+    },
+    {
+      "Déf.": "Carrosserie autoporteuse\n(support primaire, secondaire, habillage)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA Dir/RL 8",
+      "N°.1": "ch.4 (p7-8)",
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
       "Déf.": "Catadioptres",
@@ -481,6 +529,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Compteur\n(tolérance compteur 6km/h)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 55,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_55",
+      "EU": "ECE R39.2",
+      "N°": "R39.2",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R039r2f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Compteur \n(visibilité)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "55 al.1-2",
@@ -494,15 +554,27 @@
     },
     {
       "Déf.": "Corrosion \n(généralités)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "CH": "LCR (P.2 Vhc et conducteurs)",
+      "Article": 29,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_29",
       "EU": "DIN ",
       "N°": "EN ISO 8044",
       "Link.1": "https://www.dinmedia.de/de/norm/din-en-iso-8044/16329103",
       "Directives, autres": "ASA Dir/RL 8",
       "N°.1": "ch.5 (p9-10)",
       "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
+    },
+    {
+      "Déf.": "Corrosion\n(",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     },
     {
       "Déf.": "Définition véhicule automobile",
@@ -965,9 +1037,9 @@
       "CH": null,
       "Article": null,
       "Link": null,
-      "EU": "ECE R48.13",
-      "N°": 5.6,
-      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
+      "EU": "ECE R6",
+      "N°": "5.7(p.11)",
+      "Link.1": "https://unece.org/sites/default/files/2025-05/R06r7f.pdf",
       "Directives, autres": "ASA 2a",
       "N°.1": "4.4.6",
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
@@ -1561,6 +1633,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Identification\n(Numéro châssis, plaquette constructeur)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 44,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_44",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Identification, homologation feux signalisation ",
       "CH": null,
       "Article": null,
@@ -1933,16 +2017,40 @@
       "Link.2": null
     },
     {
-      "Déf.": "Pare-brise, parebrise\n(réparations)",
+      "Déf.": "Pare-brise, parebrise \n(champ vision, champ visuel 29cm)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "71a",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_71a",
+      "EU": "ECE R125.2",
+      "N°": "ch.5.1",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R125r2f.pdf",
+      "Directives, autres": "ASA Dir/RL 8",
+      "N°.1": "ch.10, 10.1 (p22)",
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
+    },
+    {
+      "Déf.": "Pare-brise, parebrise \n(impact, rayure, réparation)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "71a",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_71a",
+      "EU": "ECE R43.4",
+      "N°": "5.1.3.1 (p.136)",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/R043r4f.pdf",
+      "Directives, autres": "ASA Dir/RL 8",
+      "N°.1": "ch.10.2, 10.4 (p22-23)",
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
+    },
+    {
+      "Déf.": "Pare-brise, parebrise \n(type colle, collage)",
       "CH": null,
       "Article": null,
       "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": "ASA KT8",
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "ASA Dir/RL 8",
+      "N°.1": "ch.10.3 (p23)",
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
       "Déf.": "Pare-brise, parebrise \n(ventilation, chauffage, désembuage)",
@@ -1976,6 +2084,18 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Partie saillante, pointue extérieure\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 67,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_67",
+      "EU": "ECE R26.1",
+      "N°": "5.2-5.3",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R026r1f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -2555,6 +2675,18 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Tuto corrosion",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_Corrosion",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_Corrosion.pdf"
     },
     {
       "Déf.": "Tribunaux \n(types)",

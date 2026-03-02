@@ -349,12 +349,24 @@
       "Link.2": null
     },
     {
-      "Déf.": "Anti-encastrement, antiencastrement \n(550mm max)",
+      "Déf.": "Anti-encastrement, antiencastrement \n(hauteur = 550mm max)",
       "CH": "OETV (Annexes)",
       "Article": "A2:12",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_2/lvl_u1/lvl_1/lvl_12",
       "EU": "ECE R58.3",
       "N°": "7, 8.1, 16.3, 16.4",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2020/R058r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Anti-encastrement, antiencastrement \n(profondeur = 400mm max)",
+      "CH": "OETV (Annexes)",
+      "Article": "A2:12",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_2/lvl_u1/lvl_1/lvl_12",
+      "EU": "ECE R58.3",
+      "N°": 16.4,
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2020/R058r3f.pdf",
       "Directives, autres": null,
       "N°.1": null,

@@ -145,13 +145,49 @@
       "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F6%5Ffr%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
-      "Déf.": "Airbag",
+      "Déf.": "Airbag\n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "72 al.8-10",
+      "Article": "72 al.8-9",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
+      "EU": "ECE R114",
+      "N°": 8,
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2009/r114f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Airbag\n(durée de vie légale: aucune)",
+      "CH": "OCR (P.3 Mesure protection)",
+      "Article": 29,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_29",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Airbag\n(remplacement)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "72 al.8",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
       "EU": null,
       "N°": null,
       "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Airbag passager\n(instructions obligatoires)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "72 al.9",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
+      "EU": "ECE R114",
+      "N°": "5.1.1.3",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2009/r114f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -241,6 +277,18 @@
       "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/28901.pdf"
     },
     {
+      "Déf.": "Antipollution\n(codes)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Antipollution nouveau carnet car perdu\n(commander chez autoswiss ou fabricant)",
       "CH": null,
       "Article": null,
@@ -278,15 +326,15 @@
     },
     {
       "Déf.": "Anti-encastrement, antiencastrement >1995\n(généralités)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "104 c",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_104",
       "EU": "ECE R58.3",
       "N°": null,
-      "Link.1": null,
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2020/R058r3f.pdf",
       "Directives, autres": "ASA KT21c",
-      "N°.1": null,
-      "Link.2": null
+      "N°.1": "KT21c",
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?viewid=b4160c0c%2D2b50%2D43fa%2Dbc68%2D5ba905785bd0&id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FMerkbl%C3%A4tter%2FMB%5FKT%5F21c%5Ff%5F007%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FMerkbl%C3%A4tter"
     },
     {
       "Déf.": "Anti-encastrement, antiencastrement \n(véhicules concernés)",
@@ -303,7 +351,7 @@
     {
       "Déf.": "Anti-encastrement, antiencastrement \n(550mm max)",
       "CH": "OETV (Annexes)",
-      "Article": 12,
+      "Article": "A2:12",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_2/lvl_u1/lvl_1/lvl_12",
       "EU": "ECE R58.3",
       "N°": "7, 8.1, 16.3, 16.4",
@@ -500,6 +548,18 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Classification véhicule tout terrains\n(M1G,N1G, etc.)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "UE 2007/46",
+      "N°": "4.6 (p.263)",
+      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32007L0046",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -1568,9 +1628,9 @@
       "EU": "ECE R13H.4",
       "N°": "5.1.1.2",
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R013hr4f.pdf",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "ASA Dir/RL 8",
+      "N°.1": "9 (p.21)",
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
       "Déf.": "Freins\n(conformité)",
@@ -1578,7 +1638,7 @@
       "Article": 103,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
       "EU": "UE 2019/2144",
-      "N°": null,
+      "N°": "5c (p.325/10)",
       "Link.1": "https://eur-lex.europa.eu/eli/reg/2019/2144/oj/eng",
       "Directives, autres": null,
       "N°.1": null,
@@ -1597,7 +1657,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Freinage: taux, efficacité (58/12% & <2012 50%)\n(banc essai)",
+      "Déf.": "Freinage [58/12% & <2012 50%]\n(taux, efficacité freinage, banc essai)",
       "CH": "OETV (Annexes)",
       "Article": "A7: 31",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_3/lvl_31",
@@ -1625,6 +1685,18 @@
       "CH": "OETV (Annexes)",
       "Article": "A9:25",
       "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Habitacle\n(lisibilité, visibilité compteur, témoins)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "72 al.10",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -1760,6 +1832,18 @@
       "EU": "ECE R13H.4",
       "N°": "5.2.3,12,13",
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R013hr4f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Modifications, transformations\n(obligation notifier, informer)",
+      "CH": "OETV (P.2: Contrôles)",
+      "Article": "34 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_34",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -2173,6 +2257,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Pneumatique\n(hiver, flocon, m+s)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Poids\n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 39,
@@ -2512,7 +2608,7 @@
       "Déf.": "Roues \n(recouvrement)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 104,
-      "Link": null,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_104",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2567,6 +2663,18 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Suppression, supprimer, enlever\n(ceinture, airbag, tendeurs, prétensionneur)",
+      "CH": "OETV (P.2: Contrôles)",
+      "Article": "34 al.2 l,i,j",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_34",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA Dir/RL 8",
+      "N°.1": 7.5,
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
       "Déf.": "Test matériaux",
@@ -2711,6 +2819,30 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Véhicule accidenté\n(définition)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_DefinitionAccident",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_DefinitionAccident.pdf"
+    },
+    {
+      "Déf.": "Volant direction modifié \n(airbag et homologué)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 64,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_64",
+      "EU": "ECE R114",
+      "N°": 4.2,
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2009/r114f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "4.2.2.1 (p.22)",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
       "Déf.": "Modifier les ECE avec le bon chapitre",

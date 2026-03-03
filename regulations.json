@@ -2101,18 +2101,6 @@
       "Link.2": null
     },
     {
-      "Déf.": "OETV\n(Structure)",
-      "CH": "OETV",
-      "Article": "OETV",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "Tutoriel",
-      "N°.1": "Tuto_OETV_Structure",
-      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_OETV_Structure.pdf"
-    },
-    {
       "Déf.": "Outil calcul sanction CO2\n(petit importateur)",
       "CH": "ORECO2 (Annexes)",
       "Article": "A5",
@@ -2879,6 +2867,18 @@
       "Directives, autres": "Tutoriel",
       "N°.1": "Tuto_Corrosion",
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_Corrosion.pdf"
+    },
+    {
+      "Déf.": "Tuto OETV structure",
+      "CH": "OETV",
+      "Article": "OETV",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_OETV_Structure",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_OETV_Structure.pdf"
     },
     {
       "Déf.": "Tribunaux \n(types)",

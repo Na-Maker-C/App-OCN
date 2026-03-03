@@ -697,6 +697,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Dimensions\n(voie, roues jumelées)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "6 al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_6",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Disques flottant",
       "CH": null,
       "Article": null,
@@ -769,7 +781,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Eclairage (généralités)",
+      "Déf.": "Eclairage\n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 73,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_73",
@@ -781,7 +793,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Eclairage généralités annexes",
+      "Déf.": "Eclairage\n(généralités annexes)",
       "CH": "OETV (Annexes)",
       "Article": "Annexe 10",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10",
@@ -793,43 +805,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Eclairage identification",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA 2a",
-      "N°.1": "Annexe 5",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
-      "Déf.": "Eclairage compteur",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "55 al.1",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_55",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Eclairage plaque",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "109 al.1.b",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Eclairage obligatoire",
+      "Déf.": "Eclairage\n(obligatoire)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 109,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
@@ -841,10 +817,58 @@
       "Link.2": null
     },
     {
-      "Déf.": "Eclairage facultatif",
+      "Déf.": "Eclairage \n(facultatif)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 110,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_110",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Eclairage \n(identification UE)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2a",
+      "N°.1": "Annexe 5",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Eclairage \n(identification SAE DOT)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2a",
+      "N°.1": "Annexe 6",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Eclairage \n(compteur)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "55 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_55",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Eclairage\n(plaque)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "109 al.1.b",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2077,6 +2101,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "OETV\n(Structure)",
+      "CH": "OETV",
+      "Article": "OETV",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_OETV_Structure",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_OETV_Structure.pdf"
+    },
+    {
       "Déf.": "Outil calcul sanction CO2\n(petit importateur)",
       "CH": "ORECO2 (Annexes)",
       "Article": "A5",
@@ -2269,13 +2305,49 @@
       "Link.2": null
     },
     {
-      "Déf.": "Pneumatique\n(hiver, flocon, m+s)",
+      "Déf.": "Pneumatique\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 58,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_58",
+      "EU": "ECE R30.3",
+      "N°": "1 (p.5)",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/r030r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatique\n(roues jumelées et indice de charge = le plus petit)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "58 al.5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_58",
+      "EU": "ECE R54.3",
+      "N°": "A3:1 (p.22)",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R054r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatique\n(hiver  = M+S sans test chiffré)",
       "CH": null,
       "Article": null,
       "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
+      "EU": "ECE R30.3",
+      "N°": "3.1.5 (p.12)",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/r030r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatique\n(hiver = flocon & montagne 3 pics, test chiffré)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R117.5",
+      "N°": "4.2.6 (p.11)",
+      "Link.1": "https://unece.org/sites/default/files/2025-09/R117r5f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -2845,6 +2917,18 @@
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_DefinitionAccident.pdf"
     },
     {
+      "Déf.": "Véhicule neuf mise en circ <1an et <=2000km \n(définition)",
+      "CH": "OETV (P.2: Contrôles)",
+      "Article": "29 al.5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_29",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Volant direction modifié \n(airbag et homologué)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 64,
@@ -2907,73 +2991,13 @@
   ],
   "N1": [
     {
-      "Déf.": "ACC",
-      "CH": "OETV (Exig. gén.)",
-      "Article": 73,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_73",
-      "EU": "ECE",
-      "N°": " R48.13",
-      "Link.1": "https://unece.org/transport/documents/2024/12/standards/addendum-47-un-regulation-no-48-revision-13",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "ISA",
-      "CH": "OETV (Annexes)",
-      "Article": "Annexe 10",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "ALC",
-      "CH": "none",
-      "Article": "none",
+      "Déf.": "Pneumatique\n(roues jumelées indice de charge)",
+      "CH": null,
+      "Article": null,
       "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA 2a",
-      "N°.1": "Annexe 5",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
-      "Déf.": "LCA",
-      "CH": "OETV (Exig. techn.)",
-      "Article": "55 al.1",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_55",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "ELKS",
-      "CH": "OETV (Exig. techn.)",
-      "Article": "109 al.1.b",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "LKA",
-      "CH": "OETV (Exig. techn.)",
-      "Article": 110,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_110",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
+      "EU": "ECE R54.3",
+      "N°": "A3:1 (p.22)",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R054r3f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -3009,6 +3033,30 @@
       "CH": null,
       "Article": "184 al.2",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_184",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatique tolérance = 10%\n(indice de charge)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ETRTO",
+      "N°.1": "6.3 (p.21)",
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FETRTO%5F2025%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA"
+    },
+    {
+      "Déf.": "Vitesse maximale remorque \n(données constructeur FD, RT, COC)",
+      "CH": "OCR",
+      "Article": "5 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_5",
       "EU": null,
       "N°": null,
       "Link.1": null,

@@ -1,18 +1,6 @@
 {
   "M1": [
     {
-      "Déf.": null,
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "13.20 \n(généralités)",
       "CH": "OAC (212 permis circ.)",
       "Article": 75,
@@ -25,28 +13,16 @@
       "Link.2": null
     },
     {
-      "Déf.": "13.20\n(contrôle garage, délégataire)",
-      "CH": "OETV (P.2: Contrôles)",
-      "Article": 32,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_32",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "13.20 IRE instructions\n(instructions)",
+      "Déf.": "13.20 ASA directive 6 \n(inscriptions chiffres conditions spéciales\npermis circulation)",
       "CH": null,
       "Article": null,
       "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": "OFROU \nIRE (13.20)",
-      "N°.1": "Instructions",
-      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/weisung_ausfuellenderpruefungsberichteformular1320aund1320bwpb13.pdf.download.pdf/Instructions%20relatives%20%C3%A0%20l%E2%80%99%C3%A9tablissement%20des%20rapports%20d%E2%80%99expertise,%20formulaires%2013.20%20A%20et%2013.20%20B%20(IRE%2013.20).pdf"
+      "Directives, autres": "ASA Dir/RL",
+      "N°.1": 6,
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F6%5Ffr%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
       "Déf.": "13.20 IRE instructions champs\n(A1 champs tous)",
@@ -97,6 +73,30 @@
       "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/anhang-ic.pdf.download.pdf/Annexe%20Ic%20-%20Directives%20pour%20l%E2%80%99%C3%A9tablissement%20des%20rapports%20d%E2%80%99expertise%2013.20%20A%20relative%20%C3%A0%20l%E2%80%99immatriculation%20des%20v%C3%A9hicules%20IVI.pdf"
     },
     {
+      "Déf.": "13.20 IRE instructions\n(instructions)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nIRE (13.20)",
+      "N°.1": "Instructions",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/weisung_ausfuellenderpruefungsberichteformular1320aund1320bwpb13.pdf.download.pdf/Instructions%20relatives%20%C3%A0%20l%E2%80%99%C3%A9tablissement%20des%20rapports%20d%E2%80%99expertise,%20formulaires%2013.20%20A%20et%2013.20%20B%20(IRE%2013.20).pdf"
+    },
+    {
+      "Déf.": "13.20 IRE liste couleur carrosserie",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nIRE (13.20)",
+      "N°.1": "A1a:champ 26 (p.3)",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/anhang_ia_wegleitungfuerdieidentifikationsueberpruefungendurchve.pdf.download.pdf/annexe_ia_directivespourlescontrolesdidentificationparlesexperts.pdf"
+    },
+    {
       "Déf.": "13.20 IRE liste forme carrosserie \n(genre véhicule - forme)",
       "CH": null,
       "Article": null,
@@ -121,46 +121,10 @@
       "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/anhang_v_uebersichtueberdieabhaengigkeitenzwischendenfahrzeugart.pdf.download.pdf/annexe_v_apercu_relatifauxdependancesentrelesgenresdevehiculeset.pdf"
     },
     {
-      "Déf.": "13.20 IRE liste couleur carrosserie",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "OFROU \nIRE (13.20)",
-      "N°.1": "A1a:champ 26 (p.3)",
-      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/anhang_ia_wegleitungfuerdieidentifikationsueberpruefungendurchve.pdf.download.pdf/annexe_ia_directivespourlescontrolesdidentificationparlesexperts.pdf"
-    },
-    {
-      "Déf.": "13.20 ASA directive 6 \n(inscriptions chiffres conditions spéciales\npermis circulation)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA Dir/RL",
-      "N°.1": 6,
-      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F6%5Ffr%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
-    },
-    {
-      "Déf.": "Airbag\n(généralités)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "72 al.8-9",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
-      "EU": "ECE R114",
-      "N°": 8,
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2009/r114f.pdf",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Airbag\n(durée de vie légale: aucune)",
-      "CH": "OCR (P.3 Mesure protection)",
-      "Article": 29,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_29",
+      "Déf.": "13.20\n(contrôle garage, délégataire)",
+      "CH": "OETV (P.2: Contrôles)",
+      "Article": 32,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_32",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -169,10 +133,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Airbag\n(remplacement)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "72 al.8",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
+      "Déf.": "ABS montage ultérieur (modification)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -193,94 +157,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Système aide à la conduite \n(aide au freinage urgence AEBS >01.2024)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "103 al.5",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
-      "EU": "ECE R152.2",
-      "N°": 5.2,
-      "Link.1": "https://unece.org/sites/default/files/2024-04/R152r2F.pdf",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Système aide à la conduite \n(urgence maintien trajectoire >01.2024)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "103 al.5",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
-      "EU": "UE 2021/646",
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Antipollution \n(généralités)\n >01.01.1976",
-      "CH": "OETV (P.2: Contrôles)",
-      "Article": 35,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#a35",
-      "EU": "ECE",
-      "N°": "R83.5",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R083r5f.pdf",
-      "Directives, autres": "DETEC OECGF",
-      "N°.1": 741.437,
-      "Link.2": "https://www.fedlex.admin.ch/eli/cc/2002/596/fr"
-    },
-    {
-      "Déf.": "Antipollution \n(instrument mesure moteur combustion)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "DFJP (OIGE)",
-      "N°.1": 941.242,
-      "Link.2": "https://www.lexfind.ch/tolv/230223/fr"
-    },
-    {
-      "Déf.": "Antipollution\n(véhicules soumis et controle subséquent)",
-      "CH": "OCR (P.4 Usage vhc)",
-      "Article": "59a",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_59_a",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "Tutoriel",
-      "N°.1": "Tabelle véhicules soumis",
-      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_SAPVhcSoumis.pdf"
-    },
-    {
-      "Déf.": "Antipollution\n(entretien et vhc export )",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "OECGF 741.437",
-      "N°.1": "Ch. 1.4",
-      "Link.2": "https://www.fedlex.admin.ch/eli/cc/2002/596/fr"
-    },
-    {
-      "Déf.": "Antipollution OBD\n (m.e.v. CH)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "OFROU",
-      "N°.1": "Mise en vigueur",
-      "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/28901.pdf"
-    },
-    {
-      "Déf.": "Antipollution\n(codes)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "Déf.": "Airbag\n(durée de vie légale: aucune)",
+      "CH": "OCR (P.3 Mesure protection)",
+      "Article": 29,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_29",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -289,58 +169,22 @@
       "Link.2": null
     },
     {
-      "Déf.": "Antipollution nouveau carnet car perdu\n(commander chez autoswiss ou fabricant)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "Autoswiss",
-      "N°.1": "carnet SAP",
-      "Link.2": "https://www.auto.swiss/fr/abgaswartungsdokument/"
-    },
-    {
-      "Déf.": "ABS montage ultérieur (modification)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
+      "Déf.": "Airbag\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "72 al.8-9",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
+      "EU": "ECE R114",
+      "N°": 8,
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2009/r114f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
     },
     {
-      "Déf.": "Attestation carrossage",
+      "Déf.": "Airbag\n(remplacement)",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "103 al.2",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Anti-encastrement, antiencastrement >1995\n(généralités)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "104 c",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_104",
-      "EU": "ECE R58.3",
-      "N°": null,
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2020/R058r3f.pdf",
-      "Directives, autres": "ASA KT21c",
-      "N°.1": "KT21c",
-      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?viewid=b4160c0c%2D2b50%2D43fa%2Dbc68%2D5ba905785bd0&id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FMerkbl%C3%A4tter%2FMB%5FKT%5F21c%5Ff%5F007%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FMerkbl%C3%A4tter"
-    },
-    {
-      "Déf.": "Anti-encastrement, antiencastrement \n(véhicules concernés)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "104 c",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_104",
+      "Article": "72 al.8",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -373,16 +217,112 @@
       "Link.2": null
     },
     {
-      "Déf.": "Attelage\n(généralités)",
+      "Déf.": "Anti-encastrement, antiencastrement \n(véhicules concernés)",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 91,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_91",
-      "EU": "ECE R55.3",
-      "N°": "4",
-      "Link.1": "https://unece.org/sites/default/files/2025-05/R055r3f.pdf",
+      "Article": "104 c",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_104",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Anti-encastrement, antiencastrement >1995\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "104 c",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_104",
+      "EU": "ECE R58.3",
+      "N°": null,
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2020/R058r3f.pdf",
+      "Directives, autres": "ASA KT21c",
+      "N°.1": "KT21c",
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?viewid=b4160c0c%2D2b50%2D43fa%2Dbc68%2D5ba905785bd0&id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FMerkbl%C3%A4tter%2FMB%5FKT%5F21c%5Ff%5F007%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FMerkbl%C3%A4tter"
+    },
+    {
+      "Déf.": "Antipollution \n(généralités)\n >01.01.1976",
+      "CH": "OETV (P.2: Contrôles)",
+      "Article": 35,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#a35",
+      "EU": "ECE",
+      "N°": "R83.5",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R083r5f.pdf",
+      "Directives, autres": "DETEC OECGF",
+      "N°.1": 741.437,
+      "Link.2": "https://www.fedlex.admin.ch/eli/cc/2002/596/fr"
+    },
+    {
+      "Déf.": "Antipollution \n(instrument mesure moteur combustion)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "DFJP (OIGE)",
+      "N°.1": 941.242,
+      "Link.2": "https://www.lexfind.ch/tolv/230223/fr"
+    },
+    {
+      "Déf.": "Antipollution nouveau carnet car perdu\n(commander chez autoswiss ou fabricant)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Autoswiss",
+      "N°.1": "carnet SAP",
+      "Link.2": "https://www.auto.swiss/fr/abgaswartungsdokument/"
+    },
+    {
+      "Déf.": "Antipollution OBD\n (m.e.v. CH)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU",
+      "N°.1": "Mise en vigueur",
+      "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/28901.pdf"
+    },
+    {
+      "Déf.": "Antipollution\n(codes)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Antipollution\n(entretien et vhc export )",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OECGF 741.437",
+      "N°.1": "Ch. 1.4",
+      "Link.2": "https://www.fedlex.admin.ch/eli/cc/2002/596/fr"
+    },
+    {
+      "Déf.": "Antipollution\n(véhicules soumis et controle subséquent)",
+      "CH": "OCR (P.4 Usage vhc)",
+      "Article": "59a",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_59_a",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tabelle véhicules soumis",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_SAPVhcSoumis.pdf"
     },
     {
       "Déf.": "Attelage calcul valeur D-wert\n(gxTxR)/((T+R)*1000)",
@@ -397,6 +337,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Attelage\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 91,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_91",
+      "EU": "ECE R55.3",
+      "N°": "4",
+      "Link.1": "https://unece.org/sites/default/files/2025-05/R055r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Attelage\n(hauteur crochet )",
       "CH": null,
       "Article": null,
@@ -404,6 +356,18 @@
       "EU": "ECE R55.3",
       "N°": "A7: 1.1.1, fig.25 \n(p.65-66)",
       "Link.1": "https://unece.org/sites/default/files/2025-05/R055r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Attestation carrossage",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "103 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -457,6 +421,18 @@
       "Link.2": "https://lex.weblaw.ch/lex.php?norm_id=814.41&source=SR&lex_id=86217&q=#art_3"
     },
     {
+      "Déf.": "Carrosserie autoporteuse\n(support primaire, secondaire, habillage)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA Dir/RL 8",
+      "N°.1": "ch.4 (p7-8)",
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
+    },
+    {
       "Déf.": "Carrosserie\n(généralités)",
       "CH": null,
       "Article": null,
@@ -481,44 +457,8 @@
       "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
-      "Déf.": "Carrosserie autoporteuse\n(support primaire, secondaire, habillage)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA Dir/RL 8",
-      "N°.1": "ch.4 (p7-8)",
-      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
-    },
-    {
       "Déf.": "Catadioptres",
       "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Ceintures\n(généralités)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "72 al.5,7",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Ceintures\n(ancrage)",
-      "CH": "OETV (P.3: Exig. techn.)",
       "Article": null,
       "Link": null,
       "EU": null,
@@ -545,6 +485,30 @@
       "CH": "voir coursA1b jaquemet",
       "Article": null,
       "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Ceintures\n(ancrage)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Ceintures\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "72 al.5,7",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -601,24 +565,24 @@
       "Link.2": null
     },
     {
-      "Déf.": "Compteur\n(tolérance compteur 6km/h)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 55,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_55",
-      "EU": "ECE R39.2",
-      "N°": "R39.2",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R039r2f.pdf",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Compteur \n(visibilité)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "55 al.1-2",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_55",
       "EU": "ECE R39.2",
       "N°": "5.2, 5.5",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R039r2f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Compteur\n(tolérance compteur 6km/h)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 55,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_55",
+      "EU": "ECE R39.2",
+      "N°": "R39.2",
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R039r2f.pdf",
       "Directives, autres": null,
       "N°.1": null,
@@ -649,18 +613,6 @@
       "Link.2": null
     },
     {
-      "Déf.": "Définition véhicule automobile",
-      "CH": "LCR (P.2 Vhc et conducteurs)",
-      "Article": "7 al.1",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_7",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Définition loi",
       "CH": null,
       "Article": null,
@@ -677,6 +629,18 @@
       "CH": null,
       "Article": null,
       "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Définition véhicule automobile",
+      "CH": "LCR (P.2 Vhc et conducteurs)",
+      "Article": "7 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_7",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -745,70 +709,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Eclairage\n(allumage phares)",
-      "CH": "LCR (P.3 Mesure protection)",
-      "Article": 41,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_41",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Eclairage utilisation\n(utilisation phares)",
-      "CH": "OCR (P.3 Mesure protection)",
-      "Article": "29-31,39",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_29",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Eclairage obligation réception \n(homologation)",
-      "CH": "ORT (Annexes)",
-      "Article": "Annexe 1",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#annex_1/lvl_u1/lvl_2",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Eclairage\n(généralités)",
+      "Déf.": "Eclairage \n(compteur)",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 73,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_73",
-      "EU": "ECE",
-      "N°": " R48.13",
-      "Link.1": "https://unece.org/transport/documents/2024/12/standards/addendum-47-un-regulation-no-48-revision-13",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Eclairage\n(généralités annexes)",
-      "CH": "OETV (Annexes)",
-      "Article": "Annexe 10",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Eclairage\n(obligatoire)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 109,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
+      "Article": "55 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_55",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -829,18 +733,6 @@
       "Link.2": null
     },
     {
-      "Déf.": "Eclairage \n(identification UE)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA 2a",
-      "N°.1": "Annexe 5",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
       "Déf.": "Eclairage \n(identification SAE DOT)",
       "CH": null,
       "Article": null,
@@ -853,10 +745,94 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
-      "Déf.": "Eclairage \n(compteur)",
+      "Déf.": "Eclairage \n(identification UE)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2a",
+      "N°.1": "Annexe 5",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Eclairage calandre, logo, bande",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R48.13",
+      "N°": null,
+      "Link.1": "https://unece.org/transport/documents/2024/12/standards/addendum-47-un-regulation-no-48-revision-13",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Eclairage obligation réception \n(homologation)",
+      "CH": "ORT (Annexes)",
+      "Article": "Annexe 1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#annex_1/lvl_u1/lvl_2",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Eclairage utilisation\n(utilisation phares)",
+      "CH": "OCR (P.3 Mesure protection)",
+      "Article": "29-31,39",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_29",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Eclairage\n(allumage phares)",
+      "CH": "LCR (P.3 Mesure protection)",
+      "Article": 41,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_41",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Eclairage\n(généralités annexes)",
+      "CH": "OETV (Annexes)",
+      "Article": "Annexe 10",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Eclairage\n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "55 al.1",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_55",
+      "Article": 73,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_73",
+      "EU": "ECE",
+      "N°": " R48.13",
+      "Link.1": "https://unece.org/transport/documents/2024/12/standards/addendum-47-un-regulation-no-48-revision-13",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Eclairage\n(obligatoire)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 109,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -872,18 +848,6 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Eclairage calandre, logo, bande",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": "ECE R48.13",
-      "N°": null,
-      "Link.1": "https://unece.org/transport/documents/2024/12/standards/addendum-47-un-regulation-no-48-revision-13",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -911,6 +875,78 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Feu recul (dispositif faculatif)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "110 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_110",
+      "EU": "ECE R48.13",
+      "N°": "6.4.2.1",
+      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feu recul (généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 77,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#a77",
+      "EU": "ECE R23.5",
+      "N°": "A2 (p.17)",
+      "Link.1": "https://unece.org/sites/default/files/2025-05/R23r5f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux  décharge (xénon)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "74 al.5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
+      "EU": "ECE",
+      "N°": "R98.3",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2012/R098r3f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "p.48",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Feux  panne, avertisseur (généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "78 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_78",
+      "EU": "ECE R48.13",
+      "N°": "6.5 (p.45)",
+      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
+      "Directives, autres": "OCR",
+      "N°.1": 23,
+      "Link.2": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_23"
+    },
+    {
+      "Déf.": "Feux (angel eyes)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2a",
+      "N°.1": "2002-04-04T00:00:00",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Feux (utilisation route)",
+      "CH": "LCR (P.3 Mesure protection)",
+      "Article": 41,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#a41",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OCR",
+      "N°.1": "30-32",
+      "Link.2": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#a30"
     },
     {
       "Déf.": "Feux arrière",
@@ -944,30 +980,6 @@
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux (angel eyes)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA 2a",
-      "N°.1": "2002-04-04T00:00:00",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
-      "Déf.": "Feux spéciaux",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": "ECE",
-      "N°": "R65",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2012/R065r2f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -1009,22 +1021,10 @@
       "Link.2": "https://www.fedlex.admin.ch/eli/oc/2019/576/fr"
     },
     {
-      "Déf.": "Feux brouillard arrière (généralités)\n>01.10.1999 & \nimmat.import.constr en CH >01.10.2001",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "76 al2-4",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_76",
-      "EU": "ECE",
-      "N°": "R38",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R038r3f.pdf",
-      "Directives, autres": "ASA 2a",
-      "N°.1": "p.40-41",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
-      "Déf.": "Feux brouillard arrière (dispositif facultatif)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 111,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_111",
+      "Déf.": "Feux brouillard arrière (couleur)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10: 112",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -1033,10 +1033,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux brouillard arrière (couleur)",
-      "CH": "OETV (Annexes)",
-      "Article": "A10: 112",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
+      "Déf.": "Feux brouillard arrière (dispositif facultatif)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 111,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_111",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -1057,16 +1057,16 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux brouillard arrière (utilisation)",
-      "CH": "OCR",
-      "Article": "30 al.4",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#a30",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Déf.": "Feux brouillard arrière (généralités)\n>01.10.1999 & \nimmat.import.constr en CH >01.10.2001",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "76 al2-4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_76",
+      "EU": "ECE",
+      "N°": "R38",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R038r3f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "p.40-41",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
       "Déf.": "Feux brouillard arrière (témoin)",
@@ -1081,70 +1081,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux  décharge (xénon)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "74 al.5",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
-      "EU": "ECE",
-      "N°": "R98.3",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2012/R098r3f.pdf",
-      "Directives, autres": "ASA 2a",
-      "N°.1": "p.48",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
-      "Déf.": "Feux LED deffectueuse (max 1/3)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": "EU 2014/45",
-      "N°": "4.1.1",
-      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32014L0045&qid=1769515649568",
-      "Directives, autres": "ASA SAQ",
-      "N°.1": "4.1.1",
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux LED avant ",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "74 al.4",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
-      "EU": "ECE",
-      "N°": "R112.3",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R112r3f.pdf",
-      "Directives, autres": "ASA 2a",
-      "N°.1": "p.48",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
-      "Déf.": "Feux LED ampoules homol. ECE (H11, C5)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": " ECE R37.7",
-      "N°": "A3 (p.181)",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/R037r7f.pdf",
-      "Directives, autres": "OSRAM/philips",
-      "N°.1": "ECE R37",
-      "Link.2": "https://www.philips.de/c-e/au/autolampen/scheinwerfer/ultinon-pro6000-led"
-    },
-    {
-      "Déf.": "Feux LED clignoteur de direction, avertisseurs (activation séquentielle)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": "ECE R6",
-      "N°": "5.7(p.11)",
-      "Link.1": "https://unece.org/sites/default/files/2025-05/R06r7f.pdf",
-      "Directives, autres": "ASA 2a",
-      "N°.1": "4.4.6",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
-      "Déf.": "Feux croisement (généralités)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "74 al.2",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
+      "Déf.": "Feux brouillard arrière (utilisation)",
+      "CH": "OCR",
+      "Article": "30 al.4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#a30",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -1153,21 +1093,9 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux croisement (dispositifs obligatoires)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "109 al.1",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux croisement (couleur)",
+      "Déf.": "Feux clignoteur direction, clignotant \n(couleur)",
       "CH": "OETV (Annexes)",
-      "Article": "A10: 111",
+      "Article": "A10:111-113",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
       "EU": null,
       "N°": null,
@@ -1177,187 +1105,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux croisement (distances)",
-      "CH": "OETV (Annexes)",
-      "Article": "A10: 21, 311, 321",
-      "Link": "RS 741.41 - Ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV) | Fedlex",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux croisement (visibilité)",
-      "CH": "OETV (Annexes)",
-      "Article": "A10: 73",
-      "Link": "RS 741.41 - Ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV) | Fedlex",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux croisement (intensité)",
-      "CH": "OETV (Annexes)",
-      "Article": "A10: 42",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_4/lvl_42",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux croisement (angle)\n(coupure pas obligatoire)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "74 al.2",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
-      "EU": "ECE 48.13",
-      "N°": "6.2.5 (p.37)",
-      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux: Lave phare \n>01.10.1998",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "74 al.4",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
-      "EU": "ECE",
-      "N°": "R45",
-      "Link.1": "r045r2f -NY",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux: Réglage automatique",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "74 al.4",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
-      "EU": "ECE",
-      "N°": "R53.4",
-      "Link.1": "E/ECE/324/Rev.1/Add.52/Rev.4",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux diurne, jour \n>01.10.2012",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "76 al.5",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_76",
-      "EU": "ECE",
-      "N°": "R87.4",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R87r3f.pdf",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux diurne, jour (distance, installation)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": "ECE",
-      "N°": " R48.13",
-      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
-      "Directives, autres": "Tutoriel",
-      "N°.1": "Tuto_DiurneInstallation",
-      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_DiurneInstallation.pdf"
-    },
-    {
-      "Déf.": "Feux gabarit (généralités)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "75 al.1-2",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_75",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux gabarit (dispositifs obligatoires)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "109 al.4",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux gabarit (couleur)",
-      "CH": "OETV (Annexes)",
-      "Article": "A10: 113",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux gabarit (distance) \n>10.2001",
-      "CH": "OETV (Annexes)",
-      "Article": "A10: 22, 312, 322, 323",
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux gabarit (intensité)",
-      "CH": "OETV (Annexes)",
-      "Article": "A10: 43",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_4/lvl_43",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux gabarit (visibilité)",
-      "CH": "OETV (Annexes)",
-      "Article": "A10: 6",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_6",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feux  panne, avertisseur (généralités)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "78 al.1",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_78",
-      "EU": "ECE R48.13",
-      "N°": "6.5 (p.45)",
-      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
-      "Directives, autres": "OCR",
-      "N°.1": 23,
-      "Link.2": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_23"
-    },
-    {
-      "Déf.": "Feux de panne, avertisseur \n(dispositifs obligatoires)",
+      "Déf.": "Feux clignoteur direction, clignotant \n(dispositifs obligatoires)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 111,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_111",
@@ -1393,7 +1141,103 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux clignoteur direction, clignotant \n(dispositifs obligatoires)",
+      "Déf.": "Feux clignoteur direction, clignotant\n(distance)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10:21, 23, 312,322, 5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_2",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux croisement (angle)\n(coupure pas obligatoire)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "74 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
+      "EU": "ECE 48.13",
+      "N°": "6.2.5 (p.37)",
+      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux croisement (couleur)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10: 111",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux croisement (dispositifs obligatoires)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "109 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux croisement (distances)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10: 21, 311, 321",
+      "Link": "RS 741.41 - Ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV) | Fedlex",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux croisement (généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "74 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux croisement (intensité)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10: 42",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_4/lvl_42",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux croisement (visibilité)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10: 73",
+      "Link": "RS 741.41 - Ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV) | Fedlex",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux de panne, avertisseur \n(dispositifs obligatoires)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 111,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_111",
@@ -1405,9 +1249,45 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux clignoteur direction, clignotant \n(couleur)",
+      "Déf.": "Feux diurne, jour \n>01.10.2012",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "76 al.5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_76",
+      "EU": "ECE",
+      "N°": "R87.4",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R87r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux diurne, jour (distance, installation)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE",
+      "N°": " R48.13",
+      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_DiurneInstallation",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_DiurneInstallation.pdf"
+    },
+    {
+      "Déf.": "Feux doublage",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "73 al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_73",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2a",
+      "N°.1": "4.4.3.1",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Feux gabarit (couleur)",
       "CH": "OETV (Annexes)",
-      "Article": "A10:111-113",
+      "Article": "A10: 113",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
       "EU": null,
       "N°": null,
@@ -1417,10 +1297,58 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux clignoteur direction, clignotant\n(distance)",
+      "Déf.": "Feux gabarit (dispositifs obligatoires)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "109 al.4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux gabarit (distance) \n>10.2001",
       "CH": "OETV (Annexes)",
-      "Article": "A10:21, 23, 312,322, 5",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_2",
+      "Article": "A10: 22, 312, 322, 323",
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux gabarit (généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "75 al.1-2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_75",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux gabarit (intensité)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10: 43",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_4/lvl_43",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux gabarit (visibilité)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10: 6",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_6",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -1441,10 +1369,58 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux position (généralités)",
+      "Déf.": "Feux LED ampoules homol. ECE (H11, C5)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": " ECE R37.7",
+      "N°": "A3 (p.181)",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/R037r7f.pdf",
+      "Directives, autres": "OSRAM/philips",
+      "N°.1": "ECE R37",
+      "Link.2": "https://www.philips.de/c-e/au/autolampen/scheinwerfer/ultinon-pro6000-led"
+    },
+    {
+      "Déf.": "Feux LED avant ",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "75 al.1-2",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_75",
+      "Article": "74 al.4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
+      "EU": "ECE",
+      "N°": "R112.3",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R112r3f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "p.48",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Feux LED clignoteur de direction, avertisseurs (activation séquentielle)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R6",
+      "N°": "5.7(p.11)",
+      "Link.1": "https://unece.org/sites/default/files/2025-05/R06r7f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "4.4.6",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Feux LED deffectueuse (max 1/3)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "EU 2014/45",
+      "N°": "4.1.1",
+      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32014L0045&qid=1769515649568",
+      "Directives, autres": "ASA SAQ",
+      "N°.1": "4.1.1",
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux position (couleur)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10: 111",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -1465,37 +1441,13 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux position (couleur)",
-      "CH": "OETV (Annexes)",
-      "Article": "A10: 111",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
+      "Déf.": "Feux position (généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "75 al.1-2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_75",
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feu recul (généralités)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 77,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#a77",
-      "EU": "ECE R23.5",
-      "N°": "A2 (p.17)",
-      "Link.1": "https://unece.org/sites/default/files/2025-05/R23r5f.pdf",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Feu recul (dispositif faculatif)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "110 al.2",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_110",
-      "EU": "ECE R48.13",
-      "N°": "6.4.2.1",
-      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -1525,6 +1477,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Feux spéciaux",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE",
+      "N°": "R65",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2012/R065r2f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Feux stationnement (généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "75 al.1-2",
@@ -1549,18 +1513,6 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux stop\n (dispositifs obligatoire: 3eme facultatif) ",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "109 al.1b",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Feux stop supplémentaire (généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "75 al.4",
@@ -1573,22 +1525,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux doublage",
+      "Déf.": "Feux stop\n (dispositifs obligatoire: 3eme facultatif) ",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "73 al.3",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_73",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA 2a",
-      "N°.1": "4.4.3.1",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
-      "Déf.": "Feux taxi (dispositifs facultatifs)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "110 al.2b",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#a110",
+      "Article": "109 al.1b",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -1609,28 +1549,40 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux (utilisation route)",
-      "CH": "LCR (P.3 Mesure protection)",
-      "Article": 41,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#a41",
+      "Déf.": "Feux taxi (dispositifs facultatifs)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "110 al.2b",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#a110",
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": "OCR",
-      "N°.1": "30-32",
-      "Link.2": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#a30"
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     },
     {
-      "Déf.": "Filtre à particules \n(nombre particules max)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "DETEC",
-      "N°.1": "p.15",
-      "Link.2": "https://www.lexfind.ch/tolv/223770/fr"
+      "Déf.": "Feux: Lave phare \n>01.10.1998",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "74 al.4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
+      "EU": "ECE",
+      "N°": "R45",
+      "Link.1": "r045r2f -NY",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux: Réglage automatique",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "74 al.4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
+      "EU": "ECE",
+      "N°": "R53.4",
+      "Link.1": "E/ECE/324/Rev.1/Add.52/Rev.4",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     },
     {
       "Déf.": "Filtre à particules \n(Nb particules max / normes euro)",
@@ -1645,13 +1597,25 @@
       "Link.2": "https://www.newsd.admin.ch/newsd/message/attachments/74422.pdf"
     },
     {
-      "Déf.": "Freins\n(généralités)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 65,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_65",
-      "EU": "ECE R13H.4",
-      "N°": "5.1.2",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R013hr4f.pdf",
+      "Déf.": "Filtre à particules \n(nombre particules max)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "DETEC",
+      "N°.1": "p.15",
+      "Link.2": "https://www.lexfind.ch/tolv/223770/fr"
+    },
+    {
+      "Déf.": "Freinage [58/12% & <2012 50%]\n(taux, efficacité freinage, banc essai)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 31",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_3/lvl_31",
+      "EU": "UE 2014/45",
+      "N°": "1.2.2 (p.26)",
+      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32014L0045&qid=1768898347450",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -1669,18 +1633,6 @@
       "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
-      "Déf.": "Freins\n(conformité)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 103,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
-      "EU": "UE 2019/2144",
-      "N°": "5c (p.325/10)",
-      "Link.1": "https://eur-lex.europa.eu/eli/reg/2019/2144/oj/eng",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Freins\n(antiblocage)",
       "CH": null,
       "Article": null,
@@ -1693,13 +1645,25 @@
       "Link.2": null
     },
     {
-      "Déf.": "Freinage [58/12% & <2012 50%]\n(taux, efficacité freinage, banc essai)",
-      "CH": "OETV (Annexes)",
-      "Article": "A7: 31",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_3/lvl_31",
-      "EU": "UE 2014/45",
-      "N°": "1.2.2 (p.26)",
-      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32014L0045&qid=1768898347450",
+      "Déf.": "Freins\n(conformité)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 103,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
+      "EU": "UE 2019/2144",
+      "N°": "5c (p.325/10)",
+      "Link.1": "https://eur-lex.europa.eu/eli/reg/2019/2144/oj/eng",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 65,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_65",
+      "EU": "ECE R13H.4",
+      "N°": "5.1.2",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2018/R013hr4f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -1717,10 +1681,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Habitacle\n(poids occupants)",
-      "CH": "OETV (Annexes)",
-      "Article": "A9:25",
-      "Link": null,
+      "Déf.": "Habitacle\n(lisibilité, visibilité compteur, témoins)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "72 al.10",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -1729,10 +1693,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Habitacle\n(lisibilité, visibilité compteur, témoins)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "72 al.10",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
+      "Déf.": "Habitacle\n(poids occupants)",
+      "CH": "OETV (Annexes)",
+      "Article": "A9:25",
+      "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -1753,13 +1717,13 @@
       "Link.2": null
     },
     {
-      "Déf.": "Identification, homologation feux signalisation ",
+      "Déf.": "Identification, homologation dispositif réfléchissant, catadioptre",
       "CH": null,
       "Article": null,
       "Link": null,
-      "EU": "ECE R148.3",
-      "N°": "3.2.4",
-      "Link.1": "https://unece.org/sites/default/files/2021-05/R148f.pdf",
+      "EU": "ONU 150",
+      "N°": "A24(p.91)",
+      "Link.1": "https://unece.org/sites/default/files/2021-05/R150f.pdf",
       "Directives, autres": "ASA 2a",
       "N°.1": "P104-109",
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
@@ -1777,16 +1741,28 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
-      "Déf.": "Identification, homologation dispositif réfléchissant, catadioptre",
+      "Déf.": "Identification, homologation feux signalisation ",
       "CH": null,
       "Article": null,
       "Link": null,
-      "EU": "ONU 150",
-      "N°": "A24(p.91)",
-      "Link.1": "https://unece.org/sites/default/files/2021-05/R150f.pdf",
+      "EU": "ECE R148.3",
+      "N°": "3.2.4",
+      "Link.1": "https://unece.org/sites/default/files/2021-05/R148f.pdf",
       "Directives, autres": "ASA 2a",
       "N°.1": "P104-109",
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Importation individuelle\n(déménagement, mariage, succession)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU \nInstr. dispense RT",
+      "N°.1": "4.2(p.7-8)",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/weisungen_ueber_diebefreiungvondertypengenehmigung.pdf.download.pdf/instructions_surladispensedelareceptionpartype.pdf"
     },
     {
       "Déf.": "Importation individuelle\n(Dispense de reception par type RT)",
@@ -1813,18 +1789,6 @@
       "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/weisungen_ueber_diebefreiungvondertypengenehmigung.pdf.download.pdf/instructions_surladispensedelareceptionpartype.pdf"
     },
     {
-      "Déf.": "Importation individuelle\n(sans CoC, preuve conformité UE ou ECE)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "OFROU \nInstr. dispense RT",
-      "N°.1": "3.2 (p.4)",
-      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/weisungen_ueber_diebefreiungvondertypengenehmigung.pdf.download.pdf/instructions_surladispensedelareceptionpartype.pdf"
-    },
-    {
       "Déf.": "Importation individuelle\n(Hors UE)",
       "CH": null,
       "Article": null,
@@ -1837,7 +1801,7 @@
       "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/weisungen_ueber_diebefreiungvondertypengenehmigung.pdf.download.pdf/instructions_surladispensedelareceptionpartype.pdf"
     },
     {
-      "Déf.": "Importation individuelle\n(déménagement, mariage, succession)",
+      "Déf.": "Importation individuelle\n(sans CoC, preuve conformité UE ou ECE)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -1845,7 +1809,7 @@
       "N°": null,
       "Link.1": null,
       "Directives, autres": "OFROU \nInstr. dispense RT",
-      "N°.1": "4.2(p.7-8)",
+      "N°.1": "3.2 (p.4)",
       "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/weisungen_ueber_diebefreiungvondertypengenehmigung.pdf.download.pdf/instructions_surladispensedelareceptionpartype.pdf"
     },
     {
@@ -1873,31 +1837,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Modifications, transformations\n(obligation notifier, informer)",
-      "CH": "OETV (P.2: Contrôles)",
-      "Article": "34 al.2",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_34",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Modification véhicule handicap, mobilité réduite",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Modification siège ",
+      "Déf.": "Mise à la ligne pour mise en vigueur sinon \n(titre 2)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -1921,16 +1861,64 @@
       "Link.2": null
     },
     {
-      "Déf.": "Modification: accessoires aérodynamiques \n(généralités)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 67,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_67",
+      "Déf.": "Modification pare-buffle",
+      "CH": null,
+      "Article": null,
+      "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": "ASA KT16.3",
-      "N°.1": "A2: (p.29-32)",
-      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Modification siège ",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Modification snorkel",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Modification substantielle",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "4 al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_4",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Modification véhicule handicap, mobilité réduite",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     },
     {
       "Déf.": "Modification: accessoires aérodynamiques \n(composants nécessaire ou utile)",
@@ -1945,51 +1933,15 @@
       "Link.2": null
     },
     {
-      "Déf.": "Modification: accessoires aérodynamiques\n(arrêtes)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "Déf.": "Modification: accessoires aérodynamiques \n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 67,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_67",
       "EU": null,
       "N°": null,
       "Link.1": null,
       "Directives, autres": "ASA KT16.3",
-      "N°.1": "A1: 1.4 (p.10)",
-      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
-    },
-    {
-      "Déf.": "Modification: accessoires aérodynamiques\n(matériaux)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA KT16.3",
-      "N°.1": "A1: 1.3 (p.9)",
-      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
-    },
-    {
-      "Déf.": "Modification: accessoires aérodynamiques\n(spoiler arrière, ailerons)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA KT16.3",
-      "N°.1": "A1: 3 (p.21-23)",
-      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
-    },
-    {
-      "Déf.": "Modification: accessoires aérodynamiques\n(points, type fixation)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA KT16.3",
-      "N°.1": null,
+      "N°.1": "A2: (p.29-32)",
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
     },
     {
@@ -2005,6 +1957,42 @@
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
     },
     {
+      "Déf.": "Modification: accessoires aérodynamiques\n(arrêtes)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA KT16.3",
+      "N°.1": "A1: 1.4 (p.10)",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
+    },
+    {
+      "Déf.": "Modification: accessoires aérodynamiques\n(garde au sol, rampe)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA KT16.3",
+      "N°.1": null,
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
+    },
+    {
+      "Déf.": "Modification: accessoires aérodynamiques\n(matériaux)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA KT16.3",
+      "N°.1": "A1: 1.3 (p.9)",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
+    },
+    {
       "Déf.": "Modification: accessoires aérodynamiques\n(pare-choc lames)",
       "CH": null,
       "Article": null,
@@ -2017,7 +2005,7 @@
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
     },
     {
-      "Déf.": "Modification: accessoires aérodynamiques\n(garde au sol, rampe)",
+      "Déf.": "Modification: accessoires aérodynamiques\n(points, type fixation)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -2038,6 +2026,18 @@
       "Link.1": null,
       "Directives, autres": "ASA KT16.3",
       "N°.1": "A1: 3.6 (p.25)",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
+    },
+    {
+      "Déf.": "Modification: accessoires aérodynamiques\n(spoiler arrière, ailerons)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA KT16.3",
+      "N°.1": "A1: 3 (p.21-23)",
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_KT16.3.pdf"
     },
     {
@@ -2065,7 +2065,19 @@
       "Link.2": null
     },
     {
-      "Déf.": "Modification pare-buffle",
+      "Déf.": "Modifications, transformations\n(obligation notifier, informer)",
+      "CH": "OETV (P.2: Contrôles)",
+      "Article": "34 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_34",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Modifier le tuto 13.20",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -2077,19 +2089,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Modification substantielle",
-      "CH": "OETV (P.1: Disposition gén.)",
-      "Article": "4 al.3",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_4",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Modification snorkel",
+      "Déf.": "Modifier les ECE avec le bon chapitre",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -2113,16 +2113,16 @@
       "Link.2": "https://www.bfe.admin.ch/bfe/fr/home/efficacite/mobilite/prescriptions-concernant-les-emissions-de-co2-des-vehicules-neufs/voitures-de-tourisme/outil-de-calcul-pour-petits-importateurs-vt.html"
     },
     {
-      "Déf.": "Pare-buffle >01.01.2010 voir cours jaquemet ",
+      "Déf.": "Pare-brise, parebrise \n(champ vision, champ visuel 29cm)",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "104a al.3",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_104",
-      "EU": "78/2009",
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Article": "71a",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_71a",
+      "EU": "ECE R125.2",
+      "N°": "ch.5.1",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R125r2f.pdf",
+      "Directives, autres": "ASA Dir/RL 8",
+      "N°.1": "ch.10, 10.1 (p22)",
+      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
       "Déf.": "Pare-brise, parebrise \n(généralités)",
@@ -2135,18 +2135,6 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
-    },
-    {
-      "Déf.": "Pare-brise, parebrise \n(champ vision, champ visuel 29cm)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "71a",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_71a",
-      "EU": "ECE R125.2",
-      "N°": "ch.5.1",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R125r2f.pdf",
-      "Directives, autres": "ASA Dir/RL 8",
-      "N°.1": "ch.10, 10.1 (p22)",
-      "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
       "Déf.": "Pare-brise, parebrise \n(impact, rayure, réparation)",
@@ -2209,6 +2197,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Pare-buffle >01.01.2010 voir cours jaquemet ",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "104a al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_104",
+      "EU": "78/2009",
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Partie saillante, pointue extérieure\n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 67,
@@ -2245,10 +2245,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Permis de conduire\n(contrôle médical)",
-      "CH": "OAC (P.1 Admission pers.)",
-      "Article": 27,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_27",
+      "Déf.": "Permis de conduire\n(conduite sans permis)",
+      "CH": "LCR (P.2 vhc et conducteur)",
+      "Article": "15e al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_15_e",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2257,10 +2257,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Permis de conduire\n(conduite sans permis)",
-      "CH": "LCR (P.2 vhc et conducteur)",
-      "Article": "15e al.1",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_15_e",
+      "Déf.": "Permis de conduire\n(contrôle médical)",
+      "CH": "OAC (P.1 Admission pers.)",
+      "Article": 27,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_27",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2281,10 +2281,46 @@
       "Link.2": null
     },
     {
-      "Déf.": "Plaque de contrôle, immatriculation",
+      "Déf.": "Plaque de contrôle, immatriculation\n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "45 al.2-3",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_45",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Plaque de contrôle, immatriculation\n(nombre = av et ar)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 96,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_96",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Plateforme levage\n(distance min)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Plateforme levage\n(signalisation)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 68,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_68",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2305,18 +2341,6 @@
       "Link.2": null
     },
     {
-      "Déf.": "Pneumatique\n(roues jumelées et indice de charge = le plus petit)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "58 al.5",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_58",
-      "EU": "ECE R54.3",
-      "N°": "A3:1 (p.22)",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R054r3f.pdf",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Pneumatique\n(hiver  = M+S sans test chiffré)",
       "CH": null,
       "Article": null,
@@ -2329,13 +2353,37 @@
       "Link.2": null
     },
     {
-      "Déf.": "Pneumatique\n(hiver = flocon & montagne 3 pics, test chiffré)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "Déf.": "Pneumatique  vmax 160km/h\n(hiver = flocon & montagne 3 pics, test chiffré)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "59 al.3-4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_59",
       "EU": "ECE R117.5",
       "N°": "4.2.6 (p.11)",
       "Link.1": "https://unece.org/sites/default/files/2025-09/R117r5f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatique\n(roues jumelées et indice de charge = le plus petit)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "58 al.5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_58",
+      "EU": "ECE R54.3",
+      "N°": "A3:1 (p.22)",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R054r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids effectif",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "7 al,2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -2389,18 +2437,6 @@
       "Link.2": null
     },
     {
-      "Déf.": "Poids effectif",
-      "CH": "OETV (P.1: Disposition gén.)",
-      "Article": "7 al,2",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Porte (généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 71,
@@ -2413,7 +2449,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Porte volet (verrouillage)",
+      "Déf.": "Porte intérieur animaux",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -2425,7 +2461,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Porte intérieur animaux",
+      "Déf.": "Porte volet (verrouillage)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -2459,42 +2495,6 @@
       "Directives, autres": "ASA 2a",
       "N°.1": "4.7.2 (p.85)",
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
-      "Déf.": "Pare-buffle",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Plateforme levage\n(signalisation)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 68,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_68",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Plateforme levage\n(distance min)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
     },
     {
       "Déf.": "Protection piéton",
@@ -2545,10 +2545,10 @@
       "Link.2": "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/fr#art_261_bis"
     },
     {
-      "Déf.": "Réception par type\n(généralités)",
-      "CH": "LCR (P.1 dispo générales)",
-      "Article": 12,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_12",
+      "Déf.": "Réception par type (abrogé 01.01.2026)\n(Emolument, émolument additionnel)",
+      "CH": "ORT (Annexes)",
+      "Article": "A3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#annex_3",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2557,40 +2557,16 @@
       "Link.2": null
     },
     {
-      "Déf.": "Reception par type\n(Types CH: FH ou RT ou FD )",
-      "CH": "ORT (P.1 dispo générales)",
-      "Article": "2b,l",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#art_2",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA",
-      "N°.1": "asa-gate",
-      "Link.2": "https://asagate.ch/"
-    },
-    {
-      "Déf.": "Reception par type\n(Types EU: RGEU, RPEU, COC)",
-      "CH": "ORT (P.1 dispo générales)",
-      "Article": "2c,d,e",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#art_2",
+      "Déf.": "Réception par type\n(accessoires soumis, non-soumis)",
+      "CH": "ORT (Annexes)",
+      "Article": "A1:2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#annex_1/lvl_u1/lvl_2",
       "EU": null,
       "N°": null,
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
-    },
-    {
-      "Déf.": "Reception par type\n(Type: IVI ou eCOC = données individuelles)",
-      "CH": "OFROU (Fiche infos IVI)",
-      "Article": "IVI",
-      "Link": "https://www.astra.admin.ch/dam/astra/fr/dokumente/abteilung_strassenverkehrallgemein/infoblatt-fahrzeugausweis-ivi.pdf.download.pdf/Fiche%20d%20information%20permis%20de%20circulation%20IVI.pdf",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "Edatenblatt",
-      "N°.1": "IVI",
-      "Link.2": "https://www.edatenblatt.astra.admin.ch/edatenblatt"
     },
     {
       "Déf.": "Réception par type\n(classification codes véhicules)",
@@ -2617,22 +2593,10 @@
       "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/emissionscode_aufdertypengenehmigung.pdf.download.pdf/codes%20emissions%20reception%20par%20type.pdf"
     },
     {
-      "Déf.": "Réception par type\n(véhicules soumis, non-soumis)",
-      "CH": "ORT (Annexes)",
-      "Article": "A1:1",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#annex_1/lvl_u1/lvl_1",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Réception par type\n(accessoires soumis, non-soumis)",
-      "CH": "ORT (Annexes)",
-      "Article": "A1:2",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#annex_1/lvl_u1/lvl_2",
+      "Déf.": "Réception par type\n(généralités)",
+      "CH": "LCR (P.1 dispo générales)",
+      "Article": 12,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_12",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2665,10 +2629,46 @@
       "Link.2": null
     },
     {
-      "Déf.": "Réception par type (abrogé 01.01.2026)\n(Emolument, émolument additionnel)",
+      "Déf.": "Reception par type\n(Type: IVI ou eCOC = données individuelles)",
+      "CH": "OFROU (Fiche infos IVI)",
+      "Article": "IVI",
+      "Link": "https://www.astra.admin.ch/dam/astra/fr/dokumente/abteilung_strassenverkehrallgemein/infoblatt-fahrzeugausweis-ivi.pdf.download.pdf/Fiche%20d%20information%20permis%20de%20circulation%20IVI.pdf",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Edatenblatt",
+      "N°.1": "IVI",
+      "Link.2": "https://www.edatenblatt.astra.admin.ch/edatenblatt"
+    },
+    {
+      "Déf.": "Reception par type\n(Types CH: FH ou RT ou FD )",
+      "CH": "ORT (P.1 dispo générales)",
+      "Article": "2b,l",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#art_2",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA",
+      "N°.1": "asa-gate",
+      "Link.2": "https://asagate.ch/"
+    },
+    {
+      "Déf.": "Reception par type\n(Types EU: RGEU, RPEU, COC)",
+      "CH": "ORT (P.1 dispo générales)",
+      "Article": "2c,d,e",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#art_2",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Réception par type\n(véhicules soumis, non-soumis)",
       "CH": "ORT (Annexes)",
-      "Article": "A3",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#annex_3",
+      "Article": "A1:1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/fr#annex_1/lvl_u1/lvl_1",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2749,6 +2749,42 @@
       "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
+      "Déf.": "Système aide à la conduite \n(aide au freinage urgence AEBS >01.2024)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "103 al.5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
+      "EU": "ECE R152.2",
+      "N°": 5.2,
+      "Link.1": "https://unece.org/sites/default/files/2024-04/R152r2F.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Système aide à la conduite \n(urgence maintien trajectoire >01.2024)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "103 al.5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
+      "EU": "UE 2021/646",
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Taper seulement un mot \n(clignotant, feux, jour, etc)\nsi possible au singulier",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Test matériaux",
       "CH": null,
       "Article": null,
@@ -2785,6 +2821,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Tribunaux \n(types)",
+      "CH": "Code procédure pénal?",
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Tuto 13.20 \n(complément voir 13.20 IRE et ASA directive 6)",
       "CH": null,
       "Article": null,
@@ -2795,54 +2843,6 @@
       "Directives, autres": "Tutoriel",
       "N°.1": "Tuto_13:20",
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_13.20.pdf"
-    },
-    {
-      "Déf.": "Tuto mesure bruit",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Tuto modification jantes",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Tuto modification suspension",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Tuto modification OEA",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
     },
     {
       "Déf.": "Tuto contrôle réservoir gaz",
@@ -2869,6 +2869,54 @@
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_Corrosion.pdf"
     },
     {
+      "Déf.": "Tuto mesure bruit",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Tuto modification jantes",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Tuto modification OEA",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Tuto modification suspension",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Tuto OETV structure",
       "CH": "OETV",
       "Article": "OETV",
@@ -2881,16 +2929,16 @@
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_OETV_Structure.pdf"
     },
     {
-      "Déf.": "Tribunaux \n(types)",
-      "CH": "Code procédure pénal?",
+      "Déf.": "Véhicule accidenté\n(définition)",
+      "CH": null,
       "Article": null,
       "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_DefinitionAccident",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_DefinitionAccident.pdf"
     },
     {
       "Déf.": "Véhicule automobile\n(construction et équipement)",
@@ -2903,18 +2951,6 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
-    },
-    {
-      "Déf.": "Véhicule accidenté\n(définition)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "Tutoriel",
-      "N°.1": "Tuto_DefinitionAccident",
-      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_DefinitionAccident.pdf"
     },
     {
       "Déf.": "Véhicule neuf mise en circ <1an et <=2000km \n(définition)",
@@ -2939,54 +2975,6 @@
       "Directives, autres": "ASA 2a",
       "N°.1": "4.2.2.1 (p.22)",
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
-      "Déf.": "Modifier les ECE avec le bon chapitre",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Modifier le tuto 13.20",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Taper seulement un mot \n(clignotant, feux, jour, etc)\nsi possible au singulier",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Mise à la ligne pour mise en vigueur sinon \n(titre 2)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
     }
   ],
   "N1": [
@@ -3057,6 +3045,20 @@
       "CH": "OCR",
       "Article": "5 al.2",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_5",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    }
+  ],
+  "L(x)e": [
+    {
+      "Déf.": "Feux positions",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "140 al.1a",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_140",
       "EU": null,
       "N°": null,
       "Link.1": null,

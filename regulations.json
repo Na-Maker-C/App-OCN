@@ -1753,6 +1753,18 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
+      "Déf.": "Immatriculation CH\n(conditions)",
+      "CH": "OAC (P.2: vhc)",
+      "Article": "71-72b",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#lvl_2/lvl_21/lvl_211",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Importation individuelle\n(déménagement, mariage, succession)",
       "CH": null,
       "Article": null,
@@ -2221,6 +2233,126 @@
       "Link.2": null
     },
     {
+      "Déf.": "Permis circulation, carte grise\n(Genres, types)",
+      "CH": "OAC (P.2 : vhc)",
+      "Article": 73,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis circulation, carte grise\n(Provisoire: généralités, validité max 12 mois)",
+      "CH": "OAV (P.2 Assur. RC vhc auto)",
+      "Article": "art.16-19 ",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#part_2/chap_2/lvl_III",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA Dir/RL 16",
+      "N°.1": "3. Permis de circulation",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_RL_16.pdf"
+    },
+    {
+      "Déf.": "Permis circulation, carte grise, code 178, 186 ou plaques Z\n(Provisoire: plaques de contrôles autocollant rouge)",
+      "CH": "OAV (Annexes)",
+      "Article": "A2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#annex_2/lvl_u1",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA Dir/RL 16",
+      "N°.1": "4. plaques de contrôle",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_RL_16.pdf"
+    },
+    {
+      "Déf.": "Permis circulation, carte grise\n(Court terme: généralités, validité max 96h)",
+      "CH": "OAV (P.2 Assur. RC vhc auto)",
+      "Article": "art. 20-21",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#part_2/chap_2/lvl_IV",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis circulation, carte grise\n(Collectif / plaques garage: généralités)",
+      "CH": "OAV (P.2 Assur. RC vhc auto)",
+      "Article": "art. 22-26",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#part_2/chap_2/lvl_V",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis circulation, carte grise\n(Collectif / plaques garage: retrait motifs)",
+      "CH": "OAV (P.2 Assur. RC vhc auto)",
+      "Article": "art. 23a",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#art_23_a",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis circulation, carte grise\n(Collectif / plaques garage: usage)",
+      "CH": "OAV (P.2 Assur. RC vhc auto)",
+      "Article": "art. 24",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#art_24",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis circulation, carte grise\n(Collectif / plaques garage: personnes autorisées)",
+      "CH": "OAV (P.2 Assur. RC vhc auto)",
+      "Article": "art. 25",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#art_25",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis circulation, carte grise\n(Collectif / plaques garage: exigences min. attribution)",
+      "CH": "OAV (Annexes)",
+      "Article": "A4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#annex_4/lvl_u1",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis circulation, carte grise\n(Remplacement = réparation, etc, validité max 30 jours)",
+      "CH": "OAV (P.2 Assur. RC vhc auto)",
+      "Article": "art. 9-10b",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#part_2/chap_1/lvl_III",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Permis de circulation\n(retrait motifs)",
       "CH": "OAC (P.25 Mesures admin.)",
       "Article": 106,
@@ -2281,7 +2413,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Plaque de contrôle, immatriculation\n(généralités)",
+      "Déf.": "Plaque de contrôle, plaque immatriculation\n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "45 al.2-3",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_45",
@@ -2293,10 +2425,46 @@
       "Link.2": null
     },
     {
-      "Déf.": "Plaque de contrôle, immatriculation\n(nombre = av et ar)",
+      "Déf.": "Plaque de contrôle, plaque immatriculation\n(nombre = av et ar)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 96,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_96",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Plaque de contrôle, plaque immatriculation\n(genre et type)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Plaque de contrôle, plaque immatriculation\n(interchangeable)",
+      "CH": "OAV (P.2 Assur. RC vhc auto)",
+      "Article": "13-15",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#part_2/chap_2/lvl_II",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Plaque de contrôle, plaque immatriculation\n(professionnelles, garage)",
+      "CH": "OAV (P.2 Assur. RC vhc auto)",
+      "Article": "art. 22-26",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#part_2/chap_2/lvl_V",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2329,6 +2497,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Pneumatique  vmax 160km/h\n(hiver = flocon & montagne 3 pics, test chiffré)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "59 al.3-4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_59",
+      "EU": "ECE R117.5",
+      "N°": "4.2.6 (p.11)",
+      "Link.1": "https://unece.org/sites/default/files/2025-09/R117r5f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Pneumatique\n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 58,
@@ -2353,18 +2533,6 @@
       "Link.2": null
     },
     {
-      "Déf.": "Pneumatique  vmax 160km/h\n(hiver = flocon & montagne 3 pics, test chiffré)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "59 al.3-4",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_59",
-      "EU": "ECE R117.5",
-      "N°": "4.2.6 (p.11)",
-      "Link.1": "https://unece.org/sites/default/files/2025-09/R117r5f.pdf",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Pneumatique\n(roues jumelées et indice de charge = le plus petit)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "58 al.5",
@@ -2372,6 +2540,18 @@
       "EU": "ECE R54.3",
       "N°": "A3:1 (p.22)",
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R054r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids \n(poids abaissement, masse)",
+      "CH": "LCR (P.2 vhc et conducteur)",
+      "Article": "9 al.3bis",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_9",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -2417,18 +2597,6 @@
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "39 al.3",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_39",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Poids, masse abaissement",
-      "CH": "LCR (P.2 vhc et conducteur)",
-      "Article": "9 al.3bis",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_9",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2845,6 +3013,42 @@
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_13.20.pdf"
     },
     {
+      "Déf.": "Tuto classification véhicule \n(EU)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_ClassificationVhc_EU",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_ClassficationVhc_EU.pdf"
+    },
+    {
+      "Déf.": "Tuto classification véhicule\n(CH)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_ClassificationVhc_CH",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_ClassficationVhc_C.pdf"
+    },
+    {
+      "Déf.": "Tuto contrôle officel \n(vhc neuf ou usagé)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_ControleOfficiel",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_ControleOfficiel.pdf"
+    },
+    {
       "Déf.": "Tuto contrôle réservoir gaz",
       "CH": null,
       "Article": null,
@@ -2855,6 +3059,18 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Tuto contrôle subséquent CH\n(Intervalle expertise)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Tutoriel",
+      "N°.1": "Tuto_ControleSubs_IntervalleExpertise",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_ControleSubs_IntervalleExpertise.pdf"
     },
     {
       "Déf.": "Tuto corrosion",
@@ -2943,8 +3159,8 @@
     {
       "Déf.": "Véhicule automobile\n(construction et équipement)",
       "CH": "LCR (P.2 vhc et conducteur)",
-      "Article": 8,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_8",
+      "Article": 7,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_7",
       "EU": null,
       "N°": null,
       "Link.1": null,

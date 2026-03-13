@@ -133,6 +133,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "1914 Concordat suisse\n(ancien LCR)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Ancienne LCR",
+      "N°.1": "Concordat 1914",
+      "Link.2": "https://classicvehiclecompass.ch/pdf/1914%20CH%20Konkordat.pdf"
+    },
+    {
       "Déf.": "ABS montage ultérieur (modification)",
       "CH": null,
       "Article": null,
@@ -421,7 +433,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Bruit évitable",
+      "Déf.": "Carrosserie\n(Bruit évitable = porte, coffre, freins, attelage)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "66 al.4",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_66",
@@ -445,7 +457,7 @@
       "Link.2": "https://lex.weblaw.ch/lex.php?norm_id=814.41&source=SR&lex_id=86217&q=#art_3"
     },
     {
-      "Déf.": "Bruit sonore\n(pneumatique, S2WR2, pneu sound)",
+      "Déf.": "Bruit sonore excl. >01.10.1980, pneu clouté, tout terrain\n(Pneumatique, S2WR2, pneu sound)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "58 al.8",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_58",
@@ -455,6 +467,30 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Bruit sonore\n(Mesure bruit tolérance = 5dB)",
+      "CH": "OETV (Annexes)",
+      "Article": "A6: 12",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_6/lvl_u1/lvl_1/lvl_12",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Bruit sonore\n(Composants inutiles, interdits = pop-off, filtre à air, échap.)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "53 al.1, 4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_53",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": 3,
+      "Link.2": "https://lex.weblaw.ch/lex.php?norm_id=814.41&source=SR&lex_id=86217&q=#art_3"
     },
     {
       "Déf.": "Carrosserie autoporteuse\n(support primaire, secondaire, habillage)",
@@ -493,22 +529,22 @@
       "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
-      "Déf.": "Catadioptres\n(généralités)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "77 al.2-3",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_77",
-      "EU": "ECE R3.5",
-      "N°": "6 (p.9)",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R3r4f.pdf",
+      "Déf.": "Catadioptres\n(distance bord = 0.4m max)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10: 21",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_2",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
     },
     {
-      "Déf.": "Catadioptres\n(obligatoires)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "109 al.1-3",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
+      "Déf.": "Catadioptres\n(distance sol = min 0.25m max 0.9m)",
+      "CH": "OETV (Annexes)",
+      "Article": "A10: 313, 324, 342",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_2",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -529,13 +565,13 @@
       "Link.2": null
     },
     {
-      "Déf.": "Catadioptres\n(véhicule long >8m = latérales obligatoires)",
+      "Déf.": "Catadioptres\n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "109 al.2",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
+      "Article": "77 al.2-3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_77",
+      "EU": "ECE R3.5",
+      "N°": "6 (p.9)",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R3r4f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -548,6 +584,30 @@
       "EU": "ECE R150",
       "N°": "3.2.4 (p.10)",
       "Link.1": "https://unece.org/sites/default/files/2021-05/R150f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Catadioptres\n(obligatoires)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "109 al.1-3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Catadioptres\n(véhicule long >8m = latérales obligatoires)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "109 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -593,6 +653,30 @@
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "72 al.5,7",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Charge\n(Charge utile = poids total - poids à vide",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "7 al.5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Charge\n(Charge sellette appui = poids semi-remorque sur tracteur sel.",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "8 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_8",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -755,6 +839,18 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Dispositif réfléchissant, catadioptre\n(Identification, homologation)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ONU 150",
+      "N°": "A24(p.91)",
+      "Link.1": "https://unece.org/sites/default/files/2021-05/R150f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "P104-109",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
       "Déf.": "Disques flottant",
@@ -1345,7 +1441,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux diurne, jour (distance, installation)",
+      "Déf.": "Feux diurne, jour \n(distance, installation)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -1369,7 +1465,19 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
-      "Déf.": "Feux gabarit (couleur)",
+      "Déf.": "Feux éclairage route\n(Identification, homologation )",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R149.3",
+      "N°": "13 (p.123)",
+      "Link.1": "https://unece.org/sites/default/files/2021-05/R149f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "P104-109",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Feux gabarit \n(couleur)",
       "CH": "OETV (Annexes)",
       "Article": "A10: 113",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_1",
@@ -1381,7 +1489,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux gabarit (dispositifs obligatoires)",
+      "Déf.": "Feux gabarit \n(dispositifs obligatoires)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "109 al.4",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
@@ -1393,7 +1501,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux gabarit (distance) \n>10.2001",
+      "Déf.": "Feux gabarit >10.2001\n(distance) ",
       "CH": "OETV (Annexes)",
       "Article": "A10: 22, 312, 322, 323",
       "Link": null,
@@ -1405,7 +1513,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux gabarit (généralités)",
+      "Déf.": "Feux gabarit \n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "75 al.1-2",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_75",
@@ -1417,7 +1525,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux gabarit (intensité)",
+      "Déf.": "Feux gabarit \n(intensité)",
       "CH": "OETV (Annexes)",
       "Article": "A10: 43",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_4/lvl_43",
@@ -1429,7 +1537,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux gabarit (visibilité)",
+      "Déf.": "Feux gabarit \n(visibilité)",
       "CH": "OETV (Annexes)",
       "Article": "A10: 6",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_10/lvl_u1/lvl_6",
@@ -1441,7 +1549,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux humidité, eau, coloré, teinte, teinté",
+      "Déf.": "Feux teinté,humidité, eau, coloré",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "73 al.1",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_73",
@@ -1559,6 +1667,18 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Feux signalisation\n(Identification, homologation)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R148.3",
+      "N°": "3.2.4",
+      "Link.1": "https://unece.org/sites/default/files/2021-05/R148f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "P104-109",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
       "Déf.": "Feux spéciaux",
@@ -1799,42 +1919,6 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
-    },
-    {
-      "Déf.": "Identification, homologation dispositif réfléchissant, catadioptre",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": "ONU 150",
-      "N°": "A24(p.91)",
-      "Link.1": "https://unece.org/sites/default/files/2021-05/R150f.pdf",
-      "Directives, autres": "ASA 2a",
-      "N°.1": "P104-109",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
-      "Déf.": "Identification, homologation feux éclairage route",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": "ECE R149.3",
-      "N°": "13 (p.123)",
-      "Link.1": "https://unece.org/sites/default/files/2021-05/R149f.pdf",
-      "Directives, autres": "ASA 2a",
-      "N°.1": "P104-109",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
-    },
-    {
-      "Déf.": "Identification, homologation feux signalisation ",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": "ECE R148.3",
-      "N°": "3.2.4",
-      "Link.1": "https://unece.org/sites/default/files/2021-05/R148f.pdf",
-      "Directives, autres": "ASA 2a",
-      "N°.1": "P104-109",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
       "Déf.": "Immatriculation CH\n(conditions)",
@@ -2317,10 +2401,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Permis circulation, carte grise\n(Genres, types)",
-      "CH": "OAC (P.2 : vhc)",
-      "Article": 73,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr",
+      "Déf.": "Permis circulation\n(retrait motifs)",
+      "CH": "OAC (P.25 Mesures admin.)",
+      "Article": 106,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_106",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2329,34 +2413,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Permis circulation, carte grise\n(Provisoire: généralités, validité max 12 mois)",
-      "CH": "OAV (P.2 Assur. RC vhc auto)",
-      "Article": "art.16-19 ",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#part_2/chap_2/lvl_III",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA Dir/RL 16",
-      "N°.1": "3. Permis de circulation",
-      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_RL_16.pdf"
-    },
-    {
-      "Déf.": "Permis circulation, carte grise, code 178, 186 ou plaques Z\n(Provisoire: plaques de contrôles autocollant rouge)",
+      "Déf.": "Permis circulation, carte grise\n(Collectif / plaques garage: exigences min. attribution)",
       "CH": "OAV (Annexes)",
-      "Article": "A2",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#annex_2/lvl_u1",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": "ASA Dir/RL 16",
-      "N°.1": "4. plaques de contrôle",
-      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_RL_16.pdf"
-    },
-    {
-      "Déf.": "Permis circulation, carte grise\n(Court terme: généralités, validité max 96h)",
-      "CH": "OAV (P.2 Assur. RC vhc auto)",
-      "Article": "art. 20-21",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#part_2/chap_2/lvl_IV",
+      "Article": "A4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#annex_4/lvl_u1",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2369,6 +2429,18 @@
       "CH": "OAV (P.2 Assur. RC vhc auto)",
       "Article": "art. 22-26",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#part_2/chap_2/lvl_V",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis circulation, carte grise\n(Collectif / plaques garage: personnes autorisées)",
+      "CH": "OAV (P.2 Assur. RC vhc auto)",
+      "Article": "art. 25",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#art_25",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2401,10 +2473,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Permis circulation, carte grise\n(Collectif / plaques garage: personnes autorisées)",
+      "Déf.": "Permis circulation, carte grise\n(Court terme: généralités, validité max 96h)",
       "CH": "OAV (P.2 Assur. RC vhc auto)",
-      "Article": "art. 25",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#art_25",
+      "Article": "art. 20-21",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#part_2/chap_2/lvl_IV",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2413,16 +2485,28 @@
       "Link.2": null
     },
     {
-      "Déf.": "Permis circulation, carte grise\n(Collectif / plaques garage: exigences min. attribution)",
-      "CH": "OAV (Annexes)",
-      "Article": "A4",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#annex_4/lvl_u1",
+      "Déf.": "Permis circulation, carte grise\n(Genres, types)",
+      "CH": "OAC (P.2 : vhc)",
+      "Article": 73,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr",
       "EU": null,
       "N°": null,
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Permis circulation, carte grise\n(Provisoire: généralités, validité max 12 mois)",
+      "CH": "OAV (P.2 Assur. RC vhc auto)",
+      "Article": "art.16-19 ",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#part_2/chap_2/lvl_III",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA Dir/RL 16",
+      "N°.1": "3. Permis de circulation",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_RL_16.pdf"
     },
     {
       "Déf.": "Permis circulation, carte grise\n(Remplacement = réparation, etc, validité max 30 jours)",
@@ -2437,16 +2521,16 @@
       "Link.2": null
     },
     {
-      "Déf.": "Permis circulation\n(retrait motifs)",
-      "CH": "OAC (P.25 Mesures admin.)",
-      "Article": 106,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_106",
+      "Déf.": "Permis circulation, carte grise, code 178, 186 ou plaques Z\n(Provisoire: plaques de contrôles autocollant rouge)",
+      "CH": "OAV (Annexes)",
+      "Article": "A2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#annex_2/lvl_u1",
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
+      "Directives, autres": "ASA Dir/RL 16",
+      "N°.1": "4. plaques de contrôle",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_RL_16.pdf"
     },
     {
       "Déf.": "Permis de conduire\n(catégories)",
@@ -2509,18 +2593,6 @@
       "Link.2": null
     },
     {
-      "Déf.": "Plaque de contrôle, plaque immatriculation\n(nombre = av et ar)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 96,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_96",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Plaque de contrôle, plaque immatriculation\n(genre et type)",
       "CH": null,
       "Article": null,
@@ -2537,6 +2609,18 @@
       "CH": "OAV (P.2 Assur. RC vhc auto)",
       "Article": "13-15",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/fr#part_2/chap_2/lvl_II",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Plaque de contrôle, plaque immatriculation\n(nombre = av et ar)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 96,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_96",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2581,7 +2665,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Pneumatique  vmax 160km/h\n(hiver = flocon & montagne 3 pics, test chiffré)",
+      "Déf.": "Pneumatique, pneus  vmax 160km/h\n(hiver = flocon & montagne 3 pics, test chiffré)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "59 al.3-4",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_59",
@@ -2593,7 +2677,19 @@
       "Link.2": null
     },
     {
-      "Déf.": "Pneumatique\n(généralités)",
+      "Déf.": "Pneumatique, pneus\n(aucun profil minimum = <30km/h)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "119 al.d",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_119",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatique, pneus\n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 58,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_58",
@@ -2605,7 +2701,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Pneumatique\n(hiver  = M+S sans test chiffré)",
+      "Déf.": "Pneumatique, pneus\n(hiver  = M+S sans test chiffré)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -2617,19 +2713,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Pneumatique\n(roues jumelées et indice de charge = le plus petit)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "58 al.5",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_58",
-      "EU": "ECE R54.3",
-      "N°": "A3:1 (p.22)",
-      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R054r3f.pdf",
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Pneumatique\n(profil minimum = 1.6mm)",
+      "Déf.": "Pneumatique, pneus\n(profil minimum = 1.6mm)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "58 al.4",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_58",
@@ -2641,13 +2725,37 @@
       "Link.2": null
     },
     {
-      "Déf.": "Pneumatique\n(aucun profil minimum = <30km/h)",
+      "Déf.": "Pneumatique, pneus\n(roues jumelées et indice de charge = le plus petit)",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": "119 al.d",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_119",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
+      "Article": "58 al.5",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_58",
+      "EU": "ECE R54.3",
+      "N°": "A3:1 (p.22)",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R054r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatique, pneus\n(homolog. = S2WR2B, S:sonore, W:water, R:Rolling, B:brake",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "58 al.8",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_58",
+      "EU": "ECE R117.5",
+      "N°": "5.2.2 (p.12)",
+      "Link.1": "https://unece.org/sites/default/files/2025-09/R117r5f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatique, pneus\n(MPT, ML, ET, POR = pneus usage spécial",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "58 al.8",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_58",
+      "EU": "ECE R117.5",
+      "N°": "5.2.2 (p.12)",
+      "Link.1": "https://unece.org/sites/default/files/2025-09/R117r5f.pdf",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -2665,9 +2773,9 @@
       "Link.2": null
     },
     {
-      "Déf.": "Poids \n(poids effectif)",
+      "Déf.": "Poids \n(poids conducteur = 75kg)",
       "CH": "OETV (P.1: Disposition gén.)",
-      "Article": "7 al,2",
+      "Article": "7 al.1c",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
       "EU": null,
       "N°": null,
@@ -2681,6 +2789,90 @@
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 39,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_39",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids\n(poids adhérence = poids essieu moteur, roues motrices)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": 8,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_8",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids\n(poids remorquable = poids réel = remorque + charge)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": 8,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_8",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids\n(poids effectif = poids réel incl occup, chargem, charge timon)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "7 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids\n(poids garanti = limite technique autorisé)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "7 al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids\n(poids total = limite légale autorisée)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "7 al.4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids\n(poids à vide, poids vide = prêt à rouler inclus conducteur)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "7 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids\n(poids passagers = 75kg, 71kg, 68kg 40kg)",
+      "CH": "OETV (Annexes)",
+      "Article": "A9:25",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_9/lvl_u1/lvl_2/lvl_25",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2705,54 +2897,6 @@
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "39 al.3",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_39",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Poids\n(poids à vide, poids vide = prêt à rouler inclus conducteur)",
-      "CH": "OETV (P.1: Disposition gén.)",
-      "Article": 7,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Poids \n(poids conducteur = 75kg)",
-      "CH": "OETV (P.1: Disposition gén.)",
-      "Article": "7 al.1c",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Poids\n(poids passagers = 75kg, 71kg, 68kg 40kg)",
-      "CH": "OETV (Annexes)",
-      "Article": "A9:25",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_9/lvl_u1/lvl_2/lvl_25",
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
-      "Déf.": "Porte\n(généralités)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 71,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_71",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2797,7 +2941,19 @@
       "Link.2": null
     },
     {
-      "Déf.": "Pot d'échappement \n(généralités)",
+      "Déf.": "Porte\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 71,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_71",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Echappement, pot d'échappement\n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 52,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_52",
@@ -2809,7 +2965,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Pot d'échappement\n(silencieux de remplacement R59",
+      "Déf.": "Echappement, pot d'échappement\n(silencieux de remplacement R59)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 53,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_53",
@@ -2821,7 +2977,19 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
-      "Déf.": "Protection piéton",
+      "Déf.": "Echappement, pot d'échappement\n(Sound system = uniq. autorisé si réceptionné)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 53,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_53",
+      "EU": "ECE R59",
+      "N°": null,
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R059r2f.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "4.7.2 (p.85)",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Protection piéton\n(généralités)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -2833,7 +3001,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Protection piéton (pares-buffles)",
+      "Déf.": "Protection piéton \n(pares-buffles)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -2845,7 +3013,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Protection piéton (zones)",
+      "Déf.": "Protection piéton \n(zones)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -3425,7 +3593,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Catadioptres\n(obligatoires)",
+      "Déf.": "Catadioptres\n(obligatoires = AV: 2, AR: 2 triangle)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "192 al.1, 3",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_192",
@@ -3440,6 +3608,18 @@
       "Déf.": "Catadioptres\n(facultatifs)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "193 al.1c, 1l , 2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_192",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Catadioptres latéral\n(>5m = 1x chaque coté)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "192 al.1, 3",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_192",
       "EU": null,
       "N°": null,

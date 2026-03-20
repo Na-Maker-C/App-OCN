@@ -229,7 +229,19 @@
       "Link.2": null
     },
     {
-      "Déf.": "Anti-encastrement, antiencastrement \n(véhicules concernés = garde au sol >500mm)",
+      "Déf.": "Anti-encastrement, antiencastrement \n(véhicules concernés = garde au sol >550mm)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "104 c",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_104",
+      "EU": "ECE R58.3",
+      "N°": "A7\n(2.3-4, 7.1, 25.5)",
+      "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2020/R058r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Anti-encastrement, antiencastrement \n(véhicules non soumis = chariot moteur, tracteur sel, millit)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "104 c",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_104",

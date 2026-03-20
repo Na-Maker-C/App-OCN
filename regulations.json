@@ -229,7 +229,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Anti-encastrement, antiencastrement \n(véhicules concernés)",
+      "Déf.": "Anti-encastrement, antiencastrement \n(véhicules concernés = garde au sol >500mm)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "104 c",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_104",
@@ -2161,13 +2161,109 @@
       "Link.2": "https://www.lexfind.ch/tolv/223770/fr"
     },
     {
-      "Déf.": "Freinage [58/12% & <2012 50%]\n(taux, efficacité freinage, banc essai)",
+      "Déf.": "Freins [frein service < 15.01.2017]\n(décélération min freinage = 80 km/h, 5.8 m/s2, 500N)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 21",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_2/lvl_21",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins [frein service >= 15.01.2017]\n(décélération min freinage = 100 km/h, 5.8 m/s2, 500N)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 21",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_2/lvl_21",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins [frein service, OETV >1995]\n(taux freinage, efficacité freinage, banc essai = 58%)",
       "CH": "OETV (Annexes)",
       "Article": "A7: 31",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_3/lvl_31",
       "EU": "UE 2014/45",
       "N°": "1.2.2 (p.26)",
       "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32014L0045&qid=1768898347450",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins [frein service, OCE 1976-1995]\n(taux freinage, efficacité freinage, banc essai = 50%)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 31",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_3/lvl_31",
+      "EU": "UE 2014/45",
+      "N°": "1.2.2 (p.26)",
+      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32014L0045&qid=1768898347450",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins [frein stationnement]\n(taux freinage, efficacité freinage, banc essai = 16% / 12%)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 31",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_3/lvl_31",
+      "EU": "UE 2014/45",
+      "N°": "1.2.2 (p.26)",
+      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32014L0045&qid=1768898347450",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins [frein stationnement >= 15.01.2017]\n(efficacité freinage sur rampe = 20/12%)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 31",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_3/lvl_31",
+      "EU": "UE 2014/45",
+      "N°": "1.2.2 (p.26)",
+      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32014L0045&qid=1768898347450",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins [frein stationnement < 15.01.2017]\n(efficacité freinage sur rampe = 18/12%)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 31",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_3/lvl_31",
+      "EU": "UE 2014/45",
+      "N°": "1.2.2 (p.26)",
+      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32014L0045&qid=1768898347450",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins [frein auxiliaire < 15.01.2017]\n(décélération min freinage = 80 km/h, 2.9 m/s2, 500N)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 21",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_2/lvl_21",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins [frein auxiliaire >= 15.01.2017]\n(décélération min freinage = 80 km/h, 2.44 m/s2, 500N)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 21",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_2/lvl_21",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -2185,7 +2281,43 @@
       "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
     },
     {
-      "Déf.": "Freins\n(antiblocage, ABS = > 01.07.2004 immatriculation)",
+      "Déf.": "Freins\n(circuit freins double = > 01.01.1973 = 1971 + 2 ans transit)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins\n(témoin défaillance, témoin frein = voiture auto lég. >40km/h)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins\n(antiblocage, ABS = > 01.04.2010 RT)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins\n(Frein auxiliaire = double circuit frein ou combiné stat.)",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -2929,7 +3061,7 @@
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\ASA_RL_16.pdf"
     },
     {
-      "Déf.": "Permis de conduire\n(catégories)",
+      "Déf.": "Permis conduire\n(catégories)",
       "CH": "OAC (P.1 Admission pers.)",
       "Article": "3 al1-3",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_3",
@@ -2941,7 +3073,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Permis de conduire\n(conduite sans permis)",
+      "Déf.": "Permis conduire\n(conduite sans permis)",
       "CH": "LCR (P.2 vhc et conducteur)",
       "Article": "15e al.1",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_15_e",
@@ -2953,7 +3085,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Permis de conduire\n(contrôle médical)",
+      "Déf.": "Permis conduire\n(contrôle médical)",
       "CH": "OAC (P.1 Admission pers.)",
       "Article": 27,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_27",
@@ -2965,10 +3097,22 @@
       "Link.2": null
     },
     {
-      "Déf.": "Permis de conduire\n(délit chauffard)",
+      "Déf.": "Permis conduire\n(délit chauffard = retrait min 24 mois)",
       "CH": "LCR (P.2 vhc et conducteur)",
       "Article": "90 al.3-4",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_90",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Permis de conduire\n(Auto-école = min 23 ans, 3 ans expérience permis définitif)",
+      "CH": "LCR (P.2 vhc et conducteur)",
+      "Article": "15 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_15",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -3002,8 +3146,8 @@
     },
     {
       "Déf.": "Plaque de contrôle, plaque immatriculation\n(genre et type)",
-      "CH": null,
-      "Article": null,
+      "CH": "OAC",
+      "Article": 82,
       "Link": null,
       "EU": null,
       "N°": null,
@@ -3080,6 +3224,18 @@
       "EU": "ECE R117.5",
       "N°": "4.2.6 (p.11)",
       "Link.1": "https://unece.org/sites/default/files/2025-09/R117r5f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatique, pneus\n(pneus larges, pneumatique large = 1/3 dext ou >= 600mm)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "60 al.6",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_60",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -4054,6 +4210,42 @@
       "EU": "ECE R54.3",
       "N°": "A3:1 (p.22)",
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R054r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins [frein service >= 15.01.2017]\n(décélération min freinage = 80 km/h, 5 m/s2, 700N)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 21",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_2/lvl_21",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins [frein auxiliaire]\n(décélération min freinage = 70 km/h, 2.2 m/s2, 700N / 600N)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 21",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_2/lvl_21",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Freins [frein stationnement]\n(efficacité freinage sur rampe = 18/12%)",
+      "CH": "OETV (Annexes)",
+      "Article": "A7: 31",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_7/lvl_u1/lvl_3/lvl_31",
+      "EU": "UE 2014/45",
+      "N°": "1.2.2 (p.26)",
+      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32014L0045&qid=1768898347450",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null

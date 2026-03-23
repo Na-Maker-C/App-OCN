@@ -397,6 +397,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Attelage\n(indication étiquette)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "91 al.4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_91",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Attelage\n(hauteur crochet = 350 à 420mm sauf catégorie G)",
       "CH": null,
       "Article": null,
@@ -433,7 +445,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Attestation carrossage",
+      "Déf.": "Carrosserie\n(Attestation carrossage)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "103 al.2",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_103",
@@ -659,6 +671,18 @@
       "Directives, autres": "ASA Dir/RL 8",
       "N°.1": "ch.3 (p5-6)",
       "Link.2": "https://asavsa.sharepoint.com/sites/t_Kommission_Technik_KT/Publish/Forms/AllItems.aspx?id=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien%2FRL%5F8%5FF%2Epdf&parent=%2Fsites%2Ft%5FKommission%5FTechnik%5FKT%2FPublish%2FStVA%2FRichtlinien"
+    },
+    {
+      "Déf.": "Carrosserie\n(installation sanitaires)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "66 al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_66",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     },
     {
       "Déf.": "Catadioptres\n(distance bord = 0.4m max)",
@@ -1669,10 +1693,22 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux brouillard arrière (utilisation)",
+      "Déf.": "Feux brouillard arrière \n(utilisation)",
       "CH": "OCR",
       "Article": "30 al.4",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#a30",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux brouillard arrière \n(fixation = min 100mm feux stop, symétriques)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 76,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_76",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -1745,7 +1781,7 @@
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "74 al.2",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_74",
-      "EU": "ECE 48.13",
+      "EU": "ECE R48.13",
       "N°": "6.2.5 (p.37)",
       "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
       "Directives, autres": null,
@@ -1837,25 +1873,37 @@
       "Link.2": null
     },
     {
-      "Déf.": "Feux diurne, jour \n(distance, installation)",
+      "Déf.": "Feux diurne, jour \n(distance, installation = h: 0.25 à 1.5m sep: 0.6m 10° et 20°)",
       "CH": null,
       "Article": null,
       "Link": null,
-      "EU": "ECE",
-      "N°": " R48.13",
+      "EU": "ECE  R48.13",
+      "N°": "6.19.4-7 \n(p.66-67), ",
       "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
       "Directives, autres": "Tutoriel",
       "N°.1": "Tuto_DiurneInstallation",
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_DiurneInstallation.pdf"
     },
     {
-      "Déf.": "Feux diurne, jour \n>01.10.2012",
+      "Déf.": "Feux diurne, jour\n>01.05.2012",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "76 al.5",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_76",
       "EU": "ECE",
       "N°": "R87.4",
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2015/R87r3f.pdf",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Feux diurne, jour\n(feux diurne obligatoire = >01.05.2012)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "109 al.1bis",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -3469,6 +3517,30 @@
       "Link.2": null
     },
     {
+      "Déf.": "Poids, masse\n(poids garanti augmentation = oui si garantie constructeur)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 42,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_42",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2a",
+      "N°.1": "4.12.2 (p.96)",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
+      "Déf.": "Poids, masse\n(poids garanti diminution = non pas autorisé sauf)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "42 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_42",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2a",
+      "N°.1": "4.12.2 (p.96)",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
+    },
+    {
       "Déf.": "Poids, masse\n(poids passagers = 75kg, 71kg, 68kg 40kg)",
       "CH": "OETV (Annexes)",
       "Article": "A9:25",
@@ -3829,6 +3901,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Rétroviseur, miroir\n(distance min = 100m et surface min = 70cm2)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "112 al.1 et 3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_112",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Roues \n(M1 recouvrement roues, bavettes = AR 150mm)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 104,
@@ -3889,10 +3973,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Siège\n(distances)",
-      "CH": "OETV (Annexes)",
-      "Article": "A9:241",
-      "Link": null,
+      "Déf.": "Sièges\n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 107,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_107",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -3901,7 +3985,67 @@
       "Link.2": null
     },
     {
-      "Déf.": "Siège\n(siège conducteur = réglable longitudinal)",
+      "Déf.": "Sièges\n(exeption sièges perpendiculaire sens marche = pas admis)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "107 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_107",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Sièges\n(Largeur siège M1 = AV et AR 0.38m)",
+      "CH": "OETV (Annexes)",
+      "Article": "A9:222",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_9/lvl_u1/lvl_2/lvl_22",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Sièges\n(Largeur siège minibus = AV 0.45m et AR 0.40m)",
+      "CH": "OETV (Annexes)",
+      "Article": "A9:222",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_9/lvl_u1/lvl_2/lvl_22",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Sièges\n(distance entre siège M1 = 0.55m)",
+      "CH": "OETV (Annexes)",
+      "Article": "A9:222",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_9/lvl_u1/lvl_2/lvl_22",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Sièges\n(distance entre siège minibus = 0.6m)",
+      "CH": "OETV (Annexes)",
+      "Article": "A9:222",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_9/lvl_u1/lvl_2/lvl_22",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Sièges\n(siège conducteur = réglable longitudinal)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "107 al.1",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_107",
@@ -3913,7 +4057,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Siège\n(Baquet = admis si réglable et ancrage ceinture ok)",
+      "Déf.": "Sièges\n(Baquet = admis si réglable et ancrage ceinture ok)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 107,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_107",
@@ -4004,6 +4148,18 @@
       "EU": "UE 2021/535",
       "N°": "1.2 (p.158)",
       "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021R0535&qid=1768895794940",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Triangle panne\n(largeur > 1m = obligatoire)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 90,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_90",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -4462,6 +4618,18 @@
       "EU": "UE 2014/45",
       "N°": "1.2.2 (p.26)",
       "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32014L0045&qid=1768898347450",
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Sièges\n(compartiment de charge siège rabbatable max 9 = admis)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "11 al.2e",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_11",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null

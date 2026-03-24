@@ -3217,10 +3217,34 @@
       "Link.2": null
     },
     {
+      "Déf.": "Plaque de contrôle, plaque immatriculation\n(véhicules non-soumis)",
+      "CH": "OAC",
+      "Article": 72,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_72",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Plaque de contrôle, plaque immatriculation\n(contrôle expertise sans plaques = attestation assurance)",
+      "CH": "OAC",
+      "Article": "72 al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_72",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Plaque de contrôle, plaque immatriculation\n(genre et type)",
       "CH": "OAC",
       "Article": 82,
-      "Link": null,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_82",
       "EU": null,
       "N°": null,
       "Link.1": null,

@@ -182,7 +182,7 @@
     },
     {
       "Déf.": "Airbag\n(généralités)",
-      "CH": "OETV (P.3: Exig. techn.)",
+      "CH": null,
       "Article": "72 al.8-9",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_72",
       "EU": "ECE R114",
@@ -253,7 +253,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Anti-encastrement, antiencastrement >1995\n(généralités)",
+      "Déf.": "Anti-encastrement, antiencastrement = OETV >1995 \n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "104 c",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_104",
@@ -603,8 +603,8 @@
     {
       "Déf.": "Bruit sonore\n(Mesure bruit arret: distance sortie échappement)",
       "CH": "OETV (Annexes)",
-      "Article": null,
-      "Link": null,
+      "Article": "A6: 12",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_6/lvl_u1/lvl_1/lvl_12",
       "EU": "ECE R51.3",
       "N°": "A3: fig 2-3c \n(p.56-57)",
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2016/R051r3f.pdf",
@@ -615,8 +615,8 @@
     {
       "Déf.": "Bruit sonore\n(Mesure bruit arret: nb mesure = 3x max 2db écart)",
       "CH": "OETV (Annexes)",
-      "Article": null,
-      "Link": null,
+      "Article": "A6: 12",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_6/lvl_u1/lvl_1/lvl_12",
       "EU": "ECE R51.3",
       "N°": "3.2.6 (p.54)",
       "Link.1": "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2016/R051r3f.pdf",
@@ -650,9 +650,9 @@
     },
     {
       "Déf.": "Carrosserie\n(généralités)",
-      "CH": null,
-      "Article": null,
-      "Link": null,
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "chapitre 8",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#part_3/tit_1/chap_8",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -4761,6 +4761,18 @@
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 186,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_186",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Cale\n(obligatoire = >750kg)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 195,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_195",
       "EU": null,
       "N°": null,
       "Link.1": null,

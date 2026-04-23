@@ -1237,18 +1237,6 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
-      "Déf.": "Disques flottant",
-      "CH": null,
-      "Article": null,
-      "Link": null,
-      "EU": null,
-      "N°": null,
-      "Link.1": null,
-      "Directives, autres": null,
-      "N°.1": null,
-      "Link.2": null
-    },
-    {
       "Déf.": "Dommages rouille, accident et réparation\n(directive)",
       "CH": null,
       "Article": null,
@@ -1333,7 +1321,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Eclairage \n(facultatif)",
+      "Déf.": "Eclairage \n(eclairage facultatif)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 110,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_110",
@@ -1441,7 +1429,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Eclairage\n(obligatoire)",
+      "Déf.": "Eclairage\n(eclairage obligatoire)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 109,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_109",
@@ -1477,10 +1465,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Fanion, antenne\n(composants dangereux)",
+      "Déf.": "Fanion, antenne\n(admis = flexible mais vitesse max voir mode emploi)",
       "CH": "OETV (Annexes)",
       "Article": "A8:28",
-      "Link": null,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#annex_8/lvl_u1/lvl_2",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2029,6 +2017,18 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
+      "Déf.": "Feux LED avant \n(homologation = DC, DR, DCR)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R48.13",
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Feux LED clignoteur de direction, avertisseurs (activation séquentielle)",
       "CH": null,
       "Article": null,
@@ -2051,6 +2051,18 @@
       "Directives, autres": "ASA SAQ",
       "N°.1": "4.1.1",
       "Link.2": null
+    },
+    {
+      "Déf.": "Feux ornementaux, décoratifs\n(admis: réception générale CE sinon pas)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 110,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_110",
+      "EU": "ECE R48.13",
+      "N°": "5.22 (p.30)",
+      "Link.1": "https://unece.org/sites/default/files/2025-04/R048r13f_0.pdf",
+      "Directives, autres": "ASA 2a",
+      "N°.1": "4.4.5 (p.50)",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
       "Déf.": "Feux position (couleur)",
@@ -2213,6 +2225,18 @@
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "73 al.1",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_73",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2a",
+      "N°.1": "4.4.2 (p.33)",
+      "Link.2": "£"
+    },
+    {
+      "Déf.": "Feux travail\n(admis = véhicules travail)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "110i",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#a110",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -2483,6 +2507,18 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Grilles protection feux, éclairage\n(admis = réception CE sinon preuve OEA ",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 67,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_67",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2a",
+      "N°.1": "4.4.1(p.32)",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2a_F_2024/index.html"
     },
     {
       "Déf.": "Habitacle \n(parties tranchantes)",
@@ -3961,6 +3997,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Roues\n(roue secours = facultative",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 59,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_59",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Sanction CO2\n(généralités)",
       "CH": "ORECO2 (Ch.3 Vhc)",
       "Article": 17,
@@ -4573,7 +4621,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Volant direction modifié \n(sans airbag diamètre = 300 mm )",
+      "Déf.": "Volant direction modifié \n(sans airbag diamètre = min 300 mm )",
       "CH": null,
       "Article": null,
       "Link": null,
@@ -4867,6 +4915,80 @@
       "Directives, autres": "Tutoriel",
       "N°.1": "Tuto_Agricole",
       "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_Agricole.pdf"
+    },
+    {
+      "Déf.": "Charge remorquable sans crochet \n(champs 31 et 33 = 1.5 x poids total ou 2 x poids vide)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Protocole frein remorque \n(soumis: >30km/h)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    }
+  ],
+  "L3e": [
+    {
+      "Déf.": "Freins\n(disques flottants admis = reception EU ou preuve OEA)",
+      "CH": "OETV (P.2: Contrôles)",
+      "Article": "34 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_34",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2b",
+      "N°.1": "4.1.3.2 (p.20)",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
+    },
+    {
+      "Déf.": "Direction\n(amortisseur direction admis = reception EU ou preuve constr. ou OEA",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2b",
+      "N°.1": "4.2.4 (p.24)",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
+    },
+    {
+      "Déf.": "Rétroviseur >15.01.2017\n(taille minimal = 69cm2 sinon 50cm2)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 143,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_143",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2b",
+      "N°.1": "4.3.4 (p.25)",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
+    },
+    {
+      "Déf.": "Rétroviseur >15.01.2017 (avant uniquement à gauche)\n(nombre minimum = G + D excl., <=50km/h = uniquement à gauche)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 143,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_143",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     }
   ]
 }

@@ -1009,6 +1009,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Compteur\n(miles = obligatoire valeurs km/h)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Corrosion \n(généralités)",
       "CH": "LCR (P.2 Vhc et conducteurs)",
       "Article": 29,
@@ -4141,6 +4153,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Sièges\n(sièges enfant = ",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Suppression, supprimer, enlever\n(ceinture, airbag, tendeurs, prétensionneur)",
       "CH": "OETV (P.2: Contrôles)",
       "Article": "34 al.2 l,i,j",
@@ -4829,7 +4853,43 @@
       "Link.2": null
     }
   ],
-  "L(x)e": [
+  "L(x)e_bases": [
+    {
+      "Déf.": "Dimensions \n(généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 135,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_135",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Dimensions, empattement\n(non-chargé)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "6 al.4",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_6",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Direction\n(amortisseur direction admis = reception EU ou preuve constr. ou OEA",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2b",
+      "N°.1": "4.2.4 (p.24)",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
+    },
     {
       "Déf.": "Feux positions",
       "CH": "OETV (P.3: Exig. techn.)",
@@ -4841,6 +4901,222 @@
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
+    },
+    {
+      "Déf.": "Freins\n(disques flottants admis = reception EU ou preuve OEA)",
+      "CH": "OETV (P.2: Contrôles)",
+      "Article": "34 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_34",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2b",
+      "N°.1": "4.1.3.2 (p.20)",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
+    },
+    {
+      "Déf.": "Limitation vitesse après 1ère immatriculation\n(admis = preuve OAC)",
+      "CH": "OAC ()",
+      "Article": 83,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_83",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Moteur électrique, propulsion électrique identification\n(Indications = nom, marque et puissance moteur)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 51,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_51",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Plaques de contrôle (pas oublier s'asseoir sur le véhicule)\n(angles inclinaison = 30° haut et côtés, 15° bas / hauteur = 0.2 à 1.5m)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 45,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_45",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Plaques de contrôle\n(taille = 18x14cm et 10x14cm: légers)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 45,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_45",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatiques, pneus clous\n(Généralités)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 61,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_61",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatiques, pneus clous\n(utilisation admise = 01.11 au 30.04 + disque de vitessse )",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 62,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_62",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids, masse\n(poids à vide, poids vide = prêt à rouler inclus conducteur)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "7 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids, masse (inscrire code 190)\n(poids déterminant classification = poids vide excl. conducteur et accessoires incl. batteries)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 136,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_136",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids remorquable\n(>80kg = max 50% poids déterminant classification, possible plus si frein = 12%)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "136 al.3, 3bis",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_136",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Puissance moteur électrique\n(puissance max = 30min",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 46,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_46",
+      "EU": "ECE R85.",
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Rétroviseur >15.01.2017 (avant uniquement à gauche)\n(nombre minimum = G + D excl., <=50km/h = uniquement à gauche)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 143,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_143",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Rétroviseur >15.01.2017\n(taille minimal = 69cm2, sinon 50cm2)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 143,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_143",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2b",
+      "N°.1": "4.3.4 (p.25)",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
+    },
+    {
+      "Déf.": "Roues \n(jumelée = >460mm sinon roue unique)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": 16,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_16",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Sièges enfant, places enfants (code 163 inscrire)\n(soumis annonce homologation = aucune, <7ans obligatoire + toucher repose pied)",
+      "CH": "OCR (P.2: Règles usagers route)",
+      "Article": 63,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_63",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Sigle limite vitesse maximale\n(disques vitesse facultatif = plaques jaune <45km/h)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 144,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_144",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Véhicule lents <45km/h except. tracteur et <1.3m\n(triangle signalisation obligatoire)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 68,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_68",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Véhicule vétéran (inscrire code 180 + 176 si charge remorquable)\n(instructions OFROU)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU",
+      "N°.1": "Instruction veteran",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/dokumente-strassenverkehr/weisungen/veteranenfahrzeuge.pdf.download.pdf/Instructions%20concernant%20les%20v%C3%A9hicules%20v%C3%A9t%C3%A9rans.pdf"
     }
   ],
   "Agricole": [
@@ -4941,9 +5217,10 @@
       "Link.2": null
     }
   ],
-  "L3e": [
+  "L3e_Motocycle": [],
+  "Lxe_Quadricycle": [
     {
-      "Déf.": "Freins\n(disques flottants admis = reception EU ou preuve OEA)",
+      "Déf.": "Classification\n(Quadricycle moteur = max 15kw, 0.45T personnes et 0.6T chose)",
       "CH": "OETV (P.2: Contrôles)",
       "Article": "34 al.2",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_34",
@@ -4955,34 +5232,62 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
     },
     {
-      "Déf.": "Direction\n(amortisseur direction admis = reception EU ou preuve constr. ou OEA",
+      "Déf.": "Puissance maximum\n(Quadricycle moteur = max 15kw)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 159,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_159",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    }
+  ],
+  "Lxe_CyclomoteurLeger": [
+    {
+      "Déf.": "Aide mémoire\n(prescription cyclomoteur légers)",
       "CH": null,
       "Article": null,
       "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": "ASA 2b",
-      "N°.1": "4.2.4 (p.24)",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
+      "Directives, autres": "OFROU",
+      "N°.1": "Prescription cyclomoteur",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/vorschriften-zulassung-betrieb-motorfahrraeder.pdf.download.pdf/Prescriptions_relatives_admission_utilisation_cyclomoteurs.pdf"
     },
     {
-      "Déf.": "Rétroviseur >15.01.2017\n(taille minimal = 69cm2 sinon 50cm2)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 143,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_143",
+      "Déf.": "Aide mémoire \n(mobilité douce police)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
-      "Directives, autres": "ASA 2b",
-      "N°.1": "4.3.4 (p.25)",
-      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
+      "Directives, autres": "Police",
+      "N°.1": "mobilité douce",
+      "Link.2": "https://votrepolice.ch/app/uploads/20250714-Flyer-Mobilite-douce-WEB.pdf"
+    }
+  ],
+  "PermisConduire": [
+    {
+      "Déf.": "Age minimal",
+      "CH": "OAC",
+      "Article": 6,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_6",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     },
     {
-      "Déf.": "Rétroviseur >15.01.2017 (avant uniquement à gauche)\n(nombre minimum = G + D excl., <=50km/h = uniquement à gauche)",
-      "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 143,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_143",
+      "Déf.": "Catégories",
+      "CH": "OAC",
+      "Article": 3,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_3",
       "EU": null,
       "N°": null,
       "Link.1": null,

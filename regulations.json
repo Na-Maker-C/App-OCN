@@ -4855,6 +4855,54 @@
   ],
   "L(x)e_bases": [
     {
+      "Déf.": "Catégorie motocycle \n(OETV 3)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Ceintures ! Faire application avec ceintures.xls)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Compteur vitesse ! Faire outil en ligne avec Calcul compteur (fr).xls !\n(tolérances, calcul)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Compteur vitesse\n(champ vision = direct conducteur et lisible)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Dimensions \n(généralités)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 135,
@@ -4915,6 +4963,30 @@
       "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
     },
     {
+      "Déf.": "Handicap, mobilité réduite\n(signe distinctif = pas obligatoire)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 92,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_92",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Harley davidson \n(photos, illustrations motocycles)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Harley davidson",
+      "N°.1": "photos",
+      "Link.2": "https://serviceinfo.harley-davidson.com/login"
+    },
+    {
       "Déf.": "Limitation vitesse après 1ère immatriculation\n(admis = preuve OAC)",
       "CH": "OAC ()",
       "Article": 83,
@@ -4932,6 +5004,18 @@
       "Article": 51,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_51",
       "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pare-brise, parebrise \n(Admis = verre sécurité R43 sauf si 12m pas besoin respecter)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "ECE R39",
       "N°": null,
       "Link.1": null,
       "Directives, autres": null,
@@ -4987,10 +5071,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Poids, masse\n(poids à vide, poids vide = prêt à rouler inclus conducteur)",
-      "CH": "OETV (P.1: Disposition gén.)",
-      "Article": "7 al.1",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
+      "Déf.": "Pneumatiques\n(Profil min = 1.6 mm / témoin = 0.8 mm limite constructeur)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 58,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_58",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -4999,10 +5083,10 @@
       "Link.2": null
     },
     {
-      "Déf.": "Poids, masse (inscrire code 190)\n(poids déterminant classification = poids vide excl. conducteur et accessoires incl. batteries)",
+      "Déf.": "Pneumatiques <= 45km/h\n(Profil min = aucun / témoin = 0.8 mm limite constructeur)",
       "CH": "OETV (P.3: Exig. techn.)",
-      "Article": 136,
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_136",
+      "Article": "138 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_138",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -5023,11 +5107,59 @@
       "Link.2": null
     },
     {
+      "Déf.": "Poids, masse (inscrire code 190)\n(poids déterminant classification = poids vide excl. conducteur et accessoires incl. batteries)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 136,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_136",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Poids, masse\n(poids à vide, poids vide = prêt à rouler inclus conducteur)",
+      "CH": "OETV (P.1: Disposition gén.)",
+      "Article": "7 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_7",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Puissance moteur électrique\n(puissance max = 30min",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 46,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_46",
       "EU": "ECE R85.",
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Rabaissement\n(admis = <30mm déclaration composants)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2b",
+      "N°.1": "4.5.4",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
+    },
+    {
+      "Déf.": "Retrait du permis circulation, plaques contrôle\n(non admissible sur la route)",
+      "CH": "OAC (code ",
+      "Article": 106,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/fr#art_106",
+      "EU": null,
       "N°": null,
       "Link.1": null,
       "Directives, autres": null,
@@ -5071,6 +5203,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Shifter \n(admis = non soumis à annonce et contrôle)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Sièges enfant, places enfants (code 163 inscrire)\n(soumis annonce homologation = aucune, <7ans obligatoire + toucher repose pied)",
       "CH": "OCR (P.2: Règles usagers route)",
       "Article": 63,
@@ -5095,6 +5239,42 @@
       "Link.2": null
     },
     {
+      "Déf.": "Traitements surface châssis\n(admis = attestation résistance structure ou preuve OEA)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2b",
+      "N°.1": "4.6.2",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
+    },
+    {
+      "Déf.": "Triangle panne\n(exclus motocycle et side-car)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": 90,
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_90",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Types, marque moto \n(photos, illustrations motocycles)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Types",
+      "N°.1": "Photos",
+      "Link.2": "https://www.motorcyclespecs.co.za/index.htm"
+    },
+    {
       "Déf.": "Véhicule lents <45km/h except. tracteur et <1.3m\n(triangle signalisation obligatoire)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 68,
@@ -5117,6 +5297,42 @@
       "Directives, autres": "OFROU",
       "N°.1": "Instruction veteran",
       "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/dokumente-strassenverkehr/weisungen/veteranenfahrzeuge.pdf.download.pdf/Instructions%20concernant%20les%20v%C3%A9hicules%20v%C3%A9t%C3%A9rans.pdf"
+    },
+    {
+      "Déf.": "Modifications techniques\n(soumis annonce)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "34 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_34",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Modifications techniques\n(espaces libres = 2mm roues freins, 4mm roues direction suspension, 6mm autres en charge)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "ASA 2b",
+      "N°.1": "4.5.2.3.2",
+      "Link.2": "https://asa.ch/wp-content/uploads/online-bibliothek/richtlinien/RL_2b_f_2019/index.html"
+    },
+    {
+      "Déf.": "Freins >01.01.2017 excl. <125cm3\n(système freinage avancé: ABS etc. = obligatoire )",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": "168/2013",
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
     }
   ],
   "Agricole": [
@@ -5236,6 +5452,18 @@
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": 159,
       "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_159",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Pneumatiques\n(NHS = Not for Highway Service, admis = si dans RT ou COC sinon contesté)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,

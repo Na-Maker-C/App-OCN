@@ -481,6 +481,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Base légale\n(OCE)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OCE",
+      "N°.1": "OCE",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_OCE.pdf"
+    },
+    {
       "Déf.": "Bord minimum vhc utilitaire\n(arête min 2.5mm)",
       "CH": null,
       "Article": null,
@@ -4966,7 +4978,7 @@
       "Déf.": "Catalyseur, pot catalytique\n(deffectueux = contestation)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "52 al.6",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_52",
       "EU": null,
       "N°": null,
       "Link.1": null,
@@ -4978,7 +4990,7 @@
       "Déf.": "Catalyseur, pot catalytique\n(homologation = 97/24/CE chapitre 5)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "52 al.6",
-      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_52",
       "EU": "97/24/CE",
       "N°": null,
       "Link.1": null,
@@ -5419,13 +5431,13 @@
       "Link.2": null
     },
     {
-      "Déf.": "Freins >01.01.2017 excl. <125cm3\n(système freinage avancé: ABS etc. = obligatoire )",
+      "Déf.": "Freins >01.01.2017 excl. <125cm3 (en dessous L3e), L3e-AxT trial, L3e-AxE enduro\n(système freinage avancé: ABS etc. = obligatoire )",
       "CH": null,
       "Article": null,
       "Link": null,
-      "EU": null,
-      "N°": "168/2013",
-      "Link.1": null,
+      "EU": "UE/168/2013",
+      "N°": "A8 (L60/123)",
+      "Link.1": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32013R0168",
       "Directives, autres": null,
       "N°.1": null,
       "Link.2": null
@@ -6249,7 +6261,6 @@
       "Link.2": null
     }
   ],
-  "L3e_Motocycle": [],
   "Lxe_Quadricycle": [
     {
       "Déf.": "Classification\n(Quadricycle moteur = max 15kw, 0.45T personnes et 0.6T chose)",
@@ -6306,6 +6317,56 @@
       "Link": null,
       "EU": "UNECE",
       "N°": "168/2013/CE",
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    }
+  ],
+  "Lxe_Leger": [
+    {
+      "Déf.": "Aide mémoire\n(prescription cyclomoteur légers)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU",
+      "N°.1": "Prescription cyclomoteur",
+      "Link.2": "https://www.astra.admin.ch/dam/astra/fr/dokumente/fahrzeuge/vorschriften-zulassung-betrieb-motorfahrraeder.pdf.download.pdf/Prescriptions_relatives_admission_utilisation_cyclomoteurs.pdf"
+    },
+    {
+      "Déf.": "Aide mémoire \n(mobilité douce police)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "Police",
+      "N°.1": "mobilité douce",
+      "Link.2": "https://votrepolice.ch/app/uploads/20250714-Flyer-Mobilite-douce-WEB.pdf"
+    },
+    {
+      "Déf.": "Compteur vitesse\n(facultatif = <= 25km/h",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "178b al.3",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_178",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Eclairage\n(feux de plaque = facultatif)",
+      "CH": "OETV (P.3: Exig. techn.)",
+      "Article": "151 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/fr#art_151",
+      "EU": null,
+      "N°": null,
       "Link.1": null,
       "Directives, autres": null,
       "N°.1": null,

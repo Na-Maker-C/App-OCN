@@ -6497,6 +6497,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Dépassement: motocycles\n(si circulation, file arrêtée = dépassement interdit)",
+      "CH": "LCR",
+      "Article": "47 al.2",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_47",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
       "Déf.": "Priorité: Changement voie\n(priorité à celui sur l'autre voie)",
       "CH": "LCR",
       "Article": "44 al.1",
@@ -6521,7 +6533,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Priorité: Giratoire, rond point, carrefour\n(priorité de gauche, si 2 voies en entrée et une voie giratoire aussi)",
+      "Déf.": "Priorité: Giratoire, rond point, carrefour\n(priorité de gauche, si 2 voies en entrée et une voie giratoire aussi)\nmots clés: giratoire priorité moto",
       "CH": "OCR",
       "Article": "41b al.1",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_41_b",

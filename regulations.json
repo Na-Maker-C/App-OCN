@@ -4609,6 +4609,18 @@
       "Link.2": null
     },
     {
+      "Déf.": "Vétéran\n(modifications autorisées => véhicule irréprochable)",
+      "CH": null,
+      "Article": null,
+      "Link": null,
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": "OFROU",
+      "N°.1": "Instructions 10.07.2026",
+      "Link.2": "GithubDesktop_AppOCN\\Tuto_PDF\\Tuto_OFROU_Veteran.pdf"
+    },
+    {
       "Déf.": "Vitres\n(déflecteur air = incolores, transparent, retroviseur visible)",
       "CH": "OETV (P.3: Exig. techn.)",
       "Article": "71a al.6",
@@ -6533,7 +6545,7 @@
       "Link.2": null
     },
     {
-      "Déf.": "Priorité: Giratoire, rond point, carrefour\n(priorité de gauche, si 2 voies en entrée et une voie giratoire aussi)\nmots clés: giratoire priorité moto",
+      "Déf.": "Priorité: Giratoire, rond point, carrefour\n(priorité de gauche, si 2 voies en entrée et une voie giratoire aussi)",
       "CH": "OCR",
       "Article": "41b al.1",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/fr#art_41_b",
@@ -6561,6 +6573,30 @@
       "CH": "LCR",
       "Article": "32 al.1",
       "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_32",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Cours éducation routière\n(allègement durée retrait permis = durée minimale ne peut être réduite)",
+      "CH": "LCR",
+      "Article": "17 al.1",
+      "Link": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/fr#art_17",
+      "EU": null,
+      "N°": null,
+      "Link.1": null,
+      "Directives, autres": null,
+      "N°.1": null,
+      "Link.2": null
+    },
+    {
+      "Déf.": "Refus contrôle police ",
+      "CH": null,
+      "Article": null,
+      "Link": null,
       "EU": null,
       "N°": null,
       "Link.1": null,
